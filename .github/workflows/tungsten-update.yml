@@ -2,6 +2,10 @@ name: Update tungsten tracker
 
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/tungsten-update.yml'
+      - 'tungsten-tracker/collector.py'
   schedule:
     - cron: '25 0,6,12,18 * * *'
 
