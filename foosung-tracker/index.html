@@ -3,169 +3,155 @@
 <head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="robots" content="noindex,nofollow">
-<title>후성 WF6 · LiPF6 실시간 트래커</title>
+<title>후성 WF6 · LiPF6 선행 트래커</title>
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
 <style>
-:root{--bg:#08111b;--p:#0e1b28;--p2:#12273a;--line:#24445d;--txt:#edf6fd;--mut:#94acbd;--g:#69e3aa;--y:#ffd278;--r:#ff8585;--b:#65bfff;--a:#58dfd0}
+:root{--bg:#07111b;--p:#0d1b28;--p2:#12273a;--line:#23455e;--txt:#eef7fd;--mut:#91aabc;--g:#68e1aa;--y:#ffd277;--r:#ff8585;--b:#63beff;--a:#58dfd0}
 *{box-sizing:border-box}body{margin:0;background:radial-gradient(circle at 10% 0,#12342f 0,transparent 30%),var(--bg);color:var(--txt);font-family:Inter,Pretendard,"Noto Sans KR",sans-serif}
-.wrap{max-width:1260px;margin:auto;padding:22px}.head{display:flex;justify-content:space-between;gap:18px;align-items:flex-start}.ey{font-size:11px;letter-spacing:.13em;color:var(--a);font-weight:900}
+.wrap{max-width:1280px;margin:auto;padding:22px}.head{display:flex;justify-content:space-between;gap:18px;align-items:flex-start}.ey{font-size:11px;letter-spacing:.13em;color:var(--a);font-weight:900}
 h1{font-size:clamp(28px,4vw,44px);margin:6px 0}.mut{color:var(--mut)}.stamp{background:#0a1722;border:1px solid var(--line);border-radius:14px;padding:11px 13px;font-size:12px}
-.panel,.box{background:linear-gradient(180deg,var(--p2),var(--p));border:1px solid var(--line);border-radius:18px}.panel{padding:17px}.box{padding:14px}
-.top{display:grid;grid-template-columns:.75fr 1.25fr;gap:12px;margin:17px 0}.score{display:flex;align-items:center;gap:15px}.scoreNum{font-size:56px;font-weight:950}.scoreTxt{font-size:13px}.headline{font-size:27px;font-weight:900;margin:5px 0 10px}.simple{display:grid;gap:7px}.simple div{background:#091722;border:1px solid var(--line);padding:10px;border-radius:11px;font-size:14px}
+.panel,.box{background:linear-gradient(180deg,var(--p2),var(--p));border:1px solid var(--line);border-radius:18px}.panel{padding:17px}.box{padding:12px}
+.top{display:grid;grid-template-columns:.72fr 1.28fr;gap:12px;margin:17px 0}.score{display:flex;align-items:center;gap:15px}.scoreNum{font-size:58px;font-weight:950}.headline{font-size:26px;font-weight:900;margin:6px 0 10px}.simple{display:grid;gap:7px}.simple div{background:#091722;border:1px solid var(--line);padding:10px;border-radius:11px;font-size:14px}
 .grid2{display:grid;grid-template-columns:1fr 1fr;gap:12px}.material{padding:18px}.mhead{display:flex;justify-content:space-between;align-items:center}.tag{border-radius:999px;padding:6px 10px;font-size:12px;font-weight:900}.good{background:#123b30;color:var(--g)}.watch{background:#3c3216;color:var(--y)}.bad{background:#431f26;color:var(--r)}
-.pqc{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin:13px 0}.kpi{background:#091722;border:1px solid var(--line);border-radius:12px;padding:11px}.lab{font-size:10px;color:var(--mut)}.val{font-size:21px;font-weight:900;margin:5px 0 3px}.delta{font-size:11px}.up{color:var(--g)}.dn{color:var(--r)}.neutral{color:var(--y)}
+.pqc{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin:13px 0}.kpi{background:#091722;border:1px solid var(--line);border-radius:12px;padding:11px}.lab{font-size:10px;color:var(--mut)}.val{font-size:20px;font-weight:900;margin:5px 0 3px}.delta{font-size:11px}.up{color:var(--g)}.dn{color:var(--r)}.neutral{color:var(--y)}
 .effect{display:grid;gap:7px;margin-top:11px}.effect div{display:grid;grid-template-columns:92px 1fr auto;gap:8px;align-items:center;background:#0a1824;padding:9px 10px;border-radius:10px}.arrow{font-size:18px;font-weight:900}
 .section{margin-top:12px}.section h2{font-size:17px;margin:0 0 10px}.changes{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}.change{background:#091722;border:1px solid var(--line);border-radius:12px;padding:11px}.change b{display:block;font-size:17px;margin-top:4px}
-.chart{height:270px}.table{width:100%;border-collapse:collapse}.table td{padding:9px 6px;border-bottom:1px solid #193247;font-size:13px}.table td:first-child{color:var(--mut)}
-details{margin-top:12px}summary{cursor:pointer;font-weight:900}.cards5{display:grid;grid-template-columns:repeat(5,1fr);gap:8px;margin-top:12px}.item{padding:10px;border:1px solid var(--line);border-radius:11px;background:#091722;margin-top:7px}.meta{font-size:10px;color:var(--mut)}a{color:#dff5ff}.foot{font-size:11px;line-height:1.65;color:var(--mut);margin-top:14px}
-@media(max-width:900px){.top,.grid2{grid-template-columns:1fr}.changes{grid-template-columns:1fr 1fr}.cards5{grid-template-columns:1fr 1fr}.pqc{grid-template-columns:1fr 1fr}.head{flex-direction:column}.chart{height:230px}}
-@media(max-width:540px){.wrap{padding:13px}.changes,.pqc{grid-template-columns:1fr}.scoreNum{font-size:48px}}
+.chart{height:310px}.table{width:100%;border-collapse:collapse}.table td{padding:9px 6px;border-bottom:1px solid #193247;font-size:13px}.table td:first-child{color:var(--mut)}
+.bridgeGrid{display:grid;grid-template-columns:1fr 1fr;gap:10px}.bridgeCard{background:#091722;border:1px solid var(--line);border-radius:15px;padding:14px}.bridgeHead{display:flex;justify-content:space-between;align-items:flex-start}.bigNum{font-size:30px;font-weight:950;margin:5px 0}.bar{height:9px;background:#14293a;border-radius:99px;overflow:hidden;margin:8px 0}.bar>span{display:block;height:100%;background:linear-gradient(90deg,#55dfcf,#68e1aa);border-radius:99px}.bridgeRows{display:grid;gap:6px;margin-top:10px}.bridgeRow{display:grid;grid-template-columns:1fr auto;gap:8px;font-size:12px;padding:6px 0;border-bottom:1px dashed #1d3850}
+.annual{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin-top:10px}.annual .box b{font-size:20px;display:block;margin-top:3px}
+details{margin-top:12px}summary{cursor:pointer;font-weight:900}.cards5{display:grid;grid-template-columns:repeat(5,1fr);gap:8px;margin-top:12px}.item{padding:10px;border:1px solid var(--line);border-radius:11px;background:#091722;margin-top:7px}.meta{font-size:10px;color:var(--mut)}a{color:#dff5ff}.foot{font-size:11px;line-height:1.65;color:var(--mut);margin-top:14px}.sourceNote{font-size:10px;color:var(--mut);margin-top:7px}
+@media(max-width:900px){.top,.grid2,.bridgeGrid{grid-template-columns:1fr}.changes{grid-template-columns:1fr 1fr}.cards5{grid-template-columns:1fr 1fr}.pqc{grid-template-columns:1fr 1fr}.annual{grid-template-columns:1fr 1fr}.head{flex-direction:column}.chart{height:260px}}
+@media(max-width:540px){.wrap{padding:13px}.changes,.pqc,.annual{grid-template-columns:1fr}.scoreNum{font-size:48px}}
 </style>
 </head>
 <body><div class="wrap">
 <div class="head">
- <div><div class="ey">FOOSUNG LEADING INDICATOR TRACKER</div><h1>후성 WF6 · LiPF6 실시간 트래커</h1><div class="mut">목적: 가격(P) · 물량(Q) · 원가(C)를 보고 후성의 매출·마진 변곡을 실적 발표 전에 추적</div></div>
- <div class="stamp">WF6 데이터 <b id="wfDate">—</b><br>LiPF6 데이터 <b id="liDate">—</b><br><span id="state" class="mut">로딩중</span></div>
+ <div><div class="ey">FOOSUNG LEADING INDICATOR TRACKER</div><h1>후성 WF6 · LiPF6 선행 트래커</h1><div class="mut">P(가격) · Q(물량) · C(원가) → 후성 매출·마진 → 3Q/4Q 영업이익까지 연결</div></div>
+ <div class="stamp">WF6 <b id="wfDate">—</b><br>LiPF6 <b id="liDate">—</b><br><span id="state" class="mut">로딩중</span></div>
 </div>
 
 <div class="top">
- <section class="panel score"><div id="score" class="scoreNum">—</div><div><div class="ey">후성 선행점수</div><div id="scoreLabel" class="headline" style="font-size:21px">계산 중</div><div id="scoreReason" class="scoreTxt mut"></div></div></section>
- <section class="panel"><div class="ey">오늘의 결론</div><div id="headline" class="headline">계산 중…</div><div id="simple" class="simple"></div></section>
+ <section class="panel score"><div id="score" class="scoreNum">—</div><div><div class="ey">후성 선행점수</div><div id="scoreLabel" class="headline" style="font-size:21px">계산 중</div><div id="scoreReason" class="mut" style="font-size:12px"></div></div></section>
+ <section class="panel"><div class="ey">지금 한 줄 결론</div><div id="headline" class="headline">계산 중…</div><div id="simple" class="simple"></div></section>
 </div>
 
 <div class="grid2">
- <section class="panel material">
-  <div class="mhead"><div><div class="ey">반도체 특수가스</div><h2 style="margin:3px 0">WF6</h2></div><span id="wfTag" class="tag">—</span></div>
-  <div id="wfPqc" class="pqc"></div>
-  <div id="wfEffect" class="effect"></div>
- </section>
- <section class="panel material">
-  <div class="mhead"><div><div class="ey">2차전지 전해질염</div><h2 style="margin:3px 0">LiPF6</h2></div><span id="liTag" class="tag">—</span></div>
-  <div id="liPqc" class="pqc"></div>
-  <div id="liEffect" class="effect"></div>
- </section>
+ <section class="panel material"><div class="mhead"><div><div class="ey">반도체 특수가스</div><h2 style="margin:3px 0">WF6</h2></div><span id="wfTag" class="tag">—</span></div><div id="wfPqc" class="pqc"></div><div id="wfEffect" class="effect"></div></section>
+ <section class="panel material"><div class="mhead"><div><div class="ey">2차전지 전해질염</div><h2 style="margin:3px 0">LiPF6</h2></div><span id="liTag" class="tag">—</span></div><div id="liPqc" class="pqc"></div><div id="liEffect" class="effect"></div></section>
 </div>
 
-<section class="panel section"><h2>이번에 무엇이 바뀌었나 → 후성에는 무슨 뜻인가</h2><div id="changes" class="changes"></div></section>
+<section class="panel section">
+ <div class="ey">EARNINGS BRIDGE</div><h2 style="font-size:20px;margin-top:5px">후성 예상 실적 브리지 — 시장 기대보다 위인가?</h2>
+ <div id="bridge" class="bridgeGrid"></div>
+ <div id="annual" class="annual"></div>
+ <div class="foot">트래커 추정치는 회사 가이던스가 아닙니다. 중국 spot spread가 후성 계약가격에 일부만, 시차를 두고 반영된다는 보수적 실현율을 적용합니다.</div>
+</section>
+
+<section class="panel section"><h2>무엇이 바뀌었나 → 후성에는 무슨 뜻인가</h2><div id="changes" class="changes"></div></section>
 
 <div class="grid2 section">
- <section class="panel"><h2>WF6 가격 vs 원료비</h2><div class="chart"><canvas id="wfChart"></canvas></div><div id="wfExplain" class="foot"></div></section>
- <section class="panel"><h2>LiPF6 가격 vs 원료비</h2><div class="chart"><canvas id="liChart"></canvas></div><div id="liExplain" class="foot"></div></section>
+ <section class="panel"><h2>WF6 vs W powder — 2025년부터</h2><div class="chart"><canvas id="wfChart"></canvas></div><div class="foot">첫 공개 확인값=100. 빈 달은 임의 숫자를 넣지 않고 인접 공개 확인값을 연결합니다.</div></section>
+ <section class="panel"><h2>LiPF6 vs 탄산리튬 — 2025년부터</h2><div class="chart"><canvas id="liChart"></canvas></div><div class="foot">단기 2개 점이 아니라 약 21개월 사이클을 보기 위한 공개 확인값 앵커입니다.</div></section>
 </div>
 
 <div class="grid2 section">
  <section class="panel"><h2>실적·리포트에서 이미 확인된 후성 변화</h2><table id="confirmed" class="table"></table></section>
- <section class="panel"><h2>앞으로 점수 올리고 내릴 핵심 조건</h2><div id="triggers"></div></section>
+ <section class="panel"><h2>점수 상향·하향 조건</h2><div id="triggers"></div></section>
 </div>
 
 <details class="panel"><summary>상세보기: 텅스텐 공급망 · APT · W powder · WC</summary><div id="tungsten" class="cards5"></div><div id="events"></div></details>
-<details class="panel"><summary>상세보기: 중국 수출 Q · 관련주 · 뉴스</summary><div id="tradeDetail"></div><div class="grid2"><div id="equities"></div><div id="news"></div></div></details>
-<div class="foot">주의: proxy spread는 실제 후성 매출총이익률이 아닙니다. WF6에는 불소계 원료·정제·용기·수율·계약가격, LiPF6에는 LiF/HF/PCl5·수율·에너지·계약가격 등이 추가됩니다. 따라서 이 페이지는 “방향”과 “변곡” 추적용입니다.</div>
+<details class="panel"><summary>상세보기: 중국 수출 Q · 관련주 · 뉴스 · 데이터 출처</summary><div id="tradeDetail"></div><div class="grid2"><div id="equities"></div><div id="news"></div></div><div id="sources"></div></details>
+<div class="foot">Proxy spread는 실제 후성 매출총이익률이 아닙니다. WF6에는 불소계 원료·정제·용기·수율·계약가격, LiPF6에는 LiF/HF/PCl5·수율·에너지·계약가격 등이 추가됩니다.</div>
 </div>
 
 <script>
-const $=s=>document.querySelector(s),F={w:.6172640143,apt:.8795814161,li:.2432};
-const pct=(a,b)=>a!=null&&b?((a/b-1)*100):null;
-const pp=(a,b)=>a!=null&&b!=null?a-b:null;
-const sign=x=>x==null?'—':(x>=0?'+':'')+x.toFixed(1)+'%';
+const $=s=>document.querySelector(s),F={w:.6172640143,li:.2432};
+const pct=(a,b)=>a!=null&&b?((a/b-1)*100):null, sign=x=>x==null?'—':(x>=0?'+':'')+x.toFixed(1)+'%';
 const cls=x=>x==null?'neutral':x>0?'up':x<0?'dn':'neutral';
 const fmt=(v,u)=>v==null?'—':u==='CNY/kg'?Number(v).toLocaleString('ko-KR')+' 위안/kg':u==='CNY/t'?(Number(v)/10000).toFixed(2)+'만 위안/t':Number(v).toLocaleString('ko-KR');
+const eok=v=>Math.round(v*10)+'억';
 const k=(lab,val,delta)=>'<div class="kpi"><div class="lab">'+lab+'</div><div class="val">'+val+'</div><div class="delta '+cls(delta)+'">'+(delta==null?'':sign(delta))+'</div></div>';
 const eff=(lab,txt,dir)=>'<div><b>'+lab+'</b><span>'+txt+'</span><span class="arrow '+(dir==='+'?'up':dir==='-'?'dn':'neutral')+'">'+(dir==='+'?'↑':dir==='-'?'↓':'→')+'</span></div>';
 const change=(lab,val,txt,good)=>'<div class="change"><div class="lab">'+lab+'</div><b class="'+(good>0?'up':good<0?'dn':'neutral')+'">'+val+'</b><div class="mut">'+txt+'</div></div>';
 
 async function boot(){
  const b=await (await fetch('./data.json?'+Date.now())).json();
- const p=b.latest.prices, th=[...(b.history||[])].sort((a,z)=>a.date.localeCompare(z.date)), bh=[...(b.battery?.history||[])].sort((a,z)=>a.date.localeCompare(z.date));
- const olderRef=(arr,last,days=7)=>{if(!last?.date)return arr.at(-2)||{};const cut=new Date(last.date+'T00:00:00Z').getTime()-days*86400000;return [...arr].reverse().find(x=>new Date(x.date+'T00:00:00Z').getTime()<=cut)||arr.at(-2)||{}};
- const t=th.at(-1)||{}, tp=olderRef(th,th.at(-1),7), l=bh.at(-1)||{}, lp=olderRef(bh,bh.at(-1),7), bt=b.battery?.latest||{}, tr=b.trade||{};
- $('#wfDate').textContent=b.latest?.source_date||'—'; $('#liDate').textContent=bt.as_of||'—'; $('#state').textContent=(b.latest?.collector?.status||'ready')+' · 하루 4회 자동 확인';
+ const p=b.latest.prices, bt=b.battery.latest, tr=b.trade||{}, eb=b.earnings_bridge, hl=b.history_long||{};
+ const th=(hl.tungsten||[]).sort((a,z)=>a.date.localeCompare(z.date)), bh=(hl.battery||[]).sort((a,z)=>a.date.localeCompare(z.date));
+ $('#wfDate').textContent=b.latest.source_date||'—';$('#liDate').textContent=bt.as_of||'—';$('#state').textContent=(b.latest.collector?.status||'ready')+' · 하루 4회 자동 확인';
 
- const wf=p.wf6_5n?.value, wp=p.w_powder?.value, apt=p.apt?.value, wfP=pct(t.wf6_5n,tp.wf6_5n), wP=pct(t.w_powder,tp.w_powder);
- const wfSpread=wf!=null&&wp!=null?wf-wp*F.w:null, prevWfSpread=tp.wf6_5n!=null&&tp.w_powder!=null?tp.wf6_5n-tp.w_powder*F.w:null, wfS=pct(wfSpread,prevWfSpread);
- const wq=tr.wf6||{};
- const li=bt.lipf6?.value, lc=bt.lithium_carbonate?.value, liP=pct(l.lipf6,lp.lipf6), lcP=pct(l.lithium_carbonate,lp.lithium_carbonate), utilD=pp(l.utilization_pct,lp.utilization_pct);
- const liSpread=li!=null&&lc!=null?li-lc*F.li:null, prevLiSpread=lp.lipf6!=null&&lp.lithium_carbonate!=null?lp.lipf6-lp.lithium_carbonate*F.li:null, liS=pct(liSpread,prevLiSpread);
- const lq=tr.lipf6||{};
+ const wf=p.wf6_5n.value,wp=p.w_powder.value,li=bt.lipf6.value,lc=bt.lithium_carbonate.value,wq=tr.wf6||{},lq=tr.lipf6||{};
+ const ref=eb.model.reference;
+ const wfSpread=wf-wp*F.w, wfRef=ref.wf6_cny_kg-ref.w_powder_cny_kg*F.w, wfDelta=wfSpread-wfRef, wfSpreadPct=pct(wfSpread,wfRef);
+ const liSpread=li-lc*F.li, liRef=ref.lipf6_cny_t-ref.lithium_carbonate_cny_t*F.li, liDelta=liSpread-liRef, liSpreadPct=pct(liSpread,liRef);
+ const wfPricePct=pct(wf,ref.wf6_cny_kg),wpPct=pct(wp,ref.w_powder_cny_kg),liPricePct=pct(li,ref.lipf6_cny_t),lcPct=pct(lc,ref.lithium_carbonate_cny_t);
 
  let score=45;
- if(wf>=1780)score+=10;if(wP<0)score+=8;if(wfS>0)score+=8;
- if(wq.mom_pct>0)score+=5;if(wq.freshness==='update_wait')score-=3;
- if(liP>=0)score+=5;if(lcP<0)score+=6;if(liS>0)score+=6;if((bt.utilization_pct||0)>=85)score+=4;
+ if(wf>=1780)score+=10;if(wpPct<0)score+=8;if(wfSpreadPct>0)score+=8;
+ if(wq.mom_pct>0)score+=5; else if(wq.yoy_pct>50)score+=2;
+ if(liPricePct>=0)score+=5;if(lcPct<0)score+=6;if(liSpreadPct>0)score+=6;if((bt.utilization_pct||0)>=85)score+=4;
  if((lq.mom_pct||0)<0)score-=7;
  score=Math.max(0,Math.min(100,Math.round(score)));
  $('#score').textContent=score;
- let sl=score>=90?'컨빅션 구간':score>=85?'적극매수 구간':score>=75?'초기매수 구간':score>=65?'시험매수/추적':'보수적 관찰';
- $('#scoreLabel').textContent=sl;
- $('#scoreReason').textContent='7일 이상 전 기준과 비교. WF6 가격 방어·원료 하락은 강한 플러스, LiPF6 판가·원가·가동률도 개선. 다만 WF6 수출 최신월 공백과 LiPF6 8월 수출 감소를 감점.';
+ $('#scoreLabel').textContent=score>=90?'컨빅션 구간':score>=85?'적극매수 구간':score>=75?'초기매수 구간':score>=65?'시험매수/추적':'보수적 관찰';
+ $('#scoreReason').textContent='6월 말 기준 대비 P·C·spread와 최신 수출 Q를 반영. 8월 WF6 수출 급감은 감점하지만 YoY +92.5%, 수출 ASP 상승은 긍정.';
 
- const wfGood=wf>=1780&&wP<=0;
- $('#wfTag').textContent=wfGood?'좋음':'확인 필요';$('#wfTag').className='tag '+(wfGood?'good':'watch');
- $('#wfPqc').innerHTML=
-  k('P · WF6 판매가격',fmt(wf,'CNY/kg'),wfP)+
-  k('Q · 中 수출',wq.export_t?Number(wq.export_t).toFixed(1)+'t':'업데이트 대기',wq.mom_pct)+
-  k('C · W powder',fmt(wp,'CNY/kg'),wP);
- $('#wfEffect').innerHTML=
-  eff('매출','WF6 가격이 고점 유지 → ASP 방어에 유리','+')+
-  eff('마진','W powder 하락 → 원료 부담 감소','+')+
-  eff('물량',wq.freshness==='update_wait'?'수출 최신월 미확인 → Q는 보수적으로 봄':'중국 수출 증가 → 글로벌 수요 확인',wq.freshness==='update_wait'?'0':(wq.mom_pct>0?'+':'-'));
+ $('#wfTag').textContent='마진 우호';$('#wfTag').className='tag good';
+ $('#wfPqc').innerHTML=k('P · WF6',fmt(wf,'CNY/kg'),wfPricePct)+k('Q · 中 수출',wq.export_t.toFixed(1)+'t',wq.mom_pct)+k('C · W powder',fmt(wp,'CNY/kg'),wpPct);
+ $('#wfEffect').innerHTML=eff('매출','WF6 가격이 6월보다 상승 → ASP 방향 긍정','+')+eff('마진','W powder 급락 → spread 약 '+sign(wfSpreadPct),'+' )+eff('물량','8월 수출은 MoM '+sign(wq.mom_pct)+'지만 YoY '+sign(wq.yoy_pct),'0');
 
- const liGood=liP>=0&&lcP<0&&(bt.utilization_pct||0)>=85;
- $('#liTag').textContent=liGood?'개선':'혼조';$('#liTag').className='tag '+(liGood?'good':'watch');
- $('#liPqc').innerHTML=
-  k('P · LiPF6 가격',fmt(li,'CNY/t'),liP)+
-  k('Q · 中 수출',lq.export_t?Number(lq.export_t).toFixed(1)+'t':'—',lq.mom_pct)+
-  k('C · 탄산리튬',fmt(lc,'CNY/t'),lcP);
- $('#liEffect').innerHTML=
-  eff('매출','LiPF6 판가 소폭 상승 → 매출단가에 우호','+')+
-  eff('마진','탄산리튬 하락 → 원료 proxy 개선','+')+
-  eff('물량','업계 가동률 '+(bt.utilization_pct??'—')+'%이나 8월 수출은 '+sign(lq.mom_pct)+' → 국내/해외 수요 혼조','0');
+ $('#liTag').textContent='적자 축소 방향';$('#liTag').className='tag good';
+ $('#liPqc').innerHTML=k('P · LiPF6',fmt(li,'CNY/t'),liPricePct)+k('Q · 中 수출',lq.export_t.toFixed(1)+'t',lq.mom_pct)+k('C · 탄산리튬',fmt(lc,'CNY/t'),lcPct);
+ $('#liEffect').innerHTML=eff('매출','LiPF6 판가가 6월보다 높음','+')+eff('마진','탄산리튬 하락 → spread 약 '+sign(liSpreadPct),'+' )+eff('가동','중국 업계 가동률 '+bt.utilization_pct+'% · 수요는 높지만 수출은 조정','0');
 
- $('#headline').textContent='지금 핵심은 “WF6는 이익 확대, LiPF6는 적자 축소 가능성”';
- $('#simple').innerHTML=
-  '<div><b>WF6:</b> 제품값은 안 내려가는데 텅스텐 원료는 내려갑니다. <b>후성 마진에는 가장 좋은 조합</b>입니다.</div>'+
-  '<div><b>LiPF6:</b> 제품값은 오르고 탄산리튬은 내려갑니다. <b>적자 축소 방향</b>입니다. 다만 중국 수출은 8월 감소해 물량은 한 단계 보수적으로 봅니다.</div>'+
-  '<div><b>후성:</b> 두 사업이 동시에 좋아지면 매출보다 <b>영업이익 탄력</b>이 더 크게 나타날 수 있습니다. 다음 실적에서 ASP·가동률·출하량 확인이 중요합니다.</div>';
+ $('#headline').textContent='WF6는 이익 확대, LiPF6는 적자 축소 — 컨센서스 상회 가능성 추적';
+ $('#simple').innerHTML='<div><b>WF6:</b> 6월 대비 제품가는 높고 W powder는 크게 낮습니다. 후성 특수가스 이익에는 가장 좋은 조합입니다.</div>'+
+ '<div><b>LiPF6:</b> 제품가는 높고 탄산리튬은 낮아졌습니다. 2,000t 라인 가동과 맞물리면 적자 축소 속도가 빨라질 수 있습니다.</div>'+
+ '<div><b>실적:</b> 아래 브리지는 현재 P/Q/C가 후성 계약가격에 일부만 반영된다고 가정해 3Q·4Q 영업이익을 컨센서스와 비교합니다.</div>';
 
- $('#changes').innerHTML=
-  change('WF6',sign(wfP),'가격 유지 → ASP 방어',wfP>=0?1:-1)+
-  change('W powder',sign(wP),'원료 하락 → WF6 마진 개선',wP<0?1:-1)+
-  change('WF6 proxy spread',sign(wfS),'제품-원료 간격 확대',wfS>0?1:-1)+
-  change('LiPF6',sign(liP),'판가 상승 → 매출단가 개선',liP>=0?1:-1)+
-  change('탄산리튬',sign(lcP),'원료 하락 → LiPF6 원가 개선',lcP<0?1:-1)+
-  change('LiPF6 中 수출',sign(lq.mom_pct),'8월 해외 수요는 약화',lq.mom_pct>=0?1:-1);
+ // Earnings bridge
+ const m=eb.model, fx=m.cnykrw;
+ const wfTheoBn=wfDelta*m.wf6_quarter_capacity_t*1000*fx/1e9;
+ const liTheoBn=liDelta*m.lipf6_quarter_volume_t*fx/1e9;
+ const q3Wf=wfTheoBn*m.q3.wf6_realization, q3Li=liTheoBn*m.q3.lipf6_realization;
+ const q4Wf=wfTheoBn*m.q4.wf6_realization, q4Li=liTheoBn*m.q4.lipf6_realization;
+ const q3Est=eb.consensus.q3.op_krw_bn+q3Wf+q3Li+m.q3.other_bridge_krw_bn+m.q3.volume_ramp_krw_bn;
+ const q4Est=eb.consensus.q4_implied.op_krw_bn+q4Wf+q4Li+m.q4.other_bridge_krw_bn+m.q4.volume_ramp_krw_bn;
+ const q3Gap=pct(q3Est,eb.consensus.q3.op_krw_bn),q4Gap=pct(q4Est,eb.consensus.q4_implied.op_krw_bn);
+ const bridgeCard=(q,cons,est,gap,lo,hi,wfi,lii,other,vol,note)=>'<div class="bridgeCard"><div class="bridgeHead"><div><div class="ey">'+q+'</div><div class="bigNum">'+eok(est)+'</div><div class="mut">트래커 추정 · 범위 '+eok(lo)+'~'+eok(hi)+'</div></div><span class="tag '+(gap>=0?'good':'bad')+'">컨센 대비 '+sign(gap)+'</span></div><div class="bar"><span style="width:'+Math.min(100,Math.max(5,est/Math.max(est,cons)*100))+'%"></span></div><div class="bridgeRows"><div class="bridgeRow"><span>시장 컨센서스</span><b>'+eok(cons)+'</b></div><div class="bridgeRow"><span>WF6 spread 효과</span><b class="'+cls(wfi)+'">'+(wfi>=0?'+':'')+eok(wfi)+'</b></div><div class="bridgeRow"><span>LiPF6 spread 효과</span><b class="'+cls(lii)+'">'+(lii>=0?'+':'')+eok(lii)+'</b></div><div class="bridgeRow"><span>가동률/신규라인</span><b class="'+cls(vol)+'">'+(vol>=0?'+':'')+eok(vol)+'</b></div><div class="bridgeRow"><span>한텍·냉매·기타 보정</span><b class="'+cls(other)+'">'+(other>=0?'+':'')+eok(other)+'</b></div></div><div class="sourceNote">'+note+'</div></div>';
+ $('#bridge').innerHTML=
+ bridgeCard('2026 3Q',eb.consensus.q3.op_krw_bn,q3Est,q3Gap,m.range.q3_low_krw_bn,m.range.q3_high_krw_bn,q3Wf,q3Li,m.q3.other_bridge_krw_bn,m.q3.volume_ramp_krw_bn,'WF6 spot 개선의 20%, LiPF6 spread 개선의 60%만 분기 반영')+
+ bridgeCard('2026 4Q',eb.consensus.q4_implied.op_krw_bn,q4Est,q4Gap,m.range.q4_low_krw_bn,m.range.q4_high_krw_bn,q4Wf,q4Li,m.q4.other_bridge_krw_bn,m.q4.volume_ramp_krw_bn,'WF6 계약 재가격 시차와 LiPF6 추가 라인 램프 효과를 일부 반영');
+ const fyEst=eb.actual.q1_op_krw_bn+eb.actual.q2_op_krw_bn+q3Est+q4Est,fyGap=pct(fyEst,eb.consensus.fy26.op_krw_bn);
+ $('#annual').innerHTML='<div class="box"><div class="lab">2026 OP 컨센</div><b>'+eok(eb.consensus.fy26.op_krw_bn)+'</b></div><div class="box"><div class="lab">트래커 2026 OP</div><b class="up">'+eok(fyEst)+'</b></div><div class="box"><div class="lab">컨센 대비</div><b class="'+cls(fyGap)+'">'+sign(fyGap)+'</b></div><div class="box"><div class="lab">핵심 가정</div><b>계약 반영 시차</b><div class="mut">spot 100% 반영 아님</div></div>';
 
- $('#wfExplain').textContent='첫 관측값을 100으로 놓은 상대지수입니다. WF6 선이 버티고 W powder 선이 내려갈수록 후성 WF6 마진에는 유리합니다.';
- $('#liExplain').textContent='LiPF6 선이 탄산리튬보다 강하면 원료 대비 제품 가격 여건이 좋아집니다. 중국 수출 Q는 별도로 봐야 합니다.';
+ $('#changes').innerHTML=change('WF6 가격',sign(wfPricePct),'6월 대비 상승 → ASP 우호',1)+change('W powder',sign(wpPct),'6월 대비 하락 → 원가 우호',1)+change('WF6 spread',sign(wfSpreadPct),'특수가스 이익 레버리지 확대',1)+change('LiPF6 가격',sign(liPricePct),'6월 대비 상승',1)+change('탄산리튬',sign(lcPct),'6월 대비 하락 → 원가 우호',1)+change('LiPF6 수출',sign(lq.mom_pct),'8월 해외 Q는 조정',-1);
 
- $('#confirmed').innerHTML=(b.foosung?.confirmed||[]).map(x=>'<tr><td>'+x.metric+'</td><td><b>'+x.value+'</b></td></tr>').join('');
- $('#triggers').innerHTML=
-  '<div class="item"><b class="up">점수 상향</b><div>WF6 중국 수출 최신월 재증가 + 후성 WF6 출하/가동률 개선 확인</div></div>'+
-  '<div class="item"><b class="up">추가 상향</b><div>LiPF6 판가 유지 + 후성 생산량/가동률 증가 + 적자 축소 확인</div></div>'+
-  '<div class="item"><b class="dn">점수 하향</b><div>WF6 가격 하락 + W powder 반등, 또는 LiPF6 가격 하락/수출 감소가 동시에 지속</div></div>'+
-  '<div class="item"><b>가설 폐기</b><div>두 소재 모두 P↓·Q↓·C↑ 조합으로 2개월 이상 악화될 때</div></div>';
+ $('#confirmed').innerHTML=(b.foosung.confirmed||[]).map(x=>'<tr><td>'+x.metric+'</td><td><b>'+x.value+'</b></td></tr>').join('');
+ $('#triggers').innerHTML='<div class="item"><b class="up">추정치 상향</b><div>WF6 1,800+ 유지 + W powder 900 이하 + 후성 ASP/출하 증가 확인</div></div><div class="item"><b class="up">4Q 추가 상향</b><div>LiPF6 신규 2,000t 라인 상업가동 + 생산량 가이던스 상향</div></div><div class="item"><b class="dn">추정치 하향</b><div>WF6 수출 2개월 연속 급감·가격 하락, 또는 LiPF6 판가 하락과 가동률 하락 동반</div></div><div class="item"><b>모델 폐기</b><div>실제 후성 ASP·원가가 중국 spot과 반대로 움직이는 것이 실적에서 확인될 때</div></div>';
 
- const baseT=th[0]||{};
- new Chart($('#wfChart'),{type:'line',data:{labels:th.map(x=>x.date),datasets:[
-  {label:'WF6',data:th.map(x=>baseT.wf6_5n?x.wf6_5n/baseT.wf6_5n*100:null),tension:.25,spanGaps:true},
-  {label:'W powder',data:th.map(x=>baseT.w_powder?x.w_powder/baseT.w_powder*100:null),tension:.25,spanGaps:true}
- ]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{labels:{color:'#c9dae6'}}},scales:{x:{ticks:{color:'#94acbd'},grid:{color:'#173044'}},y:{ticks:{color:'#94acbd'},grid:{color:'#173044'}}}}});
- const baseB=bh[0]||{};
- new Chart($('#liChart'),{type:'line',data:{labels:bh.map(x=>x.date),datasets:[
-  {label:'LiPF6',data:bh.map(x=>baseB.lipf6?x.lipf6/baseB.lipf6*100:null),tension:.25,spanGaps:true},
-  {label:'Li2CO3',data:bh.map(x=>baseB.lithium_carbonate?x.lithium_carbonate/baseB.lithium_carbonate*100:null),tension:.25,spanGaps:true}
- ]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{labels:{color:'#c9dae6'}}},scales:{x:{ticks:{color:'#94acbd'},grid:{color:'#173044'}},y:{ticks:{color:'#94acbd'},grid:{color:'#173044'}}}}});
+ // Long history charts, normalized to first known observation per series
+ const base=(arr,key)=>arr.find(x=>x[key]!=null)?.[key];
+ const wb=base(th,'wf6_5n'),wpb=base(th,'w_powder');
+ new Chart($('#wfChart'),{type:'line',data:{labels:th.map(x=>x.date.slice(0,7)),datasets:[
+  {label:'WF6 5N',data:th.map(x=>x.wf6_5n!=null?x.wf6_5n/wb*100:null),tension:.2,spanGaps:true},
+  {label:'W powder',data:th.map(x=>x.w_powder!=null?x.w_powder/wpb*100:null),tension:.2,spanGaps:true}
+ ]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{labels:{color:'#cadbe7'}},tooltip:{callbacks:{afterBody:(items)=>'공개 확인값 앵커'}}},scales:{x:{ticks:{color:'#91aabc',maxRotation:0,autoSkip:true,maxTicksLimit:10},grid:{color:'#173044'}},y:{ticks:{color:'#91aabc'},grid:{color:'#173044'}}}}});
+ const lb=base(bh,'lipf6'),lcb=base(bh,'lithium_carbonate');
+ new Chart($('#liChart'),{type:'line',data:{labels:bh.map(x=>x.date.slice(0,7)),datasets:[
+  {label:'LiPF6',data:bh.map(x=>x.lipf6!=null?x.lipf6/lb*100:null),tension:.2,spanGaps:true},
+  {label:'Li2CO3',data:bh.map(x=>x.lithium_carbonate!=null?x.lithium_carbonate/lcb*100:null),tension:.2,spanGaps:true}
+ ]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{labels:{color:'#cadbe7'}},tooltip:{callbacks:{afterBody:(items)=>'공개 확인값 앵커'}}},scales:{x:{ticks:{color:'#91aabc',maxRotation:0,autoSkip:true,maxTicksLimit:10},grid:{color:'#173044'}},y:{ticks:{color:'#91aabc'},grid:{color:'#173044'}}}}});
 
- $('#tungsten').innerHTML=[
-  ['정광',p.concentrate],['APT',p.apt],['W powder',p.w_powder],['WC',p.wc_powder],['WF6 5N',p.wf6_5n]
- ].map(([n,x])=>'<div class="box"><div class="lab">'+n+'</div><div class="val">'+fmt(x?.value,x?.unit)+'</div><div class="mut">'+(x?.grade||'')+'</div></div>').join('');
- $('#events').innerHTML=(b.events||[]).slice().reverse().map(e=>'<div class="item"><div class="meta">'+e.date+' · '+e.type+'</div><b>'+e.title+'</b><div class="mut">'+(e.note||'')+'</div></div>').join('');
+ $('#tungsten').innerHTML=[['정광',p.concentrate],['APT',p.apt],['W powder',p.w_powder],['WC',p.wc_powder],['WF6 5N',p.wf6_5n]].map(([n,x])=>'<div class="box"><div class="lab">'+n+'</div><div class="val">'+fmt(x.value,x.unit)+'</div><div class="mut">'+(x.grade||'')+'</div></div>').join('');
+ $('#events').innerHTML=(b.events||[]).slice().reverse().map(e=>'<div class="item"><div class="meta">'+e.date+' · '+e.type+'</div><b>'+e.title+'</b><div class="mut">'+e.note+'</div></div>').join('');
 
- $('#tradeDetail').innerHTML=
-  '<div class="item"><b>WF6 중국 수출</b><div>'+wq.latest_month+' · '+(wq.export_t??'—')+'t · MoM '+sign(wq.mom_pct)+' · ASP $'+(wq.asp_usd_kg??'—')+'/kg</div><div class="mut">'+(wq.note||'')+'</div></div>'+
-  '<div class="item"><b>LiPF6 중국 수출</b><div>'+lq.latest_month+' · '+(lq.export_t??'—')+'t · MoM '+sign(lq.mom_pct)+' · YoY '+sign(lq.yoy_pct)+'</div><div class="mut">수출 감소는 LiPF6 Q 측 감점. 가격·원가 개선과 분리해서 봅니다.</div></div>';
- $('#equities').innerHTML='<h2>관련주</h2>'+((b.equities||{}).items||[]).map(e=>'<div class="item"><b>'+e.ticker+' · '+e.name+'</b><div class="'+cls(e.change_pct)+'">'+(e.price??'—')+' · '+sign(e.change_pct)+'</div><div class="mut">'+(e.role||'')+'</div></div>').join('');
- $('#news').innerHTML='<h2>최근 뉴스</h2>'+(b.news||[]).slice(0,8).map(n=>'<div class="item"><div class="meta">'+(n.published||'')+' · '+(n.stage||'')+'</div><a target="_blank" rel="noopener" href="'+n.url+'">'+n.title+'</a></div>').join('');
+ $('#tradeDetail').innerHTML='<div class="item"><b>WF6 중국 수출</b><div>'+wq.latest_month+' · '+wq.export_t.toFixed(3)+'t · MoM '+sign(wq.mom_pct)+' · YoY '+sign(wq.yoy_pct)+' · ASP $'+wq.asp_usd_kg+'/kg</div><div class="mut">'+wq.note+'</div></div>'+
+ '<div class="item"><b>LiPF6 중국 수출</b><div>'+lq.latest_month+' · '+lq.export_t+'t · MoM '+sign(lq.mom_pct)+' · YoY '+sign(lq.yoy_pct)+'</div><div class="mut">가격·원가 개선과 Q 감소를 분리해서 점수화합니다.</div></div>';
+ $('#equities').innerHTML='<h2>관련주</h2>'+((b.equities||{}).items||[]).map(e=>'<div class="item"><b>'+e.ticker+' · '+e.name+'</b><div class="'+cls(e.change_pct)+'">'+(e.price??'—')+' · '+sign(e.change_pct)+'</div><div class="mut">'+e.role+'</div></div>').join('');
+ $('#news').innerHTML='<h2>최근 뉴스</h2>'+(b.news||[]).slice(0,8).map(n=>'<div class="item"><div class="meta">'+(n.published||'')+' · '+n.stage+'</div><a target="_blank" rel="noopener" href="'+n.url+'">'+n.title+'</a></div>').join('');
+ $('#sources').innerHTML='<h2>장기 시계열 출처</h2>'+(hl.sources||[]).map(s=>'<div class="item"><a href="'+s.url+'" target="_blank" rel="noopener">'+s.label+'</a></div>').join('')+'<div class="item"><b>실적 컨센서스</b><div><a href="'+eb.consensus.source_url+'" target="_blank" rel="noopener">2026-10-01 기준 3Q / FY26 컨센서스</a></div><div class="mut">'+eb.consensus.note+'</div></div>';
 }
 boot();
-</script></body></html>
+</script>
+</body></html>
