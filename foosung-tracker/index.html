@@ -77,7 +77,8 @@ const change=(lab,val,txt,good)=>'<div class="change"><div class="lab">'+lab+'</
 async function boot(){
  const b=await (await fetch('./data.json?'+Date.now())).json();
  const p=b.latest.prices, th=[...(b.history||[])].sort((a,z)=>a.date.localeCompare(z.date)), bh=[...(b.battery?.history||[])].sort((a,z)=>a.date.localeCompare(z.date));
- const t=th.at(-1)||{}, tp=th.at(-2)||{}, l=bh.at(-1)||{}, lp=bh.at(-2)||{}, bt=b.battery?.latest||{}, tr=b.trade||{};
+ const olderRef=(arr,last,days=7)=>{if(!last?.date)return arr.at(-2)||{};const cut=new Date(last.date+'T00:00:00Z').getTime()-days*86400000;return [...arr].reverse().find(x=>new Date(x.date+'T00:00:00Z').getTime()<=cut)||arr.at(-2)||{}};
+ const t=th.at(-1)||{}, tp=olderRef(th,th.at(-1),7), l=bh.at(-1)||{}, lp=olderRef(bh,bh.at(-1),7), bt=b.battery?.latest||{}, tr=b.trade||{};
  $('#wfDate').textContent=b.latest?.source_date||'—'; $('#liDate').textContent=bt.as_of||'—'; $('#state').textContent=(b.latest?.collector?.status||'ready')+' · 하루 4회 자동 확인';
 
  const wf=p.wf6_5n?.value, wp=p.w_powder?.value, apt=p.apt?.value, wfP=pct(t.wf6_5n,tp.wf6_5n), wP=pct(t.w_powder,tp.w_powder);
@@ -87,16 +88,16 @@ async function boot(){
  const liSpread=li!=null&&lc!=null?li-lc*F.li:null, prevLiSpread=lp.lipf6!=null&&lp.lithium_carbonate!=null?lp.lipf6-lp.lithium_carbonate*F.li:null, liS=pct(liSpread,prevLiSpread);
  const lq=tr.lipf6||{};
 
- let score=50;
- if(wf>=1780)score+=10;if(wP<=0)score+=7;if(wfS>0)score+=8;
- if(wq.mom_pct>0)score+=7;else if(wq.freshness==='update_wait')score-=2;
- if(liP>=0)score+=5;if(lcP<0)score+=6;if(liS>0)score+=6;if((bt.utilization_pct||0)>=85)score+=5;
- if((lq.mom_pct||0)<0)score-=5;
+ let score=45;
+ if(wf>=1780)score+=10;if(wP<0)score+=8;if(wfS>0)score+=8;
+ if(wq.mom_pct>0)score+=5;if(wq.freshness==='update_wait')score-=3;
+ if(liP>=0)score+=5;if(lcP<0)score+=6;if(liS>0)score+=6;if((bt.utilization_pct||0)>=85)score+=4;
+ if((lq.mom_pct||0)<0)score-=7;
  score=Math.max(0,Math.min(100,Math.round(score)));
  $('#score').textContent=score;
- let sl=score>=90?'컨빅션 관찰':score>=85?'적극매수 조건권':score>=75?'초기매수/추적':score>=65?'시험매수/추적':'보수적 관찰';
+ let sl=score>=90?'컨빅션 구간':score>=85?'적극매수 구간':score>=75?'초기매수 구간':score>=65?'시험매수/추적':'보수적 관찰';
  $('#scoreLabel').textContent=sl;
- $('#scoreReason').textContent='WF6 가격 방어와 원료 하락은 강한 플러스. LiPF6도 판가·원가·가동률은 개선됐지만 8월 중국 수출 감소는 감점.';
+ $('#scoreReason').textContent='7일 이상 전 기준과 비교. WF6 가격 방어·원료 하락은 강한 플러스, LiPF6 판가·원가·가동률도 개선. 다만 WF6 수출 최신월 공백과 LiPF6 8월 수출 감소를 감점.';
 
  const wfGood=wf>=1780&&wP<=0;
  $('#wfTag').textContent=wfGood?'좋음':'확인 필요';$('#wfTag').className='tag '+(wfGood?'good':'watch');
