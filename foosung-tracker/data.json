@@ -32,9 +32,9 @@
         "source": "Mysteel"
       },
       "wf6_5n": {
-        "value": 1810.0,
-        "low": 1780.0,
-        "high": 1840.0,
+        "value": 1810,
+        "low": 1780,
+        "high": 1840,
         "unit": "CNY/kg",
         "label": "WF6 5N",
         "grade": "99.999%, 47L",
@@ -100,7 +100,7 @@
       "apt": 565000,
       "w_powder": 870,
       "wc_powder": 830,
-      "wf6_5n": 1810.0,
+      "wf6_5n": 1810,
       "note": "auto collector"
     }
   ],
@@ -364,7 +364,7 @@
       },
       {
         "ticker": "093370.KS",
-        "price": 16390.0,
+        "price": 16390,
         "change_pct": 17.4910394265233,
         "currency": "KRW",
         "exchange": "KSC",
@@ -456,16 +456,16 @@
         "source": "Mysteel"
       },
       "lithium_carbonate": {
-        "value": 120250.0,
-        "low": 118500.0,
-        "high": 122000.0,
+        "value": 120250,
+        "low": 118500,
+        "high": 122000,
         "unit": "CNY/t",
         "label": "Battery-grade Li2CO3",
         "grade": "≥99.5%",
         "source": "Mysteel"
       },
       "utilization_pct": 91.8,
-      "production_t_month": 31000.0,
+      "production_t_month": 31000,
       "source": "Mysteel"
     },
     "history": [
@@ -480,9 +480,9 @@
       {
         "date": "2026-10-03",
         "lipf6": 117000,
-        "lithium_carbonate": 120250.0,
+        "lithium_carbonate": 120250,
         "utilization_pct": 91.8,
-        "production_t_month": 31000.0,
+        "production_t_month": 31000,
         "note": "auto collector"
       }
     ]
@@ -521,15 +521,15 @@
   },
   "trade": {
     "wf6": {
-      "latest_month": "2026-07",
-      "export_t": 79.677,
-      "mom_pct": 77.1,
-      "yoy_pct": 118,
-      "export_value_usd": 18392000,
-      "asp_usd_kg": 230.84,
-      "freshness": "update_wait",
-      "source": "China Customs / industry aggregation",
-      "note": "8월 이후 월별 데이터는 확인되는 즉시 갱신. 오래된 Q는 점수에서 감점."
+      "latest_month": "2026-08",
+      "export_t": 44.965,
+      "mom_pct": -43.57,
+      "yoy_pct": 92.49,
+      "asp_usd_kg": 241.54,
+      "freshness": "verified",
+      "source": "China Customs / Longzhong-Mysteel",
+      "source_url": "https://m.mysteel.com/oilchem/a/26092413/B847B588796AC29E_abc.html",
+      "note": "7월 79.677t 급증 뒤 8월 44.965t로 조정. 다만 YoY +92.49%, ASP $241.54/kg로 가격은 더 상승."
     },
     "lipf6": {
       "latest_month": "2026-08",
@@ -573,6 +573,362 @@
         "export_t": 1130.8,
         "mom_pct": -14.6
       }
+    ],
+    "wf6_history": [
+      {
+        "month": "2025-06",
+        "export_t": 16.735,
+        "asp_usd_kg": 46.84
+      },
+      {
+        "month": "2025-07",
+        "export_t": 36.48,
+        "asp_usd_kg": 52.33
+      },
+      {
+        "month": "2025-10",
+        "export_t": 16.586,
+        "asp_usd_kg": 54.57
+      },
+      {
+        "month": "2025-12",
+        "export_t": 24.29,
+        "asp_usd_kg": 51.2
+      },
+      {
+        "month": "2026-02",
+        "export_t": 29.215,
+        "asp_usd_kg": 69.11
+      },
+      {
+        "month": "2026-07",
+        "export_t": 79.677,
+        "asp_usd_kg": 230.84
+      },
+      {
+        "month": "2026-08",
+        "export_t": 44.965,
+        "asp_usd_kg": 241.54
+      }
     ]
+  },
+  "history_long": {
+    "note": "공개 확인값 앵커. 월별 데이터가 없는 구간은 차트에서 인접 확인값을 연결해 방향만 표시.",
+    "tungsten": [
+      {
+        "date": "2025-01-15",
+        "wf6_5n": 470,
+        "w_powder": null,
+        "source": "Longzhong/Mysteel 2025 annual review"
+      },
+      {
+        "date": "2025-02-21",
+        "wf6_5n": null,
+        "w_powder": 317,
+        "source": "Mysteel weekly"
+      },
+      {
+        "date": "2025-03-07",
+        "wf6_5n": null,
+        "w_powder": 314,
+        "source": "Mysteel weekly"
+      },
+      {
+        "date": "2025-04-11",
+        "wf6_5n": null,
+        "w_powder": 318,
+        "source": "Mysteel weekly"
+      },
+      {
+        "date": "2025-05-09",
+        "wf6_5n": null,
+        "w_powder": 332,
+        "source": "Mysteel weekly"
+      },
+      {
+        "date": "2025-06-06",
+        "wf6_5n": null,
+        "w_powder": 385,
+        "source": "Ganzhou Tungsten Association via Mysteel"
+      },
+      {
+        "date": "2025-07-08",
+        "wf6_5n": null,
+        "w_powder": 387,
+        "source": "Ganzhou Tungsten Association via Mysteel"
+      },
+      {
+        "date": "2025-08-06",
+        "wf6_5n": null,
+        "w_powder": 440,
+        "source": "Ganzhou Tungsten Association via Mysteel"
+      },
+      {
+        "date": "2025-09-08",
+        "wf6_5n": null,
+        "w_powder": 650,
+        "source": "Ganzhou Tungsten Association via Mysteel"
+      },
+      {
+        "date": "2025-10-10",
+        "wf6_5n": null,
+        "w_powder": 625,
+        "source": "Ganzhou Tungsten Association via Mysteel"
+      },
+      {
+        "date": "2025-11-05",
+        "wf6_5n": 900,
+        "w_powder": 720,
+        "source": "Longzhong/Mysteel annual review; Ganzhou Tungsten Association"
+      },
+      {
+        "date": "2026-01-27",
+        "wf6_5n": 945,
+        "w_powder": 1150,
+        "source": "Longzhong/Mysteel; Ganzhou Tungsten Association"
+      },
+      {
+        "date": "2026-03-06",
+        "wf6_5n": 980,
+        "w_powder": null,
+        "source": "Longzhong/Mysteel spot"
+      },
+      {
+        "date": "2026-04-28",
+        "wf6_5n": 1730,
+        "w_powder": 2350,
+        "source": "Longzhong/Mysteel spot; Ganzhou Tungsten Association"
+      },
+      {
+        "date": "2026-05-27",
+        "wf6_5n": 1736,
+        "w_powder": 1920,
+        "source": "Longzhong/Mysteel monthly avg; Ganzhou Tungsten Association"
+      },
+      {
+        "date": "2026-06-09",
+        "wf6_5n": 1760,
+        "w_powder": 1300,
+        "source": "Longzhong/Mysteel monthly guidance; Ganzhou Tungsten Association"
+      },
+      {
+        "date": "2026-07-31",
+        "wf6_5n": 1795,
+        "w_powder": 1100,
+        "source": "tracker/Mysteel"
+      },
+      {
+        "date": "2026-08-31",
+        "wf6_5n": 1801,
+        "w_powder": 1000,
+        "source": "tracker/Mysteel; Ganzhou Tungsten Association"
+      },
+      {
+        "date": "2026-09-30",
+        "wf6_5n": 1810,
+        "w_powder": 930,
+        "source": "Longzhong/Mysteel; Ganzhou Tungsten Association"
+      },
+      {
+        "date": "2026-10-02",
+        "wf6_5n": 1810,
+        "w_powder": 870,
+        "source": "Longzhong/Mysteel"
+      }
+    ],
+    "battery": [
+      {
+        "date": "2025-01-15",
+        "lipf6": 63000,
+        "lithium_carbonate": 78000,
+        "source": "SMM 2025 H1 review"
+      },
+      {
+        "date": "2025-03-13",
+        "lipf6": 60900,
+        "lithium_carbonate": 74450,
+        "source": "SMM"
+      },
+      {
+        "date": "2025-06-24",
+        "lipf6": 51700,
+        "lithium_carbonate": 59900,
+        "source": "SMM H1 low/reference"
+      },
+      {
+        "date": "2025-07-30",
+        "lipf6": 53250,
+        "lithium_carbonate": null,
+        "source": "SMM"
+      },
+      {
+        "date": "2025-08-27",
+        "lipf6": 55500,
+        "lithium_carbonate": 85000,
+        "source": "SMM/industry quote"
+      },
+      {
+        "date": "2025-09-30",
+        "lipf6": 54253,
+        "lithium_carbonate": null,
+        "source": "SMM monthly avg"
+      },
+      {
+        "date": "2025-10-31",
+        "lipf6": 55158,
+        "lithium_carbonate": null,
+        "source": "SMM monthly avg"
+      },
+      {
+        "date": "2025-11-29",
+        "lipf6": 58750,
+        "lithium_carbonate": null,
+        "source": "SMM spot"
+      },
+      {
+        "date": "2025-12-26",
+        "lipf6": 167000,
+        "lithium_carbonate": 111900,
+        "source": "EVTank/SMM; SMM"
+      },
+      {
+        "date": "2026-03-13",
+        "lipf6": 111000,
+        "lithium_carbonate": null,
+        "source": "SMM"
+      },
+      {
+        "date": "2026-06-24",
+        "lipf6": 103500,
+        "lithium_carbonate": 158250,
+        "source": "SMM/Mysteel reference"
+      },
+      {
+        "date": "2026-07-22",
+        "lipf6": 100500,
+        "lithium_carbonate": null,
+        "source": "SMM"
+      },
+      {
+        "date": "2026-08-31",
+        "lipf6": 120000,
+        "lithium_carbonate": null,
+        "source": "SMM"
+      },
+      {
+        "date": "2026-09-30",
+        "lipf6": 117000,
+        "lithium_carbonate": 120250,
+        "source": "Mysteel/SMM"
+      },
+      {
+        "date": "2026-10-03",
+        "lipf6": 117000,
+        "lithium_carbonate": 120250,
+        "source": "Mysteel"
+      }
+    ],
+    "sources": [
+      {
+        "label": "WF6 2025 annual review",
+        "url": "https://m.mysteel.com/oilchem/a/25120514/4938419FFB94FA7A_abc.html"
+      },
+      {
+        "label": "WF6 Jan 2026",
+        "url": "https://m.mysteel.com/oilchem/a/26052619/985D6328320ED1AF_abc.html"
+      },
+      {
+        "label": "WF6 Mar 2026",
+        "url": "https://www.mysteel.com/oilchem/a/26052619/C341CC563746F78F.html"
+      },
+      {
+        "label": "WF6 Apr 2026",
+        "url": "https://m.mysteel.com/oilchem/a/26052619/4EBD852730B15D22_abc.html"
+      },
+      {
+        "label": "WF6 May 2026",
+        "url": "https://www.mysteel.com/oilchem/a/26052715/461AF3E5CFD2FFD3.html"
+      },
+      {
+        "label": "W powder history",
+        "url": "https://list1.mysteel.com/zhishi/wfdsqygj.html"
+      },
+      {
+        "label": "W powder 2026",
+        "url": "https://list1.mysteel.com/zhishi/wfscyc.html"
+      },
+      {
+        "label": "LiPF6 2025 H1/Jul-Aug",
+        "url": "https://news.smm.cn/keywords/%E5%85%AD%E6%B0%9F%E7%A3%B7%E9%85%B8%E9%94%82?page=4"
+      },
+      {
+        "label": "LiPF6 2025 Q4",
+        "url": "https://news.smm.cn/keywords/%E5%85%AD%E6%B0%9F%E7%A3%B7%E9%85%B8%E9%94%82?page=5"
+      },
+      {
+        "label": "LiPF6 2026",
+        "url": "https://new-energy.smm.cn/content/14042/103820183"
+      }
+    ]
+  },
+  "earnings_bridge": {
+    "as_of": "2026-10-03",
+    "consensus": {
+      "source_date": "2026-10-01",
+      "q3": {
+        "revenue_krw_bn": 189.9,
+        "op_krw_bn": 24.3
+      },
+      "fy26": {
+        "revenue_krw_bn": 690.8,
+        "op_krw_bn": 76.5
+      },
+      "q4_implied": {
+        "revenue_krw_bn": 171.3,
+        "op_krw_bn": 19.5
+      },
+      "note": "Q4 implied = FY26 consensus - Q1 actual - Q2 actual - Q3 consensus. 분기·연간 컨센서스 참여자 차이 가능.",
+      "source_url": "https://pflow.keywordegg.com/domestic/093370/earnings"
+    },
+    "actual": {
+      "q1_op_krw_bn": 9.3,
+      "q2_op_krw_bn": 23.4
+    },
+    "model": {
+      "cnykrw": 195,
+      "wf6_quarter_capacity_t": 225,
+      "lipf6_quarter_volume_t": 462.5,
+      "reference": {
+        "date": "2026-06",
+        "wf6_cny_kg": 1760,
+        "w_powder_cny_kg": 1300,
+        "lipf6_cny_t": 103500,
+        "lithium_carbonate_cny_t": 158250
+      },
+      "q3": {
+        "wf6_realization": 0.2,
+        "lipf6_realization": 0.6,
+        "other_bridge_krw_bn": -1,
+        "volume_ramp_krw_bn": 0
+      },
+      "q4": {
+        "wf6_realization": 0.3,
+        "lipf6_realization": 0.8,
+        "other_bridge_krw_bn": -1,
+        "volume_ramp_krw_bn": 1
+      },
+      "range": {
+        "q3_low_krw_bn": 25.5,
+        "q3_high_krw_bn": 29.5,
+        "q4_low_krw_bn": 22,
+        "q4_high_krw_bn": 28.5
+      },
+      "assumptions_note": [
+        "중국 spot spread가 후성 계약 ASP/원가에 전부 즉시 반영되지 않는다고 보고 WF6 실현율 20%(3Q), 30%(4Q)만 적용.",
+        "LiPF6는 2026년 생산 1,800~1,900t 가이던스 중간값을 분기 환산하고 원료 proxy 개선의 60%(3Q), 80%(4Q)만 반영.",
+        "한텍·냉매·기타 사업은 별도 예측 오차를 감안해 분기 -10억원 조정. 4Q LiPF6 추가 라인 램프 효과 +10억원 가정.",
+        "실제 장기계약 단가·원재료 조달가·재고평가 차이 때문에 방향성 모델이며 회사 가이던스가 아님."
+      ]
+    }
   }
 }
