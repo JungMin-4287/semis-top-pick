@@ -1,6 +1,6 @@
 {
   "latest": {
-    "as_of": "2026-10-03T17:17:54.242987+08:00",
+    "as_of": "2026-10-03T17:42:51.377408+08:00",
     "source_date": "2026-10-01",
     "prices": {
       "concentrate": {
@@ -32,9 +32,9 @@
         "source": "Mysteel"
       },
       "wf6_5n": {
-        "value": 1810,
-        "low": 1780,
-        "high": 1840,
+        "value": 1810.0,
+        "low": 1780.0,
+        "high": 1840.0,
         "unit": "CNY/kg",
         "label": "WF6 5N",
         "grade": "99.999%, 47L",
@@ -100,7 +100,7 @@
       "apt": 565000,
       "w_powder": 870,
       "wc_powder": 830,
-      "wf6_5n": 1810,
+      "wf6_5n": 1810.0,
       "note": "auto collector"
     }
   ],
@@ -176,8 +176,8 @@
     },
     {
       "published": "Mon, 28 Sep 2026 22:57:45 GMT",
-      "title": "Global Tungsten Supply Takes Center Stage as New Projects Move Forward - streetwisereports.com",
-      "source": "streetwisereports.com",
+      "title": "Global Tungsten Supply Takes Center Stage as New Projects Move Forward - Streetwise Reports",
+      "source": "Streetwise Reports",
       "stage": "materials",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTVVVT2dTbGlwdk5wZ0dDWS1YXzhKdUlHWmhqRzgzZHdCQThKSzJoa3pCdXJHT2lYUnlyM0pSaGxlbU5yMkdwNTJGcl83VzFuR1JPQjB0aGI5T09OaW1Db0hpUXRBU0paaE9yS3VNZ01wbjFPOXkyMEJwdFNmQ2t5T0xVTFRnVjR6SVItOHk5U1B4WXRJdEtleDJBcFFYaG9wV1liOUMwdkpFZm42X3F2VVV0TWRLREZVTkxRNGZpVU9lNm5KR2FJ?oc=5"
     },
@@ -218,8 +218,8 @@
     },
     {
       "published": "Sun, 27 Sep 2026 14:48:00 GMT",
-      "title": "The US has a tungsten problem. Recycling could be part of the solution - interestingengineering.com",
-      "source": "interestingengineering.com",
+      "title": "The US has a tungsten problem. Recycling could be part of the solution - Interesting Engineering",
+      "source": "Interesting Engineering",
       "stage": "materials",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRHM4aTRjb21zWGliXzBLLUdTbzlocklaSWptejY2eVV1dHgwUnU4VDNfTW5MQWNXcmZnd2RXYTRBUXZINENqYmhOaUY0UUxXM2lJUy04eWtlZDdyZnE4Q2dLdWtQbXFUNDJTbFlpRHNHbElpbnh2ZUZwcHJOOGxXd0tJLTdTUQ?oc=5"
     },
@@ -274,15 +274,15 @@
     },
     {
       "published": "Thu, 01 Oct 2026 15:33:25 GMT",
-      "title": "Adamera Completes Underground Inspection of the Talisman Tungsten Mine, Washington State - TheNewswire",
-      "source": "TheNewswire",
+      "title": "Adamera Completes Underground Inspection of the Talisman Tungsten Mine, Washington State - thenewswire.com",
+      "source": "thenewswire.com",
       "stage": "mine/concentrate",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdDBZLXhUOW5wREs1OWc2Q2E4Uk5LbUgwdWxPdnF0b3l4cWYtOHlzdnRFdUNGQjVhallfaC12UEU3SUQ1N09jWDRXZjFFMzJnQXNISzdRRkJZMDNRU0hVOHYzVE51VEEtZlBwQ2c2SEVMd1FQbUx6MGl4cWZwVTE4M2h4UUtaaV9VZ0pGVkNWc015aXcxYUJOSWxrWnJBQWRreDFqMDNYOFBMRlZzcjJaZldHd3ZnMGhYbS1TTWVoZDhuc1k2LVNjcUJKY2V6ZnA5N3c1akxkN180UDk3RkE?oc=5"
     },
     {
       "published": "Mon, 28 Sep 2026 12:26:04 GMT",
-      "title": "Tungsten Hexafluoride Gas Market To 2035: Semiconductor Demand Drives Growth - News and Statistics - IndexBox",
-      "source": "IndexBox",
+      "title": "Tungsten Hexafluoride Gas Market To 2035: Semiconductor Demand Drives Growth - News and Statistics - indexbox.io",
+      "source": "indexbox.io",
       "stage": "WF6",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPV0VMODJXVjBlcXoxM0kxX0M3dy1uRVFEVWZwOU9hWUpZTnFhUzhzSjNadFRjQ203YmJpVVBEeTNJTzNBaGVEWGVpUXZVTF9oRWpVRUhreEtLVU16em1UR0l4QmRfYTBRTUNDdzRZSDl1OUF0TC1VZjQ2d2tOMW1WWjNwR2l4TkhSeHBUdWxsdm1nTDdNTWdHOXI5bzRWWjBuZ2NfQlViZGdRQzRySHVIMUlrVks?oc=5"
     },
@@ -316,8 +316,8 @@
     },
     {
       "published": "Wed, 30 Sep 2026 12:53:52 GMT",
-      "title": "Tungsten Market Value Estimates Vary, but Upward Trajectory Is Clear - IndexBox",
-      "source": "IndexBox",
+      "title": "Tungsten Market Value Estimates Vary, but Upward Trajectory Is Clear - indexbox.io",
+      "source": "indexbox.io",
       "stage": "materials",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSHRiQmtjTzBOaGRDMFZNXzJhNS1WUTVEQ0Y2X0F1M1V2VDhzOGZWVmJEeS1tUlI5Q0FEQjBVY2otWk1PbXAwZEh5RldRNHNTQ3UtNG1IcEQ4SGNUbU1mcFhfZ3VvbkFlSW5lQWVRcng3YWNCczVCYy0xbGgzckx3c21BakZGN1h5SWF2VHRWU1R6MXhUdGRkVXpXVmlidw?oc=5"
     },
@@ -351,7 +351,7 @@
     }
   ],
   "equities": {
-    "as_of": "2026-10-03T09:17:53.131993+00:00",
+    "as_of": "2026-10-03T09:42:50.435111+00:00",
     "items": [
       {
         "ticker": "ALM",
@@ -364,7 +364,7 @@
       },
       {
         "ticker": "093370.KS",
-        "price": 16390,
+        "price": 16390.0,
         "change_pct": 17.4910394265233,
         "currency": "KRW",
         "exchange": "KSC",
@@ -456,16 +456,16 @@
         "source": "Mysteel"
       },
       "lithium_carbonate": {
-        "value": 120250,
-        "low": 118500,
-        "high": 122000,
+        "value": 120250.0,
+        "low": 118500.0,
+        "high": 122000.0,
         "unit": "CNY/t",
         "label": "Battery-grade Li2CO3",
         "grade": "≥99.5%",
         "source": "Mysteel"
       },
       "utilization_pct": 91.8,
-      "production_t_month": 31000,
+      "production_t_month": 31000.0,
       "source": "Mysteel"
     },
     "history": [
@@ -480,9 +480,9 @@
       {
         "date": "2026-10-03",
         "lipf6": 117000,
-        "lithium_carbonate": 120250,
+        "lithium_carbonate": 120250.0,
         "utilization_pct": 91.8,
-        "production_t_month": 31000,
+        "production_t_month": 31000.0,
         "note": "auto collector"
       }
     ]
