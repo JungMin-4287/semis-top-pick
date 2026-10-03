@@ -1,0 +1,39 @@
+name: Update tungsten tracker
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '25 0,6,12,18 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: tungsten-tracker-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install dependencies
+        run: pip install requests==2.32.3 beautifulsoup4==4.12.3 feedparser==6.0.11
+      - name: Collect data
+        run: python tungsten-tracker/collector.py
+      - name: Commit data
+        run: |
+          git config user.name "tungsten-tracker-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add tungsten-tracker/data.json
+          if git diff --cached --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+          git commit -m "data: update tungsten tracker"
+          git push
