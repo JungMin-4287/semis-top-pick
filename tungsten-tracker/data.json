@@ -32,9 +32,9 @@
         "source": "Mysteel"
       },
       "wf6_5n": {
-        "value": 1810.0,
-        "low": 1780.0,
-        "high": 1840.0,
+        "value": 1810,
+        "low": 1780,
+        "high": 1840,
         "unit": "CNY/kg",
         "label": "WF6 5N",
         "grade": "99.999%, 47L",
@@ -100,7 +100,7 @@
       "apt": 565000,
       "w_powder": 870,
       "wc_powder": 830,
-      "wf6_5n": 1810.0,
+      "wf6_5n": 1810,
       "note": "auto collector"
     }
   ],
@@ -357,7 +357,7 @@
       },
       {
         "ticker": "093370.KS",
-        "price": 16390.0,
+        "price": 16390,
         "change_pct": 17.4910394265233,
         "currency": "KRW",
         "exchange": "KSC",
@@ -435,5 +435,80 @@
         "role": "관련 광물/시장 센티먼트"
       }
     ]
+  },
+  "battery": {
+    "latest": {
+      "as_of": "2026-10-03",
+      "lipf6": {
+        "value": 117000,
+        "low": 107000,
+        "high": 127000,
+        "unit": "CNY/t",
+        "label": "LiPF6",
+        "grade": "≥99.95%",
+        "source": "Mysteel"
+      },
+      "lithium_carbonate": {
+        "value": 120250,
+        "low": 118500,
+        "high": 122000,
+        "unit": "CNY/t",
+        "label": "Battery-grade Li2CO3",
+        "grade": "≥99.5%",
+        "source": "Mysteel"
+      },
+      "utilization_pct": 91.8,
+      "production_t_month": 31000,
+      "source": "Mysteel"
+    },
+    "history": [
+      {
+        "date": "2026-09-17",
+        "lipf6": 115500,
+        "lithium_carbonate": 127600,
+        "utilization_pct": 84.9,
+        "production_t_month": 31000,
+        "note": "tracker seed"
+      },
+      {
+        "date": "2026-10-03",
+        "lipf6": 117000,
+        "lithium_carbonate": 120250,
+        "utilization_pct": 91.8,
+        "production_t_month": 31000,
+        "note": "Mysteel"
+      }
+    ]
+  },
+  "foosung": {
+    "confirmed_as_of": "2026-08-18",
+    "confirmed": [
+      {
+        "metric": "2Q26 연결 매출",
+        "value": "1,882억원"
+      },
+      {
+        "metric": "2Q26 연결 영업이익",
+        "value": "234억원"
+      },
+      {
+        "metric": "본업(한텍 제외) 영업이익",
+        "value": "128억원"
+      },
+      {
+        "metric": "LiPF6 생산량 전망",
+        "value": "2026년 1,800~1,900t"
+      },
+      {
+        "metric": "LiPF6 라인",
+        "value": "2,000t급 1개 사실상 풀가동, 다른 1개 연속공정 테스트"
+      }
+    ],
+    "notes": [
+      "2Q26 반도체 특수가스·냉매 판가 상승으로 수익성 개선.",
+      "LiPF6는 공급 물량 증가로 적자 폭이 크게 축소된 것으로 분석됨.",
+      "시장 선행지표와 회사 실적은 구분해 표시."
+    ],
+    "source_url": "https://ir.newspim.com/news/view/20260818000084"
   }
 }
