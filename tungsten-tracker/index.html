@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<title>Tungsten Bottleneck Tracker</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
+<style>
+:root{--bg:#071019;--p:#0d1a26;--p2:#112335;--line:#20384d;--txt:#eaf3fb;--mut:#8fa8ba;--a:#54e0c7;--g:#73e7b1;--y:#ffd079;--r:#ff8585}
+*{box-sizing:border-box}body{margin:0;background:radial-gradient(circle at 10% 0,#12312f 0,transparent 28%),var(--bg);color:var(--txt);font-family:Inter,Pretendard,"Noto Sans KR",sans-serif}
+.wrap{max-width:1280px;margin:auto;padding:24px}.head{display:flex;justify-content:space-between;gap:20px;align-items:flex-start}.ey{font-size:11px;letter-spacing:.16em;color:var(--a);font-weight:800}
+h1{margin:7px 0 5px;font-size:clamp(28px,4vw,44px)}.mut{color:var(--mut)}.stamp{border:1px solid var(--line);background:#0b1722;padding:12px 14px;border-radius:14px;font-size:12px}
+.grid{display:grid;grid-template-columns:repeat(5,1fr);gap:10px;margin:18px 0}.card,.panel{background:linear-gradient(180deg,var(--p2),var(--p));border:1px solid var(--line);border-radius:17px;padding:16px}.lab{font-size:11px;color:var(--mut)}
+.val{font-size:24px;font-weight:850;margin:8px 0 4px}.sub{font-size:11px;color:var(--mut)}.hero{display:grid;grid-template-columns:1.3fr .7fr;gap:12px}.thesis{font-size:24px;font-weight:850;margin:8px 0}
+.pill{display:inline-block;border-radius:999px;padding:6px 9px;margin:7px 5px 0 0;font-size:11px;font-weight:800;background:#16384a}.good{color:#73e7b1}.warn{color:#ffd079}.bad{color:#ff8f8f}
+.cols{display:grid;grid-template-columns:1.2fr .8fr;gap:12px;margin-top:12px}.panel h2{font-size:16px;margin:0 0 12px}.chart{height:320px}.spreads{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}
+.spread{padding:12px;border-radius:13px;background:#091722;border:1px solid var(--line)}.spread b{display:block;font-size:20px;margin-top:5px}.list{display:grid;gap:8px}
+.item{padding:11px;border:1px solid var(--line);border-radius:12px;background:#091722}.item a{color:var(--txt);text-decoration:none}.meta{font-size:10px;color:var(--mut);margin-bottom:3px}
+.equity{display:grid;grid-template-columns:95px 1fr auto;gap:10px;align-items:center}.up{color:#66d8a0}.down{color:#ff8585}.foot{font-size:11px;line-height:1.6;color:var(--mut);margin-top:16px}
+@media(max-width:900px){.grid{grid-template-columns:repeat(2,1fr)}.hero,.cols{grid-template-columns:1fr}.spreads{grid-template-columns:1fr}.head{flex-direction:column}.chart{height:260px}}
+@media(max-width:520px){.wrap{padding:14px}.grid{grid-template-columns:1fr 1fr}.val{font-size:20px}}
+</style>
+</head>
+<body><div class="wrap">
+<div class="head"><div><div class="ey">TUNGSTEN SUPPLY CHAIN MONITOR</div><h1>텅스텐 병목 트래커</h1><div class="mut">광산 → 정광 → APT → WO₃ → W powder / WC → WF6 → 반도체</div></div><div class="stamp">데이터 <b id="date">—</b><br><span id="state" class="mut">로딩중</span></div></div>
+<div id="cards" class="grid"></div>
+<div class="hero">
+<section class="panel"><div class="ey">AUTO THESIS</div><div id="thesis" class="thesis">계산 중…</div><div id="reason" class="mut"></div><div id="pills"></div></section>
+<section class="panel"><h2>Conversion spread</h2><div id="spreads" class="spreads"></div><div class="foot">실제 기업 마진이 아니라 원료비 방향성 proxy. 수율·전력·불소계 원료·정제·용기·qualification 비용 미포함.</div></section>
+</div>
+<div class="cols">
+<section class="panel"><h2>가격 추이 · 첫 관측값=100</h2><div class="chart"><canvas id="chart"></canvas></div></section>
+<section class="panel"><h2>병목 해석</h2><div id="logic" class="list"></div></section>
+</div>
+<div class="cols">
+<section class="panel"><h2>정책·공급 이벤트</h2><div id="events" class="list"></div></section>
+<section class="panel"><h2>관련주</h2><div id="equities" class="list"></div></section>
+</div>
+<section class="panel" style="margin-top:12px"><h2>최근 뉴스</h2><div id="news" class="list"></div></section>
+<div class="foot">5N과 7N WF6는 분리 추적합니다. 중국 환원로 자체의 전면 수출금지 여부처럼 공식 문서로 확인되지 않은 사안은 자동 정책 신호에 포함하지 않습니다. 자동 수집 실패 시 직전 확정값을 유지하고 상태를 partial로 표시합니다.</div>
+</div>
+<script>
+const F={aptPerW:1.4249679161,wInWF6:.6172640143,aptInWF6:.8795814161};
+const $=s=>document.querySelector(s);
+const fmt=(v,u)=>v==null?'—':u==='CNY/kg'?Number(v).toLocaleString('ko-KR')+' 위안/kg':(v/10000).toFixed(1)+'만 위안/t';
+const cny=v=>v==null?'—':v>=1e6?(v/1e6).toFixed(2)+'m CNY/t':Math.round(v/1000)+'k CNY/t';
+const pct=(a,b)=>a!=null&&b?((a/b-1)*100):null;
+async function boot(){
+ let b;try{b=await (await fetch('./data.json?'+Date.now())).json()}catch(e){document.body.innerHTML='<div class="wrap"><h1>data.json 로드 실패</h1></div>';return}
+ const l=b.latest,p=l.prices,h=[...(b.history||[])].sort((a,z)=>a.date.localeCompare(z.date));
+ $('#date').textContent=l.source_date||'—';$('#state').textContent=(l.collector?.mode||'seed')+' · '+(l.collector?.status||'ready');
+ const prev=[...h].reverse().find(x=>x.date<(h.at(-1)?.date||''))||{};
+ const items=[['정광',p.concentrate,'concentrate'],['APT',p.apt,'apt'],['W powder',p.w_powder,'w_powder'],['WC powder',p.wc_powder,'wc_powder'],['WF6 5N',p.wf6_5n,'wf6_5n']];
+ $('#cards').innerHTML=items.map(([n,x,k])=>{const ch=pct(h.at(-1)?.[k],prev[k]);return '<div class="card"><div class="lab">'+n+'</div><div class="val">'+fmt(x?.value,x?.unit)+'</div><div class="sub">'+(x?.grade||'')+(ch==null?'':' · '+(ch>0?'+':'')+ch.toFixed(1)+'%')+'</div></div>'}).join('');
+ const wf=(p.wf6_5n?.value||0)*1000,w=(p.w_powder?.value||0)*1000,apt=p.apt?.value||0;
+ const sw=wf-w*F.wInWF6,sa=w-apt*F.aptPerW,si=wf-apt*F.aptInWF6;
+ $('#spreads').innerHTML=[['W→WF6',sw],['APT→W',sa],['APT→WF6',si]].map(x=>'<div class="spread"><span class="lab">'+x[0]+'</span><b>'+cny(x[1])+'</b></div>').join('');
+ const cw=pct(h.at(-1)?.w_powder,prev.w_powder)||0,cf=pct(h.at(-1)?.wf6_5n,prev.wf6_5n)||0,ca=pct(h.at(-1)?.apt,prev.apt)||0;
+ let title='WF6/qualification 병목이 상류보다 강함',reason='상류 조정에도 WF6가 버티면 precursor 정제·qualification의 가격결정력이 상대적으로 확대되는 구조.';
+ if(ca>4&&cw>4){title='APT→W 미드스트림 압박 재강화';reason='APT와 W powder가 동시에 강하면 화학전환·환원·고순도 분말 CAPA를 우선 체크.'}
+ if((pct(h.at(-1)?.concentrate,prev.concentrate)||0)<-4&&ca<-4&&cw<-4&&cf<-4){title='밸류체인 전반 스트레스 완화';reason='정광부터 WF6까지 동반 하락하면 특정 미드스트림 병목보다 전체 사이클 완화 가능성이 커짐.'}
+ $('#thesis').textContent=title;$('#reason').textContent=reason;
+ $('#pills').innerHTML='<span class="pill '+(cf>=0?'good':'warn')+'">WF6 '+(cf>=0?'유지/상승':'하락')+'</span><span class="pill '+(cw<=0?'warn':'bad')+'">W powder '+(cw<=0?'조정':'상승')+'</span><span class="pill good">W→WF6 '+cny(sw)+'</span>';
+ $('#logic').innerHTML=[['광산','증산만으로 반도체 공급난 해소 불가. 정광 이후 전환 CAPA 확인.'],['APT/oxide','중국 수출통제·화학전환 CAPA·재고가 핵심.'],['W powder','입도·산소·불순물 사양 때문에 용도간 완전 대체가 어려움.'],['WF6','정제·용기·고객 qualification이 최종 진입장벽.']].map(x=>'<div class="item"><b>'+x[0]+'</b><div class="mut">'+x[1]+'</div></div>').join('');
+ $('#events').innerHTML=(b.events||[]).slice().reverse().map(e=>'<div class="item"><div class="meta">'+e.date+' · '+(e.type||'event')+'</div><b>'+e.title+'</b><div class="mut">'+(e.note||'')+'</div></div>').join('');
+ $('#equities').innerHTML=((b.equities||{}).items||[]).map(e=>'<div class="item equity"><b>'+e.ticker+'</b><span>'+e.name+'<br><small class="mut">'+(e.role||'')+'</small></span><span class="'+((e.change_pct||0)>=0?'up':'down')+'">'+(e.price??'—')+'<br>'+((e.change_pct||0)>=0?'+':'')+(e.change_pct==null?'—':e.change_pct.toFixed(1)+'%')+'</span></div>').join('')||'<div class="mut">첫 자동수집 후 표시</div>';
+ $('#news').innerHTML=(b.news||[]).slice(0,12).map(n=>'<div class="item"><div class="meta">'+(n.published||'')+' · '+(n.stage||'tungsten')+'</div><a href="'+n.url+'" target="_blank" rel="noopener">'+n.title+'</a></div>').join('')||'<div class="mut">첫 자동수집 후 표시</div>';
+ const keys=[['concentrate','정광'],['apt','APT'],['w_powder','W powder'],['wf6_5n','WF6 5N']];
+ new Chart($('#chart'),{type:'line',data:{labels:h.map(x=>x.date),datasets:keys.map(([k,n])=>{const base=h.find(x=>x[k]!=null)?.[k];return{label:n,data:h.map(x=>base&&x[k]!=null?x[k]/base*100:null),tension:.25,spanGaps:true}})},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{labels:{color:'#b9cddd'}}},scales:{x:{ticks:{color:'#8fa8ba'},grid:{color:'#173044'}},y:{ticks:{color:'#8fa8ba'},grid:{color:'#173044'}}}}});
+}
+boot();
+</script></body></html>
