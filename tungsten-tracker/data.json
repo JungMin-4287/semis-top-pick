@@ -1,0 +1,157 @@
+{
+  "latest": {
+    "as_of": "2026-09-30T12:00:00+08:00",
+    "source_date": "2026-09-30",
+    "prices": {
+      "concentrate": {
+        "value": 379000,
+        "unit": "CNY/t",
+        "label": "텅스텐 정광",
+        "grade": "65% WO3, China reference",
+        "source": "Mysteel"
+      },
+      "apt": {
+        "value": 565000,
+        "unit": "CNY/t",
+        "label": "APT",
+        "grade": "WO3 88.5%",
+        "source": "Mysteel"
+      },
+      "w_powder": {
+        "value": 870,
+        "unit": "CNY/kg",
+        "label": "W powder",
+        "grade": "99.7%, Ganzhou",
+        "source": "Mysteel"
+      },
+      "wc_powder": {
+        "value": 830,
+        "unit": "CNY/kg",
+        "label": "WC powder",
+        "grade": "99.7%, Ganzhou",
+        "source": "Mysteel"
+      },
+      "wf6_5n": {
+        "value": 1810,
+        "low": 1780,
+        "high": 1840,
+        "unit": "CNY/kg",
+        "label": "WF6 5N",
+        "grade": "99.999%, 47L",
+        "source": "Mysteel/Longzhong"
+      },
+      "wf6_7n_reference": {
+        "value": 3600,
+        "unit": "CNY/kg",
+        "label": "WF6 7N reference",
+        "grade": "news/emergency-order reference",
+        "stale": true
+      }
+    },
+    "quota": {
+      "china_mining": "quota-controlled; manually verified policy/event tracking"
+    },
+    "collector": {
+      "mode": "seed",
+      "status": "ready",
+      "notes": []
+    }
+  },
+  "history": [
+    {
+      "date": "2026-07-01",
+      "concentrate": 455000,
+      "apt": 660000,
+      "w_powder": 1100,
+      "wc_powder": 1030,
+      "wf6_5n": 1795,
+      "note": "historical tracker seed"
+    },
+    {
+      "date": "2026-08-24",
+      "concentrate": 420000,
+      "apt": 603000,
+      "w_powder": 950,
+      "wc_powder": 915,
+      "wf6_5n": 1810,
+      "note": "historical tracker seed"
+    },
+    {
+      "date": "2026-09-17",
+      "concentrate": 395000,
+      "apt": 597000,
+      "w_powder": 920,
+      "wc_powder": 880,
+      "wf6_5n": 1810,
+      "note": "historical tracker seed"
+    },
+    {
+      "date": "2026-09-30",
+      "concentrate": 379000,
+      "apt": 565000,
+      "w_powder": 870,
+      "wc_powder": 830,
+      "wf6_5n": 1810,
+      "note": "seed"
+    }
+  ],
+  "events": [
+    {
+      "date": "2025-02-04",
+      "type": "policy",
+      "title": "중국 텅스텐 관련 품목 수출통제",
+      "note": "APT·텅스텐 산화물·일부 WC 등 공식 통제 품목을 추적."
+    },
+    {
+      "date": "2026-03-30",
+      "type": "quota",
+      "title": "중국 텅스텐 광산 쿼터 집행 추적",
+      "note": "광산 증산 가능성보다 쿼터와 미드스트림 CAPA를 함께 확인."
+    },
+    {
+      "date": "2026-09-17",
+      "type": "mine",
+      "title": "Almonty 상동광산 상업 생산 단계 진입",
+      "note": "정광 공급 증가가 APT/고순도 powder/WF6 병목까지 바로 해소하는지는 별도 추적."
+    }
+  ],
+  "news": [],
+  "equities": {
+    "as_of": null,
+    "items": []
+  },
+  "watchlist": {
+    "equities": [
+      {
+        "ticker": "ALM",
+        "name": "Almonty Industries",
+        "role": "광산/상동"
+      },
+      {
+        "ticker": "093370.KS",
+        "name": "후성",
+        "role": "WF6"
+      },
+      {
+        "ticker": "600549.SS",
+        "name": "Xiamen Tungsten",
+        "role": "미드스트림"
+      },
+      {
+        "ticker": "002378.SZ",
+        "name": "Zhangyuan Tungsten",
+        "role": "광산/미드스트림"
+      },
+      {
+        "ticker": "000657.SZ",
+        "name": "China Tungsten & Hightech",
+        "role": "미드스트림/공구"
+      },
+      {
+        "ticker": "VMM.AX",
+        "name": "Viridis Mining and Minerals",
+        "role": "관련 광물/시장 센티먼트"
+      }
+    ]
+  }
+}
