@@ -1,6 +1,6 @@
 {
   "latest": {
-    "as_of": "2026-10-09T14:20:06.509578+08:00",
+    "as_of": "2026-10-09T21:27:31.531721+08:00",
     "source_date": "2026-10-09",
     "prices": {
       "concentrate": {
@@ -144,6 +144,13 @@
   ],
   "news": [
     {
+      "published": "Tue, 29 Sep 2026 07:00:00 GMT",
+      "title": "Why the Pentagon just dropped $450M on tungsten mining - Defense News",
+      "source": "Defense News",
+      "stage": "mine/concentrate",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbkNJcGVzbFBmUENkNG93cjlYNXdFT2RJS19WbllfNTRGR3NCNkVBZWxRTnlwSTRzVUozVFhnQlNuTzRSSUNCLXVlODVBcmN2elBxWHJRaVk5NnBNczNjeEJwdHB1Y2ZGa053OGRjT01ldUFpd2Zta2trWk5fTkZqM09vempJT2RSWGltTmJKVjhVNEFxTFJMQk9PaWF5b080YXhraGs2SWYwSW53aFl1ckR3Y2QzSE0?oc=5"
+    },
+    {
       "published": "Sat, 03 Oct 2026 01:00:14 GMT",
       "title": "China has dominated tungsten for decades. Can US investment loosen its grip? - South China Morning Post",
       "source": "South China Morning Post",
@@ -163,13 +170,6 @@
       "source": "Hodinkee",
       "stage": "materials",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5zQkwwZ24xQVZ3N3g1bDRlUzFLc2tiNVVDR19LeXF3SDhlamQzNFc5R1lNdmdvQ1MtaXI1TTQxSWFOWDJUZEl6X0JOODZYNUtudm9DQWJ3Sy1jc2JPQjdLUTVzQ1BiTUJORlJIQ00ybkV4WE1v?oc=5"
-    },
-    {
-      "published": "Wed, 30 Sep 2026 00:05:50 GMT",
-      "title": "Why the Pentagon just dropped $450M on tungsten mining - Military Times",
-      "source": "Military Times",
-      "stage": "mine/concentrate",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNjlNck5OdEl4a3dxZWFNa3JUa0U3ZUlSWURTdjNBaHp6Z3BsdWF3akJWc3ZlRGo1d3JtODBfMUlheFR6cXpnNXhZWk1nV2RSUXlDc3h5YWE4WXNIUDh3c1V3UGtIMnN5anhYTzUxakpLcllvMHhSV1BadVlHYTdmeGZQV18tVDhGSHFoZm4zcUV0MEwwR3pBTjl2MTV0NjRzcXdoQ0xiSmE0YlhwNHFxTXdPRkV5T1dSMUE?oc=5"
     },
     {
       "published": "Wed, 07 Oct 2026 08:00:00 GMT",
@@ -228,13 +228,6 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZHotdnhpVWZWLUJnQzRfTGtINDVPUlNfTXFTZmVIelFnYWg3QnI1ci1sTHFlc3BqbmxzZEU5UDBwaDlLRjFrMmJ6anhiZWp4SHBXWGxRY1lnZ0lOeGV4UDVsVWdHMEstalpOVHFsYWRueGVGWm56SDNSYkNmZ0hFejJyandJNTV1RzRMNThUajFadXpBT1U0VElkSjlkSVBrOWhpbQ?oc=5"
     },
     {
-      "published": "Wed, 30 Sep 2026 12:53:52 GMT",
-      "title": "Tungsten Market Value Estimates Vary, but Upward Trajectory Is Clear - IndexBox",
-      "source": "IndexBox",
-      "stage": "materials",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSHRiQmtjTzBOaGRDMFZNXzJhNS1WUTVEQ0Y2X0F1M1V2VDhzOGZWVmJEeS1tUlI5Q0FEQjBVY2otWk1PbXAwZEh5RldRNHNTQ3UtNG1IcEQ4SGNUbU1mcFhfZ3VvbkFlSW5lQWVRcng3YWNCczVCYy0xbGgzckx3c21BakZGN1h5SWF2VHRWU1R6MXhUdGRkVXpXVmlidw?oc=5"
-    },
-    {
       "published": "Tue, 29 Sep 2026 07:00:00 GMT",
       "title": "Almonty Issues Shareholder Letter and Provides Corporate Update - Almonty Industries",
       "source": "Almonty Industries",
@@ -249,13 +242,6 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE10UGtpSkxtUVZHUUJNWHRJczI2THgxb01tby1LdllDdkM5SHVMMjd3X0x4WDBZc05QVDI4YWhsenNuQ2dsenVCeUdxVWprTXQ2N2ZFUmZQV2w3dzdqcmpxZzRpbDJ0QXVTZWpFMkZxaw?oc=5"
     },
     {
-      "published": "Mon, 05 Oct 2026 16:35:51 GMT",
-      "title": "Tungsten Automation applies agentic AI from capture through payment reconciliation - KMWorld",
-      "source": "KMWorld",
-      "stage": "APT",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNd2dWMElvRkJxai01ejhEMVFMLTlrRnhsLVoxa2MtWGp6eDVsVVRCR3pXQ0hSci1XbkM3bUNFMU5ZdVREcm9VWEN0NGw0R2xzQmdTcEFlMXlJcjFCN2VobC1BdjVPNkZmcXluczBpUmQ1alNGZ1FteWF2UVZVQ3NJendELUpQai1nWjVrbUFRSnJjTG9YOFptNGJneVFqOGpFRjY5S3V5M3lFTFVGdWhFdm9ScFhoN1VVcFlFTngtalZJNDE3U0FOTWt6NzdyMnFSTzZN?oc=5"
-    },
-    {
       "published": "Thu, 08 Oct 2026 01:08:31 GMT",
       "title": "Tungco CEO highlights critical mineral vulnerabilities and U.S. efforts to secure domestic tungsten supply - The Flag - AM 1100 and FM 92.3 WZFG",
       "source": "The Flag - AM 1100 and FM 92.3 WZFG",
@@ -263,11 +249,25 @@
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOLVZuT2doRWRLNUwxS25EZlhUTkV0Qy1JdDdoLUdPRVBQS3A3NzZPN1M4YkRReElKZDRsVmtVTU9vM0ZvaDNTWWNLNU43VjZaTHp2Yy10eU5ORXJXVDdGRkdZQWhuNG9UamgtbEFtdHFnX19BTk1hYmEzQWo3NGx4RFVKaUw5c0czaTNvdHVjWHFaeVYydGZKcHkxenpOUHNkalFBaWJCZXVLQzMtMUlSZksyMmV3T2pFZmV3b09EOUdLdHB6MkFFOWc0ZE1nSDY3Z3N2NUZpS1E?oc=5"
     },
     {
+      "published": "Mon, 05 Oct 2026 16:35:51 GMT",
+      "title": "Tungsten Automation applies agentic AI from capture through payment reconciliation - KMWorld",
+      "source": "KMWorld",
+      "stage": "APT",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNd2dWMElvRkJxai01ejhEMVFMLTlrRnhsLVoxa2MtWGp6eDVsVVRCR3pXQ0hSci1XbkM3bUNFMU5ZdVREcm9VWEN0NGw0R2xzQmdTcEFlMXlJcjFCN2VobC1BdjVPNkZmcXluczBpUmQ1alNGZ1FteWF2UVZVQ3NJendELUpQai1nWjVrbUFRSnJjTG9YOFptNGJneVFqOGpFRjY5S3V5M3lFTFVGdWhFdm9ScFhoN1VVcFlFTngtalZJNDE3U0FOTWt6NzdyMnFSTzZN?oc=5"
+    },
+    {
       "published": "Thu, 08 Oct 2026 13:32:21 GMT",
       "title": "Wayland and Fraunhofer IFAM demonstrate crack-free tungsten AM - Metal Additive Manufacturing magazine",
       "source": "Metal Additive Manufacturing magazine",
       "stage": "materials",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcGVQc3Nmc20wRmVDOUlmQmM0WUlqNDhWZ05QYlh4WERZV3lKbUl1Q3dTVTE4VWNCY3Jod3p1b1pNWjA3a2VrT3lYUl95OHN5RWQ2b1hwM0dWaDVxdUdCSUpSWTg4dmNLdzQzRV9JekxFNFh6eGlTMjZVSEl3NGxkMEl6Q1dBWi1JaW9oc0NXVE5MZw?oc=5"
+    },
+    {
+      "published": "Thu, 08 Oct 2026 13:07:35 GMT",
+      "title": "Traxys Europe S.A. and Abenójar Tungsten S.A. sign exclusive long-term offtake agreement for the El Moto tungsten project in Spain - Global Mining Review",
+      "source": "Global Mining Review",
+      "stage": "mine/concentrate",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPbThYYlp6bkdzUk8zYzhEdEI4MFkwYzJIcVRxanJZSWp6MS1peVJBcmxTQzZBU3dONUxqNXB4NWJCNVFBbk0yWDJVN1dtdzVoME1WaVdjb01uMWk2T3R2ay1neXJPQU54VlVUY1U1SW9ERmVodGFiM081Ty1tSm1pcGRWb0RZZENrcE5nc0YxeHVHTWdkS3pSeW9pdzZ4Q2pYYVVCdlpCX1MzQWFpbWEwYXRGVHE5REhQb2k3YmVRRTFFdzdoVnZuLTdYaTViaTJvYVFOU1ZoV05GZ3JfUmNMZ2NONnVXREREYnpqSTB0TXBOSGJHYVRwTXdBbjRiR2ZPbWJKdXV1Q2XSAY4CQVVfeXFMUERyQkVoLXp4aWxhSy15dUFia0FpRWVheFpzS05LMWlaWW5OSGY3Qzl6WFZRYjkzWEFXVk5YaEdmVmJEbGl2ZWhqak9TUWs3dEZiMDZTVGVHVkFObUl0NXUzU0txckl1cGE1WGkzQVlMMHdOOWlucXRxcjBfbzNRTnlvUmVvTnFuQ0l5bXZrb09ZekVTMUtrWV91OUtqQU55bUZEZ2g1VVBTSXlmUFN0UFBzLVhvcUo0UldlV1B6THZOWW1PcUxsY2pmVEFON3BUUTBXUEtvUFQ3MUN5dDJGWU94dzB6dDNNZnVWelp2a0hFS0dMTnVSdHpPMXlkWUVNZzUxeWhXVU1odEVyaVFn?oc=5"
     },
     {
       "published": "Wed, 07 Oct 2026 11:00:00 GMT",
@@ -284,13 +284,6 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU0huVjFtVXZyVXlyVnd4Ml93cVc2T08xTXFqbGx6MkV4QlZRRVpTVk1oWENZdVlvSmRxY25XYWZuQmxybElKSHVsaVdKaDNpdERUZHlWVzcwcndielFTQ3hVNzU4Smp1b3NQbUREWGNBampHNjJUOXQ3bl9iZF9yOUhZQVJsV21MVmxlZmJKaw?oc=5"
     },
     {
-      "published": "Wed, 07 Oct 2026 19:52:57 GMT",
-      "title": "Tungsten Automation Unveils Invoice-to-Pay Platform - Supply & Demand Chain Executive",
-      "source": "Supply & Demand Chain Executive",
-      "stage": "materials",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOejMyNmVjR00zaFprWTNqN1ZVc1JkRmh3WThEU1pZZnlKOVI2b0JPN3VBVEswTi1fR3FKNDdBaGhlVzQ4QTMxSHVVYnNqTkl0dTlKVjlZc05hV2RGSjRVb2J0RzFWSjk5OFBVWXIyWjJjbFljd2tlUzNxTXY4b19wdHl4WlQ5MTNMUWhMdFIyMG1GNnhtRFBSUVJSZHdIMEI5SDdLMHVpOWZRbmZmdXRnc0FuYVFyZ3dRamxTbEJzZ0h6NzBwY1dMVWZmRU1EXzRsRjVvdHl4Q1hibXdPN2pDd29ZOXJVS01leFNDQmNYa2lTZFBZ?oc=5"
-    },
-    {
       "published": "Mon, 05 Oct 2026 14:54:30 GMT",
       "title": "Gold Mountain signs agreement for Brazilian tungsten mine - Mining Technology",
       "source": "Mining Technology",
@@ -298,11 +291,11 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQM1VlY2I5YlRhTTBBWGhxWUt4bHFzMEN2bTNjNmZsUGxNb3dEMVNwMnJqUnFMOV9LV244djBfTlZ0ZU82eXkyZTRJR3N5YjJIWktodDJUaFE1ZUpiQVdwRXpva3hXd05wejBld0tvc0kxVHpXaUNaZGltdWdVc2lSZGluZDB4YkNFaGw4WElWeFg?oc=5"
     },
     {
-      "published": "Thu, 08 Oct 2026 13:07:59 GMT",
-      "title": "Traxys Europe S.A. and Abenójar Tungsten S.A. sign exclusive long-term offtake agreement for the El Moto tungsten project in Spain - Global Mining Review",
-      "source": "Global Mining Review",
-      "stage": "mine/concentrate",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQRHJCRWgtenhpbGFLLXl1QWJrQWlFZWF4WnNLTksxaVpZbk5IZjdDOXpYVlFiOTNYQVdWTlhoR2ZWYkRsaXZlaGpqT1NRazd0RmIwNlNUZUdWQU5tSXQ1dTNTS3FySXVwYTVYaTNBWUwwd045aW5xdHFyMF9vM1FOeW9SZW9OcW5DSXltdmtvT1l6RVMxS2tZX3U5S2pBTnltRkRnaDVVUFNJeWZQU3RQUHMtWG9xSjRSV2VXUHpMdk5ZbU9xTGxjamZUQU43cFRRMFdQS29QVDcxQ3l0MkZZT3h3MHp0M01mdVZ6WnZrSEVLR0xOdVJ0ek8xeWRZRU1nNTF5aFdVTWh0RXJpUWfSAY4CQVVfeXFMUERyQkVoLXp4aWxhSy15dUFia0FpRWVheFpzS05LMWlaWW5OSGY3Qzl6WFZRYjkzWEFXVk5YaEdmVmJEbGl2ZWhqak9TUWs3dEZiMDZTVGVHVkFObUl0NXUzU0txckl1cGE1WGkzQVlMMHdOOWlucXRxcjBfbzNRTnlvUmVvTnFuQ0l5bXZrb09ZekVTMUtrWV91OUtqQU55bUZEZ2g1VVBTSXlmUFN0UFBzLVhvcUo0UldlV1B6THZOWW1PcUxsY2pmVEFON3BUUTBXUEtvUFQ3MUN5dDJGWU94dzB6dDNNZnVWelp2a0hFS0dMTnVSdHpPMXlkWUVNZzUxeWhXVU1odEVyaVFn?oc=5"
+      "published": "Wed, 07 Oct 2026 19:52:57 GMT",
+      "title": "Tungsten Automation Unveils Invoice-to-Pay Platform - Supply & Demand Chain Executive",
+      "source": "Supply & Demand Chain Executive",
+      "stage": "materials",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOejMyNmVjR00zaFprWTNqN1ZVc1JkRmh3WThEU1pZZnlKOVI2b0JPN3VBVEswTi1fR3FKNDdBaGhlVzQ4QTMxSHVVYnNqTkl0dTlKVjlZc05hV2RGSjRVb2J0RzFWSjk5OFBVWXIyWjJjbFljd2tlUzNxTXY4b19wdHl4WlQ5MTNMUWhMdFIyMG1GNnhtRFBSUVJSZHdIMEI5SDdLMHVpOWZRbmZmdXRnc0FuYVFyZ3dRamxTbEJzZ0h6NzBwY1dMVWZmRU1EXzRsRjVvdHl4Q1hibXdPN2pDd29ZOXJVS01leFNDQmNYa2lTZFBZ?oc=5"
     },
     {
       "published": "Mon, 05 Oct 2026 13:30:11 GMT",
@@ -333,13 +326,6 @@
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOS0xnLS1sV2tLYXo1d1pGb085cmtrYkJ1b0I0bllpS0NFc0wxckNuVHhiaGMxUjRqTExWRGNvLTg5TkVMb0Q1c0ZCYUNDTHpyUmkweGtfbFEwTkhsZnVHNjljZVQ4UXRVbVRvejQ3YU1hVXlFckd6WV9zYkdrb0VJTG9qam9CM1BhLV9JYWVNWGJrbnNZWm00NTRfYThOVjBJb0dRU0oxbVF2Ui11dkp6Z19ZSDZ4a3NvdVZBSXEwRExXdXc5aTFkb1ZfcEVZZkU?oc=5"
     },
     {
-      "published": "Wed, 07 Oct 2026 16:17:43 GMT",
-      "title": "Gold Mountain weighs revival of wartime Brazil tungsten mine - Mining.com",
-      "source": "Mining.com",
-      "stage": "mine/concentrate",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcmRqSy04NEJ1Y0ZwR1dtUVM5RmViMEFPdmZ5akNSUWVkd1Joc1N0RWJhdnJYWkdFUWhuXzNaaU02MmlEM1BDUUV3X2RzTEszSEJXUGRQUllLN1VycXdQN3NTd2REa2d4LWJGOW5qNWI1ekZqbTBmM1FrTlJIWFlGR1VIT3IxRVcwblB4Yw?oc=5"
-    },
-    {
       "published": "Thu, 08 Oct 2026 17:00:00 GMT",
       "title": "Japan's Mitsubishi Materials taps Vietnam for tungsten as China alternative - Nikkei Asia",
       "source": "Nikkei Asia",
@@ -347,15 +333,29 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUldlQ2VCZ3dqV0VvS2dvUDlvTDJVejVxSnotcXNpbEdWNTJReVcwaDdLOFJNOW9PTVFfN09ycHdTbjNUQUgxNnFlbFVSRFh3eC1jUEpscWFjdnhDUzM3NHBNMGdMcVlTaTNjZ3pkVjAxekZQMHk2bUdtVWFQVng4MTRQb2FkTXBPRFp4TWRaYm5XYXROTllwYVRGazJKQUw5NjZxVnJSWlFnQTljNDFHaXBRYS05UmhCOVU5R3hhRQ?oc=5"
     },
     {
+      "published": "Tue, 06 Oct 2026 19:00:00 GMT",
+      "title": "CERATIZIT highlights tungsten supply chain independence - Canadian Metalworking",
+      "source": "Canadian Metalworking",
+      "stage": "materials",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTVcwODl6TjBJZEFJcjNuUENCZGh3eU1ROU9TUTlpd2ZiRlBFNTdyeUp2cEhtcFF4M1h2UVFqY1F1RGVKaHMzRnhHUUdVWEQ3dnJ5cDFFX210YnY4T2pCV1VQWUFZVGdGQXM5RDdidHFGSjhuSGQxUXJ2Qm85OWVhbUJ0RnZSclBFSzRtNEV2MWVHSV9wNXFMemNsWHFNcU1fV2UyVjNOcUNfTzlxNGZSQWM3aTlEYm9lOVF3YW5PZ3poWEMzakF3STIxbUE1Yjg?oc=5"
+    },
+    {
       "published": "Wed, 07 Oct 2026 12:06:18 GMT",
       "title": "Canadian Gold Mountain considers restarting tungsten mine in Brazil that operated during the Second World War - BNamericas",
       "source": "BNamericas",
       "stage": "mine/concentrate",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPS3VLWGcyWno3QkZ3bFJNT005QW9lbHE2MzVDcU00WGZfcnFvcGltczJCZ1pXcHNiNG9vZktvSERkWGwtRzlvaHU0Wkprd3dpVGNqQm81VG5xUXh3ZUpTSHFJaTBOcnRZV2J3ejNGT05CT3lBWHIxazRGWTJOWW85bVdzMUJ3aEc5eWM5X3NCYTlieTY1aWVkRnhFb2lzVWNKNVQtaFQwYkVETnZ4M29qb0R6TzFETS1fVmhrb3ctbVFuOWVWaGZzTXVsRFQ3b1EtLW5KVmNhbE5MNklE?oc=5"
+    },
+    {
+      "published": "Sat, 03 Oct 2026 18:10:30 GMT",
+      "title": "Elmet Technologies Awarded $36 Million DLA Contract For Molybdenum And Tungsten Materials - Pulse 2.0",
+      "source": "Pulse 2.0",
+      "stage": "materials",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYWE4b0JWUGxWY0JjeUx1X1NWT0M1ODFtaU9TOHhRWG1jY0VUeTFJTVJSbXptVk9iQWtGTDR3ZEpQYkJ5cmhOaGI0TzR3azdnMFN2OWtmbXdZUFRqMXR1UThIdDlhM1VyRXFlWW5HNDd6SFBseG4xV2EwbkNianhha1ZuOG5mWE1yc0VvLS1qc1BjWWpaZEp2bVlsY1ZoQl9INDdpWjhVM3R0cXo50gGyAUFVX3lxTE5GRVA4MmY5YUJRRGVabGhMc3A5TnF6RDJfeGt3RE9ySVZYU09oSFlTclpWUkZBaUV1WXZxMll3SzVudW54bW1KV3VUS2RlWF9hMENUaktEb2prUG5ZaVFza1hBODlWbVUwWFBxNzgtN2xaVnpBRDJnMUN5VUhhSTI5QVRaOFF3QVJMX2dSbkdOZjZUVzZXSDNfNkUxamh1VHRGZXlVbDdwM2htWlZQc2hyLUE?oc=5"
     }
   ],
   "equities": {
-    "as_of": "2026-10-09T06:20:05.640113+00:00",
+    "as_of": "2026-10-09T13:27:30.530232+00:00",
     "items": [
       {
         "ticker": "ALM",
@@ -377,8 +377,8 @@
       },
       {
         "ticker": "600549.SS",
-        "price": 43.02,
-        "change_pct": -1.1034482758620623,
+        "price": 43.05,
+        "change_pct": -1.0344827586206917,
         "currency": "CNY",
         "exchange": "SHH",
         "name": "Xiamen Tungsten",
@@ -386,8 +386,8 @@
       },
       {
         "ticker": "002378.SZ",
-        "price": 20.84,
-        "change_pct": -2.434456928838946,
+        "price": 20.86,
+        "change_pct": -2.3408239700374533,
         "currency": "CNY",
         "exchange": "SHZ",
         "name": "Zhangyuan Tungsten",
@@ -395,8 +395,8 @@
       },
       {
         "ticker": "000657.SZ",
-        "price": 50.85,
-        "change_pct": -4.507042253521121,
+        "price": 51.13,
+        "change_pct": -3.981220657276996,
         "currency": "CNY",
         "exchange": "SHZ",
         "name": "China Tungsten & Hightech",
