@@ -1,6 +1,6 @@
 {
   "latest": {
-    "as_of": "2026-10-10T06:44:42.309886+08:00",
+    "as_of": "2026-10-10T14:02:42.377629+08:00",
     "source_date": "2026-10-09",
     "prices": {
       "concentrate": {
@@ -228,6 +228,13 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSTl5aDRDZk1LQ1ZCTTNaM09uNWF4LXJTRFpSY2NpTFZsTFpxdnpJb25DY3Vpc1pNMGc5Z3hENjZVLURTXzZzRTR5OGVmTGR0MURxVzB5V2lVTzA1RVpfRjRpR3dQcEhuZWRrTU9RTmozSmNlY0hmY01neklIeEJTYnIyRkI?oc=5"
     },
     {
+      "published": "Tue, 29 Sep 2026 07:00:00 GMT",
+      "title": "Almonty Issues Shareholder Letter and Provides Corporate Update - Almonty Industries",
+      "source": "Almonty Industries",
+      "stage": "materials",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWnJKYTRYT2trc2FYa1RFZ2ptRDZOYzd2MU1xRW1oNWF4LXlBeld4VzliUWtfX3lKOWJXTzdKRzJIS25kWHdMbF9zNF8weHR5Q3ptWDhSczRNNnpobE04RTk1bHhKeDBmZThxRkR6SzVHOEJFS1VySS0wTl8wNjdHMkxKVExfRzdYTTMyeQ?oc=5"
+    },
+    {
       "published": "Thu, 08 Oct 2026 11:48:14 GMT",
       "title": "Almonty: The Market Is Pricing A Tungsten Crash That Hasn't Come - Seeking Alpha",
       "source": "Seeking Alpha",
@@ -242,18 +249,11 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUmxtSHk4UDFKZkZuREluTmlqclBLUUVWZ1ZGaERxTEtiRkEzZXIwcUNoaW01MjlXWmxJSm5TRk55WW1PUnpIbzR1T3Z5NDZtanBGYVY4Uko2X0FtMnFmNHc1Z1VDbDh4TDhfc1FIa00wUGpieXZsYjBtaUJ1NE54dVhVOEw5VDlIVHRWMHBiZnpMTmxsQkxEeElsOFd0OWZtSHVUcTQxbjFwYjBPdTlicjhwcUhILVh5?oc=5"
     },
     {
-      "published": "Tue, 29 Sep 2026 07:00:00 GMT",
-      "title": "Almonty Issues Shareholder Letter and Provides Corporate Update - Almonty Industries",
-      "source": "Almonty Industries",
+      "published": "Fri, 09 Oct 2026 13:43:19 GMT",
+      "title": "Supply chain resilience needed as tungsten markets evolve: Cove Kaz Capital Group - Fastmarkets",
+      "source": "Fastmarkets",
       "stage": "materials",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWnJKYTRYT2trc2FYa1RFZ2ptRDZOYzd2MU1xRW1oNWF4LXlBeld4VzliUWtfX3lKOWJXTzdKRzJIS25kWHdMbF9zNF8weHR5Q3ptWDhSczRNNnpobE04RTk1bHhKeDBmZThxRkR6SzVHOEJFS1VySS0wTl8wNjdHMkxKVExfRzdYTTMyeQ?oc=5"
-    },
-    {
-      "published": "Sat, 03 Oct 2026 02:50:05 GMT",
-      "title": "Steel, Titanium, or Tungsten? A Stuck Ring's Metal Can Decide Whether Doctors Cut It or Crack It - Medical Daily",
-      "source": "Medical Daily",
-      "stage": "materials",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE10UGtpSkxtUVZHUUJNWHRJczI2THgxb01tby1LdllDdkM5SHVMMjd3X0x4WDBZc05QVDI4YWhsenNuQ2dsenVCeUdxVWprTXQ2N2ZFUmZQV2w3dzdqcmpxZzRpbDJ0QXVTZWpFMkZxaw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZE5TNTBpRGgxRlNOSDVBNF9HaWV4QUVvTHpvUDd3ZGtDTjdycTQxUENDTXhNT05sOHNmUjgwYzI0a3RRbE5KSHE2R2MwWlo5Z29fc0RqYUItV09LdmgtMG9KN2ZYQy1oemJOZ0NBa0kxR0d2aVFBaFlWUEJoQ2tOV2luTG9ISHVxb2dUV18tSlUzY0Y0VnJDaTBhUENvTzQ1dFVZRTlPWlM1aGhHLW5vNGI0ZUZyRFFmTnc?oc=5"
     },
     {
       "published": "Thu, 08 Oct 2026 01:08:31 GMT",
@@ -263,13 +263,6 @@
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOLVZuT2doRWRLNUwxS25EZlhUTkV0Qy1JdDdoLUdPRVBQS3A3NzZPN1M4YkRReElKZDRsVmtVTU9vM0ZvaDNTWWNLNU43VjZaTHp2Yy10eU5ORXJXVDdGRkdZQWhuNG9UamgtbEFtdHFnX19BTk1hYmEzQWo3NGx4RFVKaUw5c0czaTNvdHVjWHFaeVYydGZKcHkxenpOUHNkalFBaWJCZXVLQzMtMUlSZksyMmV3T2pFZmV3b09EOUdLdHB6MkFFOWc0ZE1nSDY3Z3N2NUZpS1E?oc=5"
     },
     {
-      "published": "Fri, 09 Oct 2026 13:43:19 GMT",
-      "title": "Supply chain resilience needed as tungsten markets evolve: Cove Kaz Capital Group - Fastmarkets",
-      "source": "Fastmarkets",
-      "stage": "materials",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZE5TNTBpRGgxRlNOSDVBNF9HaWV4QUVvTHpvUDd3ZGtDTjdycTQxUENDTXhNT05sOHNmUjgwYzI0a3RRbE5KSHE2R2MwWlo5Z29fc0RqYUItV09LdmgtMG9KN2ZYQy1oemJOZ0NBa0kxR0d2aVFBaFlWUEJoQ2tOV2luTG9ISHVxb2dUV18tSlUzY0Y0VnJDaTBhUENvTzQ1dFVZRTlPWlM1aGhHLW5vNGI0ZUZyRFFmTnc?oc=5"
-    },
-    {
       "published": "Thu, 08 Oct 2026 13:32:21 GMT",
       "title": "Wayland and Fraunhofer IFAM demonstrate crack-free tungsten AM - Metal Additive Manufacturing magazine",
       "source": "Metal Additive Manufacturing magazine",
@@ -277,18 +270,18 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcGVQc3Nmc20wRmVDOUlmQmM0WUlqNDhWZ05QYlh4WERZV3lKbUl1Q3dTVTE4VWNCY3Jod3p1b1pNWjA3a2VrT3lYUl95OHN5RWQ2b1hwM0dWaDVxdUdCSUpSWTg4dmNLdzQzRV9JekxFNFh6eGlTMjZVSEl3NGxkMEl6Q1dBWi1JaW9oc0NXVE5MZw?oc=5"
     },
     {
-      "published": "Mon, 05 Oct 2026 11:16:07 GMT",
-      "title": "American Tungsten Files the IMA Technical Report - InvestorNews",
-      "source": "InvestorNews",
-      "stage": "materials",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU0huVjFtVXZyVXlyVnd4Ml93cVc2T08xTXFqbGx6MkV4QlZRRVpTVk1oWENZdVlvSmRxY25XYWZuQmxybElKSHVsaVdKaDNpdERUZHlWVzcwcndielFTQ3hVNzU4Smp1b3NQbUREWGNBampHNjJUOXQ3bl9iZF9yOUhZQVJsV21MVmxlZmJKaw?oc=5"
-    },
-    {
       "published": "Mon, 05 Oct 2026 16:35:51 GMT",
       "title": "Tungsten Automation applies agentic AI from capture through payment reconciliation - KMWorld",
       "source": "KMWorld",
       "stage": "APT",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNd2dWMElvRkJxai01ejhEMVFMLTlrRnhsLVoxa2MtWGp6eDVsVVRCR3pXQ0hSci1XbkM3bUNFMU5ZdVREcm9VWEN0NGw0R2xzQmdTcEFlMXlJcjFCN2VobC1BdjVPNkZmcXluczBpUmQ1alNGZ1FteWF2UVZVQ3NJendELUpQai1nWjVrbUFRSnJjTG9YOFptNGJneVFqOGpFRjY5S3V5M3lFTFVGdWhFdm9ScFhoN1VVcFlFTngtalZJNDE3U0FOTWt6NzdyMnFSTzZN?oc=5"
+    },
+    {
+      "published": "Mon, 05 Oct 2026 11:16:07 GMT",
+      "title": "American Tungsten Files the IMA Technical Report - InvestorNews",
+      "source": "InvestorNews",
+      "stage": "materials",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU0huVjFtVXZyVXlyVnd4Ml93cVc2T08xTXFqbGx6MkV4QlZRRVpTVk1oWENZdVlvSmRxY25XYWZuQmxybElKSHVsaVdKaDNpdERUZHlWVzcwcndielFTQ3hVNzU4Smp1b3NQbUREWGNBampHNjJUOXQ3bl9iZF9yOUhZQVJsV21MVmxlZmJKaw?oc=5"
     },
     {
       "published": "Thu, 08 Oct 2026 13:07:35 GMT",
@@ -319,6 +312,13 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE04dkVLdHBNNjJRWHN5elFZcEY3cmV1QnNTcWJHaGxyaGJyNlpuajdSQWI2NU5NdzdZUHJsMEtWa2tCcWZjdFE0eWpDSVBuTktqWU5SOUUzT3U5aVlMZ3V2aHJ3a2JjNm9BOHFwa0NULU9XWGM3?oc=5"
     },
     {
+      "published": "Tue, 29 Sep 2026 07:00:00 GMT",
+      "title": "Tungsten Eagle Development Corp. (Formerly Patriot Resources Corp.) Completes Fundamental Change, Closes $5,000,000 Concurrent Financing and to Commence Trading on the Canadian Securities Exchange - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "stage": "materials",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMm1iOGR4dDlTdF9EMFduNVRoSDdJaExBRGQwS1JBaGJCd3ZlalEzV1gtcWJRbEcyR0N4Tm5fUUVOaEJUeGpJRGkwWVczc1JmdWZZb2VtR01IRlpJZi1YbWFaX1d4Tk5xMllKZTdPd3psLWtDSEJJWDlxalJCYmhBYnpjTXoyNlZYWnRVMTB2bjBkZ0JmQl8tR2JiY0dUdkMxemc0ZkxJZFA?oc=5"
+    },
+    {
       "published": "Wed, 07 Oct 2026 18:26:13 GMT",
       "title": "With \"Ashes\" Tungsten truly master and perfect a metal sound that is entirely their own - Chaoszine",
       "source": "Chaoszine",
@@ -326,18 +326,18 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWjJGNHpjNUtxV3A4U1lkdXpjZVB2MkttQlhHdTROWUlhMFJZLVhzWDR2YnBNYXNHWFdENXpDVlFybkw5TGJxZUJ2MlUwRzJzVjUxLVZ0Uk0zRWFKcDkwYURzVTFSYm50STE0ZUlPQmRCZmZlTUlFRVFhTzlhNlJETzFIT2szWThLZDdyWkhfWG1LbkNvTEhjenBDOEU5OURwRjJjQm55VHgwMGhj?oc=5"
     },
     {
-      "published": "Mon, 05 Oct 2026 07:33:00 GMT",
-      "title": "Australia's Gold Mountain secures exclusive right to acquire historic tungsten mine in Brazil - Mining Weekly",
-      "source": "Mining Weekly",
-      "stage": "mine/concentrate",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRjc1WTZyS1p6OERPODNtU3Y5SUpJU01ITkZXTHlxbHJpNVY4d2wwQy02YXZLb1RvMW9fVmU1M0I4ZmZwLWowZ3lEZlpEMEs2TUdxWHB1T0w5aFdZcVlNVW13Q21lZU5ncFRjalRzcmgyeGgzV2VkSlJKSEw4Y1ptSzhSWUEwX1RPNzM0ZWFBTnAwM3h0bVc2SEIxRWtNZmFMdEQ5Rkd5R2VRQTBBcjM2dF9jMUJmek1IaTV6Zjd4TE1jeGxjTzRFRzdZYUdBSEY2WERMZmRsNA?oc=5"
-    },
-    {
       "published": "Sun, 04 Oct 2026 21:08:42 GMT",
       "title": "Collective Mining (TSX:CNL) Is Down 5.4% After New High-Grade Tungsten-Gold Discovery At Apollo Guayabales - Yahoo Finance",
       "source": "Yahoo Finance",
       "stage": "mine/concentrate",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYWJhTGhVeWhySHRURDFZUFE1c0ZmVU9WM1NuXzhlS1Y1Q1JaNlU4aDA4eGM4dGctMm5KOHlqcWR0ZXFXMWlua3Y0a3VVRHRYeUFsLWx6Q0pSWG5mdk9EcmZWeTk0Z01ZRVgySlFHOFpITms5eHFDRGJXalc3TjlNRU11ZThPY0lrNnBuemszZjV6TEpuY1RpdEFHOA?oc=5"
+    },
+    {
+      "published": "Mon, 05 Oct 2026 07:33:00 GMT",
+      "title": "Australia's Gold Mountain secures exclusive right to acquire historic tungsten mine in Brazil - Mining Weekly",
+      "source": "Mining Weekly",
+      "stage": "mine/concentrate",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRjc1WTZyS1p6OERPODNtU3Y5SUpJU01ITkZXTHlxbHJpNVY4d2wwQy02YXZLb1RvMW9fVmU1M0I4ZmZwLWowZ3lEZlpEMEs2TUdxWHB1T0w5aFdZcVlNVW13Q21lZU5ncFRjalRzcmgyeGgzV2VkSlJKSEw4Y1ptSzhSWUEwX1RPNzM0ZWFBTnAwM3h0bVc2SEIxRWtNZmFMdEQ5Rkd5R2VRQTBBcjM2dF9jMUJmek1IaTV6Zjd4TE1jeGxjTzRFRzdZYUdBSEY2WERMZmRsNA?oc=5"
     },
     {
       "published": "Wed, 07 Oct 2026 08:59:00 GMT",
@@ -355,7 +355,7 @@
     }
   ],
   "equities": {
-    "as_of": "2026-10-09T22:44:41.300085+00:00",
+    "as_of": "2026-10-10T06:02:41.354398+00:00",
     "items": [
       {
         "ticker": "ALM",
@@ -449,7 +449,7 @@
   },
   "battery": {
     "latest": {
-      "as_of": "2026-10-09",
+      "as_of": "2026-10-10",
       "lipf6": {
         "value": 117000,
         "low": 107000,
@@ -460,9 +460,9 @@
         "source": "Mysteel"
       },
       "lithium_carbonate": {
-        "value": 121000.0,
+        "value": 120250.0,
         "low": 118500.0,
-        "high": 123500.0,
+        "high": 122000.0,
         "unit": "CNY/t",
         "label": "Battery-grade Li2CO3",
         "grade": "≥99.5%",
@@ -533,6 +533,14 @@
         "date": "2026-10-09",
         "lipf6": 117000,
         "lithium_carbonate": 121000.0,
+        "utilization_pct": 91.8,
+        "production_t_month": 31000.0,
+        "note": "auto collector"
+      },
+      {
+        "date": "2026-10-10",
+        "lipf6": 117000,
+        "lithium_carbonate": 120250.0,
         "utilization_pct": 91.8,
         "production_t_month": 31000.0,
         "note": "auto collector"
