@@ -1,6 +1,6 @@
 {
   "latest": {
-    "as_of": "2026-10-11T13:59:48.553088+08:00",
+    "as_of": "2026-10-11T21:05:16.594592+08:00",
     "source_date": "2026-10-11",
     "prices": {
       "concentrate": {
@@ -300,13 +300,6 @@
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOLVZuT2doRWRLNUwxS25EZlhUTkV0Qy1JdDdoLUdPRVBQS3A3NzZPN1M4YkRReElKZDRsVmtVTU9vM0ZvaDNTWWNLNU43VjZaTHp2Yy10eU5ORXJXVDdGRkdZQWhuNG9UamgtbEFtdHFnX19BTk1hYmEzQWo3NGx4RFVKaUw5c0czaTNvdHVjWHFaeVYydGZKcHkxenpOUHNkalFBaWJCZXVLQzMtMUlSZksyMmV3T2pFZmV3b09EOUdLdHB6MkFFOWc0ZE1nSDY3Z3N2NUZpS1E?oc=5"
     },
     {
-      "published": "Tue, 29 Sep 2026 07:00:00 GMT",
-      "title": "Tungsten Eagle Development Corp. (Formerly Patriot Resources Corp.) Completes Fundamental Change, Closes $5,000,000 Concurrent Financing and to Commence Trading on the Canadian Securities Exchange - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "stage": "materials",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMm1iOGR4dDlTdF9EMFduNVRoSDdJaExBRGQwS1JBaGJCd3ZlalEzV1gtcWJRbEcyR0N4Tm5fUUVOaEJUeGpJRGkwWVczc1JmdWZZb2VtR01IRlpJZi1YbWFaX1d4Tk5xMllKZTdPd3psLWtDSEJJWDlxalJCYmhBYnpjTXoyNlZYWnRVMTB2bjBkZ0JmQl8tR2JiY0dUdkMxemc0ZkxJZFA?oc=5"
-    },
-    {
       "published": "Mon, 05 Oct 2026 07:33:00 GMT",
       "title": "Australia's Gold Mountain secures exclusive right to acquire historic tungsten mine in Brazil - Mining Weekly",
       "source": "Mining Weekly",
@@ -349,6 +342,13 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNa1ZqZlc1V3AtTEJadUg3TEV3Zi1nSy1HOEF5YUF2b3Q0YWdUT0swdkdQWFQzSnZrTEl0amhqYmpEeVRWbThJOHhYdUJlbkdsbGFhXzkybDZYYjlHYlVwaDJzQ05IdFg4UU4xYWFPUkVRNzdZTkZsN09RU3VyZzVFd1pmSQ?oc=5"
     },
     {
+      "published": "Thu, 08 Oct 2026 12:38:30 GMT",
+      "title": "Traxys and Abenójar sign El Moto tungsten offtake deal - Mining Technology",
+      "source": "Mining Technology",
+      "stage": "mine/concentrate",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQc1ZtUVllazZpMTVXeFVZMHp2Y0VzTVBDRGM0ZzNPTWlxN3ZVTGx6S1pBUEZiSGdDTjByZVQzdjlzUXhQb25VbllTaG9wdWNkaG4waHZtQTRvR3Z5YS1tNWRRQS1qUHV3SXROZmlydFpWSndueFE1STFreEExbFl0SUROTzRZX1U?oc=5"
+    },
+    {
       "published": "Mon, 05 Oct 2026 10:23:51 GMT",
       "title": "Gold Mountain Secures Exclusive Right to Acquire Historic Tungsten Mine in Brazil - IndexBox",
       "source": "IndexBox",
@@ -364,7 +364,7 @@
     }
   ],
   "equities": {
-    "as_of": "2026-10-11T05:59:47.567780+00:00",
+    "as_of": "2026-10-11T13:05:15.659750+00:00",
     "items": [
       {
         "ticker": "ALM",
