@@ -1,6 +1,6 @@
 {
   "latest": {
-    "as_of": "2026-10-13T22:23:14.841928+08:00",
+    "as_of": "2026-10-14T06:55:07.058681+08:00",
     "source_date": "2026-10-13",
     "prices": {
       "concentrate": {
@@ -183,6 +183,13 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5zQkwwZ24xQVZ3N3g1bDRlUzFLc2tiNVVDR19LeXF3SDhlamQzNFc5R1lNdmdvQ1MtaXI1TTQxSWFOWDJUZEl6X0JOODZYNUtudm9DQWJ3Sy1jc2JPQjdLUTVzQ1BiTUJORlJIQ00ybkV4WE1v?oc=5"
     },
     {
+      "published": "Fri, 09 Oct 2026 12:09:06 GMT",
+      "title": "Tungsten – Ashes Review - Angry Metal Guy",
+      "source": "Angry Metal Guy",
+      "stage": "materials",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1wZElwbHBuV1hPbUdtWXp1dFhJT2dpMFozUzE4VXhPV0x1YkVSci1xYk91dl9jaXVIV3EzWjhQZU92eDlNUG5yNlpDVXFIeWNHdVlOZ3paS1o1SWIxaEtYXzRB?oc=5"
+    },
+    {
       "published": "Thu, 08 Oct 2026 13:00:00 GMT",
       "title": "Washington Is Writing Billion-Dollar Checks for Tungsten - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -204,13 +211,6 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE42OGZGaEN4c3ZvTFhUWWJMSi12bmQ0cnEteFNCR3hYeFBSNkplbGkzTlR6SE9tZkhpYW92dlhQZzRic0xUMnh5ZU8tRTZDTFFwTDdhRVhzbVZ4MExSdzFtYzFmeWZlRG1kVEtvWDl3?oc=5"
     },
     {
-      "published": "Wed, 07 Oct 2026 08:00:00 GMT",
-      "title": "Rwanda Tungsten Miner Eyes New York IPO as Munitions Metal Soars - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "stage": "mine/concentrate",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcktKSjd4d2dPdEVSMmIzY0VMY0VrR2Y3NjV0d2IwMUlfUnBDYkJRY0hyTmFfXzI5RG5xYWRZYW9qanZjVDZoYlV6UFdqRHRrQ2JDbVJPU3lFeVBkOG1qOGJhZHgydC1CeENfREFhNDJjR09OT1B2MGd6SDU4MmlGV2ExejZmb0o2VVJuQmtfRU1kaXBlZkVYZFdyaHV4OUF3NlRpMG41dVp1Zk9jWXR4WVNENE45UQ?oc=5"
-    },
-    {
       "published": "Wed, 07 Oct 2026 07:00:00 GMT",
       "title": "Almonty-Rwanda Tungsten Deal To Support US Defence Supply Chains - Fitch Solutions",
       "source": "Fitch Solutions",
@@ -225,18 +225,18 @@
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMHVTVER3WEV1akJyS0QybllCd0JxdWN5aWNycUQ5X0tlM0dmQU9IZzBGTEh5ZnR3MjhGbmp0TzJBcE9HZHVNV1hnQjJtcGpNNmZ3R3pkaVRtVGNJa2o4UmkwZWJOUGFKNkNOSVJFNklDUF9NZTlRclJzUnJKV0ItQlBaU3BIUFhlellIWFByVnBWb2diMnV4bzdFWGh4VkwtWjIyWUYxejA3WERMUURHVi13ejBjR3BFT0RIQWpXd3FEY1VVRS13VEl6eldTUTBNeV8wSWtsNXR0Zw?oc=5"
     },
     {
+      "published": "Wed, 07 Oct 2026 08:00:00 GMT",
+      "title": "Rwanda Tungsten Miner Eyes New York IPO as Munitions Metal Soars - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "stage": "mine/concentrate",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcktKSjd4d2dPdEVSMmIzY0VMY0VrR2Y3NjV0d2IwMUlfUnBDYkJRY0hyTmFfXzI5RG5xYWRZYW9qanZjVDZoYlV6UFdqRHRrQ2JDbVJPU3lFeVBkOG1qOGJhZHgydC1CeENfREFhNDJjR09OT1B2MGd6SDU4MmlGV2ExejZmb0o2VVJuQmtfRU1kaXBlZkVYZFdyaHV4OUF3NlRpMG41dVp1Zk9jWXR4WVNENE45UQ?oc=5"
+    },
+    {
       "published": "Mon, 12 Oct 2026 23:07:44 GMT",
       "title": "Skyline merger puts Kazakh tungsten in play - Metal Tech News",
       "source": "Metal Tech News",
       "stage": "materials",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeV9sTlRtVnZSekEzdjBOSHNkdF9zbDdDbXVycVRYZVc3a3N5amdqME4tZ29rd3F4VVVEUmhrNmdjdTVXNnlaT0p1VEpJSnlJQ2dSSk4taHhlYkJYLTBMSU5ZYUduQVotQ1haVi1xQjRHY2hPdGFfYkFGd3VZWTI4QUIwV0ptUUZBckxiMlFENU4zR2lwalN5YzdwdGZIQ0VoazR1QXV5eXptNTF2SUdkODRB?oc=5"
-    },
-    {
-      "published": "Fri, 09 Oct 2026 12:09:06 GMT",
-      "title": "Tungsten – Ashes Review - Angry Metal Guy",
-      "source": "Angry Metal Guy",
-      "stage": "materials",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1wZElwbHBuV1hPbUdtWXp1dFhJT2dpMFozUzE4VXhPV0x1YkVSci1xYk91dl9jaXVIV3EzWjhQZU92eDlNUG5yNlpDVXFIeWNHdVlOZ3paS1o1SWIxaEtYXzRB?oc=5"
     },
     {
       "published": "Thu, 08 Oct 2026 08:41:00 GMT",
@@ -274,13 +274,6 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUmxtSHk4UDFKZkZuREluTmlqclBLUUVWZ1ZGaERxTEtiRkEzZXIwcUNoaW01MjlXWmxJSm5TRk55WW1PUnpIbzR1T3Z5NDZtanBGYVY4Uko2X0FtMnFmNHc1Z1VDbDh4TDhfc1FIa00wUGpieXZsYjBtaUJ1NE54dVhVOEw5VDlIVHRWMHBiZnpMTmxsQkxEeElsOFd0OWZtSHVUcTQxbjFwYjBPdTlicjhwcUhILVh5?oc=5"
     },
     {
-      "published": "Tue, 13 Oct 2026 13:03:00 GMT",
-      "title": "Six Holes, 3,050 Feet and a Federal Deadline: Nevada Tungsten Moves Toward the Drill - PR Newswire",
-      "source": "PR Newswire",
-      "stage": "materials",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZGN4VXNQVFpocnhXMEsweFlyOUg5OFRhNWg1d3RNT3I3XzdQeVFJMk05NmxwQ29RTzRPb1pxdThlU2ZqVXR6c3ItbEpSdWV6RTQxUkQwX2I4b1VLbm9icnVTN1BPSTI2VWlRSjlTMW1CTjVDcHJ0Vkl3N3J3dl9NN0l5d05vZm1sVzVYMmczV0w3VnNlR0V2X2JRc3dRSmYwbkthZHgwR1lfVVE1QnVwbzhIWmFQUTFzdE1ZVl94a1ByNGRBY3BFcnBlRVFiQldMMHZiRQ?oc=5"
-    },
-    {
       "published": "Wed, 07 Oct 2026 19:52:57 GMT",
       "title": "Tungsten Automation Unveils Invoice-to-Pay Platform - Supply & Demand Chain Executive",
       "source": "Supply & Demand Chain Executive",
@@ -295,25 +288,18 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZE5TNTBpRGgxRlNOSDVBNF9HaWV4QUVvTHpvUDd3ZGtDTjdycTQxUENDTXhNT05sOHNmUjgwYzI0a3RRbE5KSHE2R2MwWlo5Z29fc0RqYUItV09LdmgtMG9KN2ZYQy1oemJOZ0NBa0kxR0d2aVFBaFlWUEJoQ2tOV2luTG9ISHVxb2dUV18tSlUzY0Y0VnJDaTBhUENvTzQ1dFVZRTlPWlM1aGhHLW5vNGI0ZUZyRFFmTnc?oc=5"
     },
     {
-      "published": "Mon, 05 Oct 2026 11:16:07 GMT",
-      "title": "American Tungsten Files the IMA Technical Report - InvestorNews",
-      "source": "InvestorNews",
-      "stage": "materials",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU0huVjFtVXZyVXlyVnd4Ml93cVc2T08xTXFqbGx6MkV4QlZRRVpTVk1oWENZdVlvSmRxY25XYWZuQmxybElKSHVsaVdKaDNpdERUZHlWVzcwcndielFTQ3hVNzU4Smp1b3NQbUREWGNBampHNjJUOXQ3bl9iZF9yOUhZQVJsV21MVmxlZmJKaw?oc=5"
-    },
-    {
-      "published": "Tue, 13 Oct 2026 08:49:00 GMT",
-      "title": "Nevada-focused tungsten developer Perpetual progresses US financing strategy - Mining Weekly",
-      "source": "Mining Weekly",
-      "stage": "mine/concentrate",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNd2hJYkcwREUzREhqcVhvV2pvd2ZMLVZRdjNWNXR0Uk4xSWxpY200ajlaY2UxTTJLb2NyLS0yRXhIcnJGcHEzb3QtVWU0amU5cG4wWmNrSDN1REJBdXVDalZaeEJlM2x1ZTZsb3o3d1Fqa0FBaFg4ZGxEcDJpbW1EXzl5RGNhWFdyTTRHNGFtSkZNZmtpcHJfMzJpcFlRNzcyaVBqWE5KOXhvMHRWZzJ4aVVIX3BLV0gyaVhMM2dZYU5Wdw?oc=5"
-    },
-    {
       "published": "Mon, 05 Oct 2026 16:35:51 GMT",
       "title": "Tungsten Automation applies agentic AI from capture through payment reconciliation - KMWorld",
       "source": "KMWorld",
       "stage": "APT",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNd2dWMElvRkJxai01ejhEMVFMLTlrRnhsLVoxa2MtWGp6eDVsVVRCR3pXQ0hSci1XbkM3bUNFMU5ZdVREcm9VWEN0NGw0R2xzQmdTcEFlMXlJcjFCN2VobC1BdjVPNkZmcXluczBpUmQ1alNGZ1FteWF2UVZVQ3NJendELUpQai1nWjVrbUFRSnJjTG9YOFptNGJneVFqOGpFRjY5S3V5M3lFTFVGdWhFdm9ScFhoN1VVcFlFTngtalZJNDE3U0FOTWt6NzdyMnFSTzZN?oc=5"
+    },
+    {
+      "published": "Mon, 05 Oct 2026 11:16:07 GMT",
+      "title": "American Tungsten Files the IMA Technical Report - InvestorNews",
+      "source": "InvestorNews",
+      "stage": "materials",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU0huVjFtVXZyVXlyVnd4Ml93cVc2T08xTXFqbGx6MkV4QlZRRVpTVk1oWENZdVlvSmRxY25XYWZuQmxybElKSHVsaVdKaDNpdERUZHlWVzcwcndielFTQ3hVNzU4Smp1b3NQbUREWGNBampHNjJUOXQ3bl9iZF9yOUhZQVJsV21MVmxlZmJKaw?oc=5"
     },
     {
       "published": "Thu, 08 Oct 2026 01:08:31 GMT",
@@ -328,6 +314,20 @@
       "source": "Yahoo Finance",
       "stage": "materials",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNa1ZqZlc1V3AtTEJadUg3TEV3Zi1nSy1HOEF5YUF2b3Q0YWdUT0swdkdQWFQzSnZrTEl0amhqYmpEeVRWbThJOHhYdUJlbkdsbGFhXzkybDZYYjlHYlVwaDJzQ05IdFg4UU4xYWFPUkVRNzdZTkZsN09RU3VyZzVFd1pmSQ?oc=5"
+    },
+    {
+      "published": "Tue, 13 Oct 2026 13:03:00 GMT",
+      "title": "Six Holes, 3,050 Feet and a Federal Deadline: Nevada Tungsten Moves Toward the Drill - PR Newswire",
+      "source": "PR Newswire",
+      "stage": "materials",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZGN4VXNQVFpocnhXMEsweFlyOUg5OFRhNWg1d3RNT3I3XzdQeVFJMk05NmxwQ29RTzRPb1pxdThlU2ZqVXR6c3ItbEpSdWV6RTQxUkQwX2I4b1VLbm9icnVTN1BPSTI2VWlRSjlTMW1CTjVDcHJ0Vkl3N3J3dl9NN0l5d05vZm1sVzVYMmczV0w3VnNlR0V2X2JRc3dRSmYwbkthZHgwR1lfVVE1QnVwbzhIWmFQUTFzdE1ZVl94a1ByNGRBY3BFcnBlRVFiQldMMHZiRQ?oc=5"
+    },
+    {
+      "published": "Mon, 05 Oct 2026 14:54:30 GMT",
+      "title": "Gold Mountain signs agreement for Brazilian tungsten mine - Mining Technology",
+      "source": "Mining Technology",
+      "stage": "mine/concentrate",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQM1VlY2I5YlRhTTBBWGhxWUt4bHFzMEN2bTNjNmZsUGxNb3dEMVNwMnJqUnFMOV9LV244djBfTlZ0ZU82eXkyZTRJR3N5YjJIWktodDJUaFE1ZUpiQVdwRXpva3hXd05wejBld0tvc0kxVHpXaUNaZGltdWdVc2lSZGluZDB4YkNFaGw4WElWeFg?oc=5"
     },
     {
       "published": "Mon, 05 Oct 2026 07:33:00 GMT",
@@ -387,12 +387,12 @@
     }
   ],
   "equities": {
-    "as_of": "2026-10-13T14:23:13.854938+00:00",
+    "as_of": "2026-10-13T22:55:06.027451+00:00",
     "items": [
       {
         "ticker": "ALM",
-        "price": 10.975,
-        "change_pct": -15.835889570552142,
+        "price": 10.98,
+        "change_pct": -15.797546012269926,
         "currency": "USD",
         "exchange": "NCM",
         "name": "Almonty Industries",
