@@ -1,7 +1,7 @@
 {
   "latest": {
-    "as_of": "2026-10-12T23:43:33.305307+08:00",
-    "source_date": "2026-10-11",
+    "as_of": "2026-10-13T08:50:02.622403+08:00",
+    "source_date": "2026-10-13",
     "prices": {
       "concentrate": {
         "value": 379000,
@@ -129,6 +129,15 @@
       "wc_powder": 830,
       "wf6_5n": 1810.0,
       "note": "auto collector"
+    },
+    {
+      "date": "2026-10-13",
+      "concentrate": 379000,
+      "apt": 565000,
+      "w_powder": 870,
+      "wc_powder": 830,
+      "wf6_5n": 1810.0,
+      "note": "auto collector"
     }
   ],
   "events": [
@@ -237,6 +246,13 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ196ZFk0ekYtaUcteUpZYXNfQW1jX1FiRlNfYjZDUVFGVllFTlI5ektWWnVXcUdHbkVJLWNZTzU4ZGtxMmRWUk16a2xBTHo5YnlQS2ZSb2RrZ2V2WENJbXV1Zk5taHQyYXRCWndLUTQzNkE3dGgtZWhheVJiWk9iM0tad2JpQThMQXV3YWg2dUFCZjh4MDlNRTEyVUFiRDUycVRZ?oc=5"
     },
     {
+      "published": "Mon, 12 Oct 2026 23:06:59 GMT",
+      "title": "Skyline merger puts Kazakh tungsten in play - Metal Tech News",
+      "source": "Metal Tech News",
+      "stage": "materials",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeV9sTlRtVnZSekEzdjBOSHNkdF9zbDdDbXVycVRYZVc3a3N5amdqME4tZ29rd3F4VVVEUmhrNmdjdTVXNnlaT0p1VEpJSnlJQ2dSSk4taHhlYkJYLTBMSU5ZYUduQVotQ1haVi1xQjRHY2hPdGFfYkFGd3VZWTI4QUIwV0ptUUZBckxiMlFENU4zR2lwalN5YzdwdGZIQ0VoazR1QXV5eXptNTF2SUdkODRB?oc=5"
+    },
+    {
       "published": "Thu, 08 Oct 2026 03:26:41 GMT",
       "title": "Pilot Mountain Tungsten Project, US - Mining Technology",
       "source": "Mining Technology",
@@ -279,18 +295,18 @@
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOejMyNmVjR00zaFprWTNqN1ZVc1JkRmh3WThEU1pZZnlKOVI2b0JPN3VBVEswTi1fR3FKNDdBaGhlVzQ4QTMxSHVVYnNqTkl0dTlKVjlZc05hV2RGSjRVb2J0RzFWSjk5OFBVWXIyWjJjbFljd2tlUzNxTXY4b19wdHl4WlQ5MTNMUWhMdFIyMG1GNnhtRFBSUVJSZHdIMEI5SDdLMHVpOWZRbmZmdXRnc0FuYVFyZ3dRamxTbEJzZ0h6NzBwY1dMVWZmRU1EXzRsRjVvdHl4Q1hibXdPN2pDd29ZOXJVS01leFNDQmNYa2lTZFBZ?oc=5"
     },
     {
-      "published": "Fri, 09 Oct 2026 13:43:19 GMT",
-      "title": "Supply chain resilience needed as tungsten markets evolve: Cove Kaz Capital Group - Fastmarkets",
-      "source": "Fastmarkets",
-      "stage": "materials",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZE5TNTBpRGgxRlNOSDVBNF9HaWV4QUVvTHpvUDd3ZGtDTjdycTQxUENDTXhNT05sOHNmUjgwYzI0a3RRbE5KSHE2R2MwWlo5Z29fc0RqYUItV09LdmgtMG9KN2ZYQy1oemJOZ0NBa0kxR0d2aVFBaFlWUEJoQ2tOV2luTG9ISHVxb2dUV18tSlUzY0Y0VnJDaTBhUENvTzQ1dFVZRTlPWlM1aGhHLW5vNGI0ZUZyRFFmTnc?oc=5"
-    },
-    {
       "published": "Mon, 05 Oct 2026 11:16:07 GMT",
       "title": "American Tungsten Files the IMA Technical Report - InvestorNews",
       "source": "InvestorNews",
       "stage": "materials",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU0huVjFtVXZyVXlyVnd4Ml93cVc2T08xTXFqbGx6MkV4QlZRRVpTVk1oWENZdVlvSmRxY25XYWZuQmxybElKSHVsaVdKaDNpdERUZHlWVzcwcndielFTQ3hVNzU4Smp1b3NQbUREWGNBampHNjJUOXQ3bl9iZF9yOUhZQVJsV21MVmxlZmJKaw?oc=5"
+    },
+    {
+      "published": "Fri, 09 Oct 2026 13:43:19 GMT",
+      "title": "Supply chain resilience needed as tungsten markets evolve: Cove Kaz Capital Group - Fastmarkets",
+      "source": "Fastmarkets",
+      "stage": "materials",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZE5TNTBpRGgxRlNOSDVBNF9HaWV4QUVvTHpvUDd3ZGtDTjdycTQxUENDTXhNT05sOHNmUjgwYzI0a3RRbE5KSHE2R2MwWlo5Z29fc0RqYUItV09LdmgtMG9KN2ZYQy1oemJOZ0NBa0kxR0d2aVFBaFlWUEJoQ2tOV2luTG9ISHVxb2dUV18tSlUzY0Y0VnJDaTBhUENvTzQ1dFVZRTlPWlM1aGhHLW5vNGI0ZUZyRFFmTnc?oc=5"
     },
     {
       "published": "Mon, 05 Oct 2026 16:35:51 GMT",
@@ -305,13 +321,6 @@
       "source": "The Flag - AM 1100 and FM 92.3 WZFG",
       "stage": "mine/concentrate",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOLVZuT2doRWRLNUwxS25EZlhUTkV0Qy1JdDdoLUdPRVBQS3A3NzZPN1M4YkRReElKZDRsVmtVTU9vM0ZvaDNTWWNLNU43VjZaTHp2Yy10eU5ORXJXVDdGRkdZQWhuNG9UamgtbEFtdHFnX19BTk1hYmEzQWo3NGx4RFVKaUw5c0czaTNvdHVjWHFaeVYydGZKcHkxenpOUHNkalFBaWJCZXVLQzMtMUlSZksyMmV3T2pFZmV3b09EOUdLdHB6MkFFOWc0ZE1nSDY3Z3N2NUZpS1E?oc=5"
-    },
-    {
-      "published": "Mon, 05 Oct 2026 14:54:30 GMT",
-      "title": "Gold Mountain signs agreement for Brazilian tungsten mine - Mining Technology",
-      "source": "Mining Technology",
-      "stage": "mine/concentrate",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQM1VlY2I5YlRhTTBBWGhxWUt4bHFzMEN2bTNjNmZsUGxNb3dEMVNwMnJqUnFMOV9LV244djBfTlZ0ZU82eXkyZTRJR3N5YjJIWktodDJUaFE1ZUpiQVdwRXpva3hXd05wejBld0tvc0kxVHpXaUNaZGltdWdVc2lSZGluZDB4YkNFaGw4WElWeFg?oc=5"
     },
     {
       "published": "Tue, 29 Sep 2026 07:00:00 GMT",
@@ -349,13 +358,6 @@
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTVcwODl6TjBJZEFJcjNuUENCZGh3eU1ROU9TUTlpd2ZiRlBFNTdyeUp2cEhtcFF4M1h2UVFqY1F1RGVKaHMzRnhHUUdVWEQ3dnJ5cDFFX210YnY4T2pCV1VQWUFZVGdGQXM5RDdidHFGSjhuSGQxUXJ2Qm85OWVhbUJ0RnZSclBFSzRtNEV2MWVHSV9wNXFMemNsWHFNcU1fV2UyVjNOcUNfTzlxNGZSQWM3aTlEYm9lOVF3YW5PZ3poWEMzakF3STIxbUE1Yjg?oc=5"
     },
     {
-      "published": "Thu, 08 Oct 2026 22:00:00 GMT",
-      "title": "Pilot Mountain tungsten project, US - Mining Weekly",
-      "source": "Mining Weekly",
-      "stage": "mine/concentrate",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORUJFRlhRZnl5ZGREWFRaRUR2dzhJNDdySXI3b2otUDl0aEh2RENxZThMV0l6U2hKUFNQdE92djFWQWZDbF9TX1Y3ZkZKYXpFbUEwcGt6YnNDVnRlMkkyYzgtWWZqc0pXd3BYSGlFU3dTTHpJX3FlZkZyekx2bVBLNHh4RW9MR0hFdUE?oc=5"
-    },
-    {
       "published": "Sun, 04 Oct 2026 21:08:42 GMT",
       "title": "Collective Mining (TSX:CNL) Is Down 5.4% After New High-Grade Tungsten-Gold Discovery At Apollo Guayabales - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -363,27 +365,27 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYWJhTGhVeWhySHRURDFZUFE1c0ZmVU9WM1NuXzhlS1Y1Q1JaNlU4aDA4eGM4dGctMm5KOHlqcWR0ZXFXMWlua3Y0a3VVRHRYeUFsLWx6Q0pSWG5mdk9EcmZWeTk0Z01ZRVgySlFHOFpITms5eHFDRGJXalc3TjlNRU11ZThPY0lrNnBuemszZjV6TEpuY1RpdEFHOA?oc=5"
     },
     {
+      "published": "Thu, 08 Oct 2026 17:00:00 GMT",
+      "title": "Japan's Mitsubishi Materials taps Vietnam for tungsten as China alternative - Nikkei Asia",
+      "source": "Nikkei Asia",
+      "stage": "materials",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUldlQ2VCZ3dqV0VvS2dvUDlvTDJVejVxSnotcXNpbEdWNTJReVcwaDdLOFJNOW9PTVFfN09ycHdTbjNUQUgxNnFlbFVSRFh3eC1jUEpscWFjdnhDUzM3NHBNMGdMcVlTaTNjZ3pkVjAxekZQMHk2bUdtVWFQVng4MTRQb2FkTXBPRFp4TWRaYm5XYXROTllwYVRGazJKQUw5NjZxVnJSWlFnQTljNDFHaXBRYS05UmhCOVU5R3hhRQ?oc=5"
+    },
+    {
       "published": "Mon, 12 Oct 2026 01:13:51 GMT",
       "title": "968% Profit Surge: Can China’s Leading Electrolyte Maker Tianci Materials Dominate Overseas Market After Urgent Hong Kong Fundraising? - 36 Kr",
       "source": "36 Kr",
       "stage": "materials",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBiS004c2hpZDBFVkFDRDFRQXIwZFZ2dGJSQ2xQZ2NScFlMVzA0WDZlSy1WcjNQMm1EWnBqc2tPN2FpeWdCSlRLclh1bVpHb1lEUlU4?oc=5"
-    },
-    {
-      "published": "Mon, 12 Oct 2026 12:55:20 GMT",
-      "title": "Tinci Materials H Share Listing: The Investment Case - Smartkarma",
-      "source": "Smartkarma",
-      "stage": "materials",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTFZCeVJ4TVhuclZfN2ZjTkt5X3h6YlBIQmNCQ2ZDQ2J4LXpKbE9KeVhlME5pSXRRV3BKRE5CMTd2T0pZWS1aLXkyRWJ3c3pWbG5nbWltdVZmSGQ0WUNHU2VpWVcxZXFmb0FGQ1NFTmQ3QlByY1FQQmRaOGJDeUh5QkxLU3ZXYlVfLVZUME5pVVM?oc=5"
     }
   ],
   "equities": {
-    "as_of": "2026-10-12T15:43:32.268146+00:00",
+    "as_of": "2026-10-13T00:50:01.618626+00:00",
     "items": [
       {
         "ticker": "ALM",
-        "price": 11.058,
-        "change_pct": -18.210059171597635,
+        "price": 11.08,
+        "change_pct": -18.0473372781065,
         "currency": "USD",
         "exchange": "NCM",
         "name": "Almonty Industries",
@@ -391,8 +393,8 @@
       },
       {
         "ticker": "093370.KS",
-        "price": 14310.0,
-        "change_pct": -8.911521323997452,
+        "price": 13860.0,
+        "change_pct": -15.436241610738255,
         "currency": "KRW",
         "exchange": "KSC",
         "name": "후성",
@@ -427,8 +429,8 @@
       },
       {
         "ticker": "VMM.AX",
-        "price": 3.6,
-        "change_pct": -7.928388746803073,
+        "price": 3.53,
+        "change_pct": -7.349081364829402,
         "currency": "AUD",
         "exchange": "ASX",
         "name": "Viridis Mining and Minerals",
