@@ -1,7 +1,7 @@
 {
   "latest": {
-    "as_of": "2026-10-15T01:20:36.721994+08:00",
-    "source_date": "2026-10-13",
+    "as_of": "2026-10-15T05:48:09.901003+08:00",
+    "source_date": "2026-10-15",
     "prices": {
       "concentrate": {
         "value": 379000,
@@ -138,6 +138,15 @@
       "wc_powder": 830,
       "wf6_5n": 1810.0,
       "note": "auto collector"
+    },
+    {
+      "date": "2026-10-15",
+      "concentrate": 379000,
+      "apt": 565000,
+      "w_powder": 870,
+      "wc_powder": 830,
+      "wf6_5n": 1810.0,
+      "note": "auto collector"
     }
   ],
   "events": [
@@ -190,6 +199,20 @@
       "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNLU95UVJFTWN2X3Q3VkhadllKcGlLQnlaTHpzNXBPNEs3WmxaWXIyWWZYWHNBLWJnTjVwQlA2ZzNjZm1JVnJEZ0FxREV1ckxNUDRYVVAzbnhVZnA3R2YzdmlWVDVGTHB2Vjk0bEVjUHFtNkM0WmxkY1c4ZU5keEd4MTRRSGpnR3pfZlNQeFZwX2lTUTRJWXlFcE5nemxUdjdpX3M5dDhOYW9QRmR5TmtuZndPTktQYzVTbjR0ZElvVEljMThHSlhMSkNfWlpfUTFCOGczLXJHVVF5VXA2ZFBjUGRHNW5OSzEzM3dZOFZELVBPVkJyOFc1YkRXNGNhTXRxZ0JseDFTaEI2VER5WWRRM2VIVENtTDA3UF9yaVFjVHVrV2VJQ1QtZy1zR3lsM0hXLU1mUzJsMnQ?oc=5"
     },
     {
+      "published": "Fri, 09 Oct 2026 12:09:06 GMT",
+      "title": "Tungsten – Ashes Review - Angry Metal Guy",
+      "source": "Angry Metal Guy",
+      "stage": "materials",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1wZElwbHBuV1hPbUdtWXp1dFhJT2dpMFozUzE4VXhPV0x1YkVSci1xYk91dl9jaXVIV3EzWjhQZU92eDlNUG5yNlpDVXFIeWNHdVlOZ3paS1o1SWIxaEtYXzRB?oc=5"
+    },
+    {
+      "published": "Tue, 13 Oct 2026 10:00:00 GMT",
+      "title": "UK-based tungsten deal links UK mining to defence supply chains - Mining Technology",
+      "source": "Mining Technology",
+      "stage": "mine/concentrate",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSEJ0SGJQUS1CM2Vua3pIdk4wdWVidUhsVWVtZzB5aTgtMzFsZG1QV2FqUnhqN1ZDRHZ2dU5KNTZXSXdpZW8wZDQwcHJvZlVrajlYRlZYOWxRN3NienVmcmM3X1ZfTTg1OUJlbFY0TmlNdzM4WFRtZ2lXZ001WkFwZXpTQlRWQnA0SG1JRllaaWZlM1U1YzF0a1hzdXJ5eE9TUklsNl9rM3J1aEk?oc=5"
+    },
+    {
       "published": "Wed, 07 Oct 2026 07:00:00 GMT",
       "title": "Almonty-Rwanda Tungsten Deal To Support US Defence Supply Chains - Fitch Solutions",
       "source": "Fitch Solutions",
@@ -225,13 +248,6 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeV9sTlRtVnZSekEzdjBOSHNkdF9zbDdDbXVycVRYZVc3a3N5amdqME4tZ29rd3F4VVVEUmhrNmdjdTVXNnlaT0p1VEpJSnlJQ2dSSk4taHhlYkJYLTBMSU5ZYUduQVotQ1haVi1xQjRHY2hPdGFfYkFGd3VZWTI4QUIwV0ptUUZBckxiMlFENU4zR2lwalN5YzdwdGZIQ0VoazR1QXV5eXptNTF2SUdkODRB?oc=5"
     },
     {
-      "published": "Fri, 09 Oct 2026 12:09:06 GMT",
-      "title": "Tungsten – Ashes Review - Angry Metal Guy",
-      "source": "Angry Metal Guy",
-      "stage": "materials",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1wZElwbHBuV1hPbUdtWXp1dFhJT2dpMFozUzE4VXhPV0x1YkVSci1xYk91dl9jaXVIV3EzWjhQZU92eDlNUG5yNlpDVXFIeWNHdVlOZ3paS1o1SWIxaEtYXzRB?oc=5"
-    },
-    {
       "published": "Thu, 08 Oct 2026 08:41:00 GMT",
       "title": "Traxys Europe, Abenójar Tungsten sign offtake agreement - Mining Weekly",
       "source": "Mining Weekly",
@@ -244,13 +260,6 @@
       "source": "Global Mining Review",
       "stage": "mine/concentrate",
       "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPbThYYlp6bkdzUk8zYzhEdEI4MFkwYzJIcVRxanJZSWp6MS1peVJBcmxTQzZBU3dONUxqNXB4NWJCNVFBbk0yWDJVN1dtdzVoME1WaVdjb01uMWk2T3R2ay1neXJPQU54VlVUY1U1SW9ERmVodGFiM081Ty1tSm1pcGRWb0RZZENrcE5nc0YxeHVHTWdkS3pSeW9pdzZ4Q2pYYVVCdlpCX1MzQWFpbWEwYXRGVHE5REhQb2k3YmVRRTFFdzdoVnZuLTdYaTViaTJvYVFOU1ZoV05GZ3JfUmNMZ2NONnVXREREYnpqSTB0TXBOSGJHYVRwTXdBbjRiR2ZPbWJKdXV1Q2XSAY4CQVVfeXFMUERyQkVoLXp4aWxhSy15dUFia0FpRWVheFpzS05LMWlaWW5OSGY3Qzl6WFZRYjkzWEFXVk5YaEdmVmJEbGl2ZWhqak9TUWs3dEZiMDZTVGVHVkFObUl0NXUzU0txckl1cGE1WGkzQVlMMHdOOWlucXRxcjBfbzNRTnlvUmVvTnFuQ0l5bXZrb09ZekVTMUtrWV91OUtqQU55bUZEZ2g1VVBTSXlmUFN0UFBzLVhvcUo0UldlV1B6THZOWW1PcUxsY2pmVEFON3BUUTBXUEtvUFQ3MUN5dDJGWU94dzB6dDNNZnVWelp2a0hFS0dMTnVSdHpPMXlkWUVNZzUxeWhXVU1odEVyaVFn?oc=5"
-    },
-    {
-      "published": "Tue, 13 Oct 2026 10:00:00 GMT",
-      "title": "UK-based tungsten deal links UK mining to defence supply chains - Mining Technology",
-      "source": "Mining Technology",
-      "stage": "mine/concentrate",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSEJ0SGJQUS1CM2Vua3pIdk4wdWVidUhsVWVtZzB5aTgtMzFsZG1QV2FqUnhqN1ZDRHZ2dU5KNTZXSXdpZW8wZDQwcHJvZlVrajlYRlZYOWxRN3NienVmcmM3X1ZfTTg1OUJlbFY0TmlNdzM4WFRtZ2lXZ001WkFwZXpTQlRWQnA0SG1JRllaaWZlM1U1YzF0a1hzdXJ5eE9TUklsNl9rM3J1aEk?oc=5"
     },
     {
       "published": "Mon, 05 Oct 2026 11:16:07 GMT",
@@ -288,13 +297,6 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZE5TNTBpRGgxRlNOSDVBNF9HaWV4QUVvTHpvUDd3ZGtDTjdycTQxUENDTXhNT05sOHNmUjgwYzI0a3RRbE5KSHE2R2MwWlo5Z29fc0RqYUItV09LdmgtMG9KN2ZYQy1oemJOZ0NBa0kxR0d2aVFBaFlWUEJoQ2tOV2luTG9ISHVxb2dUV18tSlUzY0Y0VnJDaTBhUENvTzQ1dFVZRTlPWlM1aGhHLW5vNGI0ZUZyRFFmTnc?oc=5"
     },
     {
-      "published": "Tue, 13 Oct 2026 11:41:00 GMT",
-      "title": "Tungsten Takes on New Importance as U.S. Scrambles for Strategic Mineral Security - AZoMining",
-      "source": "AZoMining",
-      "stage": "mine/concentrate",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBKUjhzZXBIXzFabmhEWnRqenlRYmZJWW5oX3dVQnhoRkkwRXJLbkQxQTZpc1V3ZHdOSTRTOXUxUzdUUW41YzVUdjJmLXpXZDFuRWlBMHVVOHlKdnZt?oc=5"
-    },
-    {
       "published": "Thu, 08 Oct 2026 03:26:41 GMT",
       "title": "Pilot Mountain Tungsten Project, US - Mining Technology",
       "source": "Mining Technology",
@@ -302,18 +304,18 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSTl5aDRDZk1LQ1ZCTTNaM09uNWF4LXJTRFpSY2NpTFZsTFpxdnpJb25DY3Vpc1pNMGc5Z3hENjZVLURTXzZzRTR5OGVmTGR0MURxVzB5V2lVTzA1RVpfRjRpR3dQcEhuZWRrTU9RTmozSmNlY0hmY01neklIeEJTYnIyRkI?oc=5"
     },
     {
-      "published": "Mon, 12 Oct 2026 14:41:41 GMT",
-      "title": "VBN Components introduces pure tungsten Vibenite 500 for Additive Manufacturing - Metal Additive Manufacturing magazine",
-      "source": "Metal Additive Manufacturing magazine",
-      "stage": "materials",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRlFKTmVkUlVxeFNsNF9uZGtPbk53dWRkTE1fdW1NbUo1X0VydzFVR2FUTTlhWjNtNi1kRzlwcHg3bHFnNkhobkV6dmIwNVgxS3JKZ0FhSld5TTZFSFA5a0U1MDVZUUlRdlAwU21ETFdwekx0WFhlV0VBRFNNdTZiUnNmU0o1c1ZZRHJrUVZGbnp4Uzl4NWVjanllRnAzeGswY295WFdtb3E?oc=5"
-    },
-    {
       "published": "Tue, 13 Oct 2026 08:49:00 GMT",
       "title": "Nevada-focused tungsten developer Perpetual progresses US financing strategy - Mining Weekly",
       "source": "Mining Weekly",
       "stage": "mine/concentrate",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNd2hJYkcwREUzREhqcVhvV2pvd2ZMLVZRdjNWNXR0Uk4xSWxpY200ajlaY2UxTTJLb2NyLS0yRXhIcnJGcHEzb3QtVWU0amU5cG4wWmNrSDN1REJBdXVDalZaeEJlM2x1ZTZsb3o3d1Fqa0FBaFg4ZGxEcDJpbW1EXzl5RGNhWFdyTTRHNGFtSkZNZmtpcHJfMzJpcFlRNzcyaVBqWE5KOXhvMHRWZzJ4aVVIX3BLV0gyaVhMM2dZYU5Wdw?oc=5"
+    },
+    {
+      "published": "Tue, 13 Oct 2026 11:41:00 GMT",
+      "title": "Tungsten Takes on New Importance as U.S. Scrambles for Strategic Mineral Security - AZoMining",
+      "source": "AZoMining",
+      "stage": "mine/concentrate",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBKUjhzZXBIXzFabmhEWnRqenlRYmZJWW5oX3dVQnhoRkkwRXJLbkQxQTZpc1V3ZHdOSTRTOXUxUzdUUW41YzVUdjJmLXpXZDFuRWlBMHVVOHlKdnZt?oc=5"
     },
     {
       "published": "Mon, 05 Oct 2026 16:35:51 GMT",
@@ -372,6 +374,13 @@
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQc1ZtUVllazZpMTVXeFVZMHp2Y0VzTVBDRGM0ZzNPTWlxN3ZVTGx6S1pBUEZiSGdDTjByZVQzdjlzUXhQb25VbllTaG9wdWNkaG4waHZtQTRvR3Z5YS1tNWRRQS1qUHV3SXROZmlydFpWSndueFE1STFreEExbFl0SUROTzRZX1U?oc=5"
     },
     {
+      "published": "Mon, 05 Oct 2026 10:23:51 GMT",
+      "title": "Gold Mountain Secures Exclusive Right to Acquire Historic Tungsten Mine in Brazil - IndexBox",
+      "source": "IndexBox",
+      "stage": "mine/concentrate",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdnVhRnpOMHVhTVFRN2pBdXpaYk1CSDByVjg4UVNyZzZuQi1ZZlRsVGx0cldhcHRDZ0xmdmlIajhzWVF2aHBvWGFFWkNlVXFFR1ZoS0ZYR1VFUm1lTFBPNlc3ZWltTEZjRnE0QzdyRUk1OVRyeFc5bDlpMXkxWUlYOEFGQ0swYmxESHJWZi1HYkpVNUVwcXdRVzhjY0IzVlhaY2hYV1VqWE9iMlpSZjZvMw?oc=5"
+    },
+    {
       "published": "Mon, 12 Oct 2026 01:13:51 GMT",
       "title": "968% Profit Surge: Can China’s Leading Electrolyte Maker Tianci Materials Dominate Overseas Market After Urgent Hong Kong Fundraising? - 36 Kr",
       "source": "36 Kr",
@@ -387,12 +396,12 @@
     }
   ],
   "equities": {
-    "as_of": "2026-10-14T17:20:35.680385+00:00",
+    "as_of": "2026-10-14T21:48:08.811492+00:00",
     "items": [
       {
         "ticker": "ALM",
-        "price": 10.155,
-        "change_pct": -16.07438016528926,
+        "price": 10.19,
+        "change_pct": -15.78512396694215,
         "currency": "USD",
         "exchange": "NCM",
         "name": "Almonty Industries",
@@ -481,7 +490,7 @@
   },
   "battery": {
     "latest": {
-      "as_of": "2026-10-14",
+      "as_of": "2026-10-13",
       "lipf6": {
         "value": 117000,
         "low": 107000,
@@ -596,7 +605,7 @@
       {
         "date": "2026-10-13",
         "lipf6": 117000,
-        "lithium_carbonate": 111750.0,
+        "lithium_carbonate": 108850.0,
         "utilization_pct": 91.8,
         "production_t_month": 32500.0,
         "note": "auto collector"
