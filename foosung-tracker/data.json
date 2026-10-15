@@ -1,6 +1,6 @@
 {
   "latest": {
-    "as_of": "2026-10-16T01:10:20.587535+08:00",
+    "as_of": "2026-10-16T05:31:26.226458+08:00",
     "source_date": "2026-10-15",
     "prices": {
       "concentrate": {
@@ -185,6 +185,13 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5zQkwwZ24xQVZ3N3g1bDRlUzFLc2tiNVVDR19LeXF3SDhlamQzNFc5R1lNdmdvQ1MtaXI1TTQxSWFOWDJUZEl6X0JOODZYNUtudm9DQWJ3Sy1jc2JPQjdLUTVzQ1BiTUJORlJIQ00ybkV4WE1v?oc=5"
     },
     {
+      "published": "Fri, 09 Oct 2026 12:09:06 GMT",
+      "title": "Tungsten – Ashes Review - Angry Metal Guy",
+      "source": "Angry Metal Guy",
+      "stage": "materials",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1wZElwbHBuV1hPbUdtWXp1dFhJT2dpMFozUzE4VXhPV0x1YkVSci1xYk91dl9jaXVIV3EzWjhQZU92eDlNUG5yNlpDVXFIeWNHdVlOZ3paS1o1SWIxaEtYXzRB?oc=5"
+    },
+    {
       "published": "Wed, 14 Oct 2026 06:21:00 GMT",
       "title": "EXCLUSIVE: EU seeks closer Vietnam ties on critical minerals in China hedge, documents show - Reuters",
       "source": "Reuters",
@@ -206,13 +213,6 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbzczSnptemlCa3Rnd3BWWkVpREdUTWpKVzhrRDVsblZhSERCbllTLS1GWTFYTEUxemxob0JnQXVtbElmdU1tUUYxdXNsZnJ0bFZWNzhzQ3F5RVBPbmRFUGlfWm1SSGVmVWt5N1V5eDd1T3ptZjBOZUJkVWRHNnVqMV9FQ1RVNWRGd3V1NFRlTjJOYW8?oc=5"
     },
     {
-      "published": "Fri, 09 Oct 2026 12:09:06 GMT",
-      "title": "Tungsten – Ashes Review - Angry Metal Guy",
-      "source": "Angry Metal Guy",
-      "stage": "materials",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1wZElwbHBuV1hPbUdtWXp1dFhJT2dpMFozUzE4VXhPV0x1YkVSci1xYk91dl9jaXVIV3EzWjhQZU92eDlNUG5yNlpDVXFIeWNHdVlOZ3paS1o1SWIxaEtYXzRB?oc=5"
-    },
-    {
       "published": "Wed, 07 Oct 2026 07:00:00 GMT",
       "title": "Almonty-Rwanda Tungsten Deal To Support US Defence Supply Chains - Fitch Solutions",
       "source": "Fitch Solutions",
@@ -220,18 +220,18 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVnVrR3k5V1JSRWE2Q000VVpCTHh5NjRTOTdmMUY2TUpWbjE0MWpfdnVtNmxSUVpYc3FmNDRYcW9VNERTa0otRlJ0czAweUlwWEszbUFGbnZZREJzMWtoZUlLQkQ5RHhhTjBrUThsSllzdXZWN2RJcnhpZHZXaFh1NldrQy1CMWNaekk0ODVtM0VpRlh4a3dkMWVELURiY19SRHpEU0VMUGRNamhtclAyZXBab1U0OXVJQk1WSWRsdEhZUQ?oc=5"
     },
     {
-      "published": "Tue, 13 Oct 2026 10:00:00 GMT",
-      "title": "UK-based tungsten deal links UK mining to defence supply chains - Mining Technology",
-      "source": "Mining Technology",
-      "stage": "mine/concentrate",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSEJ0SGJQUS1CM2Vua3pIdk4wdWVidUhsVWVtZzB5aTgtMzFsZG1QV2FqUnhqN1ZDRHZ2dU5KNTZXSXdpZW8wZDQwcHJvZlVrajlYRlZYOWxRN3NienVmcmM3X1ZfTTg1OUJlbFY0TmlNdzM4WFRtZ2lXZ001WkFwZXpTQlRWQnA0SG1JRllaaWZlM1U1YzF0a1hzdXJ5eE9TUklsNl9rM3J1aEk?oc=5"
-    },
-    {
       "published": "Tue, 06 Oct 2026 18:14:00 GMT",
       "title": "Gold Mountain Expands in Brazil's Tungsten District - Investing News Network",
       "source": "Investing News Network",
       "stage": "materials",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE42OGZGaEN4c3ZvTFhUWWJMSi12bmQ0cnEteFNCR3hYeFBSNkplbGkzTlR6SE9tZkhpYW92dlhQZzRic0xUMnh5ZU8tRTZDTFFwTDdhRVhzbVZ4MExSdzFtYzFmeWZlRG1kVEtvWDl3?oc=5"
+    },
+    {
+      "published": "Tue, 13 Oct 2026 10:00:00 GMT",
+      "title": "UK-based tungsten deal links UK mining to defence supply chains - Mining Technology",
+      "source": "Mining Technology",
+      "stage": "mine/concentrate",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSEJ0SGJQUS1CM2Vua3pIdk4wdWVidUhsVWVtZzB5aTgtMzFsZG1QV2FqUnhqN1ZDRHZ2dU5KNTZXSXdpZW8wZDQwcHJvZlVrajlYRlZYOWxRN3NienVmcmM3X1ZfTTg1OUJlbFY0TmlNdzM4WFRtZ2lXZ001WkFwZXpTQlRWQnA0SG1JRllaaWZlM1U1YzF0a1hzdXJ5eE9TUklsNl9rM3J1aEk?oc=5"
     },
     {
       "published": "Wed, 07 Oct 2026 08:00:00 GMT",
@@ -269,18 +269,18 @@
       "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPbThYYlp6bkdzUk8zYzhEdEI4MFkwYzJIcVRxanJZSWp6MS1peVJBcmxTQzZBU3dONUxqNXB4NWJCNVFBbk0yWDJVN1dtdzVoME1WaVdjb01uMWk2T3R2ay1neXJPQU54VlVUY1U1SW9ERmVodGFiM081Ty1tSm1pcGRWb0RZZENrcE5nc0YxeHVHTWdkS3pSeW9pdzZ4Q2pYYVVCdlpCX1MzQWFpbWEwYXRGVHE5REhQb2k3YmVRRTFFdzdoVnZuLTdYaTViaTJvYVFOU1ZoV05GZ3JfUmNMZ2NONnVXREREYnpqSTB0TXBOSGJHYVRwTXdBbjRiR2ZPbWJKdXV1Q2XSAY4CQVVfeXFMUERyQkVoLXp4aWxhSy15dUFia0FpRWVheFpzS05LMWlaWW5OSGY3Qzl6WFZRYjkzWEFXVk5YaEdmVmJEbGl2ZWhqak9TUWs3dEZiMDZTVGVHVkFObUl0NXUzU0txckl1cGE1WGkzQVlMMHdOOWlucXRxcjBfbzNRTnlvUmVvTnFuQ0l5bXZrb09ZekVTMUtrWV91OUtqQU55bUZEZ2g1VVBTSXlmUFN0UFBzLVhvcUo0UldlV1B6THZOWW1PcUxsY2pmVEFON3BUUTBXUEtvUFQ3MUN5dDJGWU94dzB6dDNNZnVWelp2a0hFS0dMTnVSdHpPMXlkWUVNZzUxeWhXVU1odEVyaVFn?oc=5"
     },
     {
-      "published": "Mon, 05 Oct 2026 11:16:07 GMT",
-      "title": "American Tungsten Files the IMA Technical Report - InvestorNews",
-      "source": "InvestorNews",
-      "stage": "materials",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU0huVjFtVXZyVXlyVnd4Ml93cVc2T08xTXFqbGx6MkV4QlZRRVpTVk1oWENZdVlvSmRxY25XYWZuQmxybElKSHVsaVdKaDNpdERUZHlWVzcwcndielFTQ3hVNzU4Smp1b3NQbUREWGNBampHNjJUOXQ3bl9iZF9yOUhZQVJsV21MVmxlZmJKaw?oc=5"
-    },
-    {
       "published": "Thu, 08 Oct 2026 01:08:31 GMT",
       "title": "Tungco CEO highlights critical mineral vulnerabilities and U.S. efforts to secure domestic tungsten supply - The Flag - AM 1100 and FM 92.3 WZFG",
       "source": "The Flag - AM 1100 and FM 92.3 WZFG",
       "stage": "mine/concentrate",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOLVZuT2doRWRLNUwxS25EZlhUTkV0Qy1JdDdoLUdPRVBQS3A3NzZPN1M4YkRReElKZDRsVmtVTU9vM0ZvaDNTWWNLNU43VjZaTHp2Yy10eU5ORXJXVDdGRkdZQWhuNG9UamgtbEFtdHFnX19BTk1hYmEzQWo3NGx4RFVKaUw5c0czaTNvdHVjWHFaeVYydGZKcHkxenpOUHNkalFBaWJCZXVLQzMtMUlSZksyMmV3T2pFZmV3b09EOUdLdHB6MkFFOWc0ZE1nSDY3Z3N2NUZpS1E?oc=5"
+    },
+    {
+      "published": "Wed, 07 Oct 2026 11:00:00 GMT",
+      "title": "Potential partners have shown strong interest in Cadrenal. The company is evaluating possible deals. - Stock Titan",
+      "source": "Stock Titan",
+      "stage": "materials",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUmxtSHk4UDFKZkZuREluTmlqclBLUUVWZ1ZGaERxTEtiRkEzZXIwcUNoaW01MjlXWmxJSm5TRk55WW1PUnpIbzR1T3Z5NDZtanBGYVY4Uko2X0FtMnFmNHc1Z1VDbDh4TDhfc1FIa00wUGpieXZsYjBtaUJ1NE54dVhVOEw5VDlIVHRWMHBiZnpMTmxsQkxEeElsOFd0OWZtSHVUcTQxbjFwYjBPdTlicjhwcUhILVh5?oc=5"
     },
     {
       "published": "Thu, 15 Oct 2026 00:00:00 GMT",
@@ -309,13 +309,6 @@
       "source": "Mining Weekly",
       "stage": "mine/concentrate",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNd2hJYkcwREUzREhqcVhvV2pvd2ZMLVZRdjNWNXR0Uk4xSWxpY200ajlaY2UxTTJLb2NyLS0yRXhIcnJGcHEzb3QtVWU0amU5cG4wWmNrSDN1REJBdXVDalZaeEJlM2x1ZTZsb3o3d1Fqa0FBaFg4ZGxEcDJpbW1EXzl5RGNhWFdyTTRHNGFtSkZNZmtpcHJfMzJpcFlRNzcyaVBqWE5KOXhvMHRWZzJ4aVVIX3BLV0gyaVhMM2dZYU5Wdw?oc=5"
-    },
-    {
-      "published": "Wed, 07 Oct 2026 11:00:00 GMT",
-      "title": "Potential partners have shown strong interest in Cadrenal. The company is evaluating possible deals. - Stock Titan",
-      "source": "Stock Titan",
-      "stage": "materials",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUmxtSHk4UDFKZkZuREluTmlqclBLUUVWZ1ZGaERxTEtiRkEzZXIwcUNoaW01MjlXWmxJSm5TRk55WW1PUnpIbzR1T3Z5NDZtanBGYVY4Uko2X0FtMnFmNHc1Z1VDbDh4TDhfc1FIa00wUGpieXZsYjBtaUJ1NE54dVhVOEw5VDlIVHRWMHBiZnpMTmxsQkxEeElsOFd0OWZtSHVUcTQxbjFwYjBPdTlicjhwcUhILVh5?oc=5"
     },
     {
       "published": "Wed, 07 Oct 2026 19:52:57 GMT",
@@ -360,11 +353,18 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWjJGNHpjNUtxV3A4U1lkdXpjZVB2MkttQlhHdTROWUlhMFJZLVhzWDR2YnBNYXNHWFdENXpDVlFybkw5TGJxZUJ2MlUwRzJzVjUxLVZ0Uk0zRWFKcDkwYURzVTFSYm50STE0ZUlPQmRCZmZlTUlFRVFhTzlhNlJETzFIT2szWThLZDdyWkhfWG1LbkNvTEhjenBDOEU5OURwRjJjQm55VHgwMGhj?oc=5"
     },
     {
-      "published": "Mon, 05 Oct 2026 07:33:00 GMT",
-      "title": "Australia's Gold Mountain secures exclusive right to acquire historic tungsten mine in Brazil - Mining Weekly",
-      "source": "Mining Weekly",
-      "stage": "mine/concentrate",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRjc1WTZyS1p6OERPODNtU3Y5SUpJU01ITkZXTHlxbHJpNVY4d2wwQy02YXZLb1RvMW9fVmU1M0I4ZmZwLWowZ3lEZlpEMEs2TUdxWHB1T0w5aFdZcVlNVW13Q21lZU5ncFRjalRzcmgyeGgzV2VkSlJKSEw4Y1ptSzhSWUEwX1RPNzM0ZWFBTnAwM3h0bVc2SEIxRWtNZmFMdEQ5Rkd5R2VRQTBBcjM2dF9jMUJmek1IaTV6Zjd4TE1jeGxjTzRFRzdZYUdBSEY2WERMZmRsNA?oc=5"
+      "published": "Thu, 15 Oct 2026 13:00:00 GMT",
+      "title": "Tungsten Automation Launches Pay+ to Bring Invoice Intelligence into Every Payment Transaction - Business Wire",
+      "source": "Business Wire",
+      "stage": "materials",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbmdWUjl1VldfR1Z2QlUtT0hObFFHeVFJbEFPbGJUX1hveHRaYzI1YUpfaFpOOFQzNG93WTgtM05NUlJ3MlExM2x4LWMyMWRjRUZfNmdpN2xwcVdLd2hObzRoOFZmZHM0N0Z6SDlucnRtVTFNOFdYOURybnRSM1hfeVBxWTdyWE9pTGJndzAydWVfNzZWb1B2aDRybzRoYWtUZG9jT0JnMGFSS2pYUGhXYV9fMWhDM2VNMGV3dW9sa3lVbnpZdndraklhV3hZY0tPSnEtQTd0blBtVldhb2o4WHBVSkw?oc=5"
+    },
+    {
+      "published": "Thu, 15 Oct 2026 17:10:43 GMT",
+      "title": "Tungsten Automation launches pay+ invoice payment platform in Denver - ColoradoBiz",
+      "source": "ColoradoBiz",
+      "stage": "materials",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPd3gzZEZWWnVQMmRWRzVZQ3lTdmtJblNmeUFuWmpfdURKcEMyTjVXVndGNlMtSjF4YUZpX3lORUNJUmhwTHBHZTRxTk9GajRHSGQ1Wi0yS2wzYzRmaWZacEdYM2lRQ1RKV0xOeXdnWnFrSENTd2V1LUNxYmJpY2w2czgtUGJScXpmdXpmSEdEVUc?oc=5"
     },
     {
       "published": "Mon, 05 Oct 2026 13:40:52 GMT",
@@ -374,11 +374,11 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE04dkVLdHBNNjJRWHN5elFZcEY3cmV1QnNTcWJHaGxyaGJyNlpuajdSQWI2NU5NdzdZUHJsMEtWa2tCcWZjdFE0eWpDSVBuTktqWU5SOUUzT3U5aVlMZ3V2aHJ3a2JjNm9BOHFwa0NULU9XWGM3?oc=5"
     },
     {
-      "published": "Wed, 07 Oct 2026 12:59:00 GMT",
-      "title": "Fox Tungsten reports high-grade tungsten intercepts at RC South - Yahoo Finance",
-      "source": "Yahoo Finance",
+      "published": "Tue, 06 Oct 2026 19:00:00 GMT",
+      "title": "CERATIZIT highlights tungsten supply chain independence - Canadian Metalworking",
+      "source": "Canadian Metalworking",
       "stage": "materials",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNa1ZqZlc1V3AtTEJadUg3TEV3Zi1nSy1HOEF5YUF2b3Q0YWdUT0swdkdQWFQzSnZrTEl0amhqYmpEeVRWbThJOHhYdUJlbkdsbGFhXzkybDZYYjlHYlVwaDJzQ05IdFg4UU4xYWFPUkVRNzdZTkZsN09RU3VyZzVFd1pmSQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTVcwODl6TjBJZEFJcjNuUENCZGh3eU1ROU9TUTlpd2ZiRlBFNTdyeUp2cEhtcFF4M1h2UVFqY1F1RGVKaHMzRnhHUUdVWEQ3dnJ5cDFFX210YnY4T2pCV1VQWUFZVGdGQXM5RDdidHFGSjhuSGQxUXJ2Qm85OWVhbUJ0RnZSclBFSzRtNEV2MWVHSV9wNXFMemNsWHFNcU1fV2UyVjNOcUNfTzlxNGZSQWM3aTlEYm9lOVF3YW5PZ3poWEMzakF3STIxbUE1Yjg?oc=5"
     },
     {
       "published": "Thu, 15 Oct 2026 09:02:00 GMT",
@@ -424,12 +424,12 @@
     }
   ],
   "equities": {
-    "as_of": "2026-10-15T17:10:19.574514+00:00",
+    "as_of": "2026-10-15T21:31:25.178235+00:00",
     "items": [
       {
         "ticker": "ALM",
-        "price": 9.991,
-        "change_pct": -13.647363872082973,
+        "price": 10.1,
+        "change_pct": -12.705272255834055,
         "currency": "USD",
         "exchange": "NCM",
         "name": "Almonty Industries",
