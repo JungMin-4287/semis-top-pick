@@ -1,6 +1,6 @@
 {
   "latest": {
-    "as_of": "2026-10-21T05:43:20.104736+08:00",
+    "as_of": "2026-10-21T12:59:59.015335+08:00",
     "source_date": "2026-10-21",
     "prices": {
       "concentrate": {
@@ -198,6 +198,13 @@
   ],
   "news": [
     {
+      "published": "Fri, 09 Oct 2026 07:00:00 GMT",
+      "title": "Technical Meeting on Tungsten and Hydrogen in Edge Plasmas - International Atomic Energy Agency",
+      "source": "International Atomic Energy Agency",
+      "stage": "materials",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Sd05iWTVwVHFPbkpzRkNOMFlMVEtvLVFEdWs4MU40czQ1VGVqWk5TbW11cUVPYkFoRW9SVWVfQnJSeHFzSldjWHYzZUpWZw?oc=5"
+    },
+    {
       "published": "Mon, 19 Oct 2026 10:30:57 GMT",
       "title": "CME plans tungsten futures as demand for weapons rises - Financial Times",
       "source": "Financial Times",
@@ -233,6 +240,13 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVWFEV3NKNzd5OXpBQVNlYnJLMnc3TTh6ZUs1bmlPS1NiTkJRcHNMdVBjWDh6N0NPMGl4STlEekNQOFBaRE4tQWVIUURRUzlGRzFwYkpzNjlveEhNcFZBRlFxUGFNbXZmSVppMXlVRm9MYWtYYUtNUUZfeE1JdmFYMjZSVHpfcWdaZzMtbld6Nlg0UmFxaHNtOEM0V2l2SENobUNRVzlmdU96TmVBTFpEYw?oc=5"
     },
     {
+      "published": "Tue, 20 Oct 2026 08:41:09 GMT",
+      "title": "CME to Launch Tungsten Futures, Expand Dairy Suite - Markets Media",
+      "source": "Markets Media",
+      "stage": "materials",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWHdGbXdmMk00ZjktY3ZHd1JIbTVEeFVRaVBKLTg4VTgwaklBZWxyZ213X2pmMFhWZmVkRDYwZ0xTaDZadFVsRWtwUHNBMDZLaGIydmNGOUg4M01uZkR1SElJWFZGTHpLRWtjNUZ2aE9pYWZzRDJvamFsVkg1azFGWWpYVERFenppTzVmbE5EQURhQ1FJRGR3?oc=5"
+    },
+    {
       "published": "Tue, 20 Oct 2026 13:51:00 GMT",
       "title": "ReMA's Wiener discusses export controls on black mass, tungsten - Recycling Today",
       "source": "Recycling Today",
@@ -247,32 +261,25 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQWsyeUhsb0RBX2oyRzNyUEZWajZSV1BvUDNWSzZRWmdwbjl4dXBoN1UzNWZIeTBUTmlYZUYwbWIxY3oweFlWQmNtY0xrV3RUY2E4a0NmUG85YmRxeVdSY1Ryek92ZVpfblZJdUtheEREWHBwaTBhRXEwQmptMGpSM1JDZFVRa3A5eFZEV29QbmVvX0p2dGpiQXk5YV9Edw?oc=5"
     },
     {
-      "published": "Tue, 20 Oct 2026 08:41:09 GMT",
-      "title": "CME to Launch Tungsten Futures, Expand Dairy Suite - Markets Media",
-      "source": "Markets Media",
-      "stage": "materials",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWHdGbXdmMk00ZjktY3ZHd1JIbTVEeFVRaVBKLTg4VTgwaklBZWxyZ213X2pmMFhWZmVkRDYwZ0xTaDZadFVsRWtwUHNBMDZLaGIydmNGOUg4M01uZkR1SElJWFZGTHpLRWtjNUZ2aE9pYWZzRDJvamFsVkg1azFGWWpYVERFenppTzVmbE5EQURhQ1FJRGR3?oc=5"
-    },
-    {
-      "published": "Mon, 12 Oct 2026 23:07:44 GMT",
-      "title": "Skyline merger puts Kazakh tungsten in play - Metal Tech News",
-      "source": "Metal Tech News",
-      "stage": "materials",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeV9sTlRtVnZSekEzdjBOSHNkdF9zbDdDbXVycVRYZVc3a3N5amdqME4tZ29rd3F4VVVEUmhrNmdjdTVXNnlaT0p1VEpJSnlJQ2dSSk4taHhlYkJYLTBMSU5ZYUduQVotQ1haVi1xQjRHY2hPdGFfYkFGd3VZWTI4QUIwV0ptUUZBckxiMlFENU4zR2lwalN5YzdwdGZIQ0VoazR1QXV5eXptNTF2SUdkODRB?oc=5"
-    },
-    {
-      "published": "Thu, 15 Oct 2026 00:00:00 GMT",
-      "title": "Almonty Industries: The tungsten supply chain’s missing link - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "stage": "materials",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMEhFMmdaT0dqRHgxV3BINFRhMU5iX21pZkE2RFFmdWR6bmxHbUFBbC1PekpFSzhTLWlaQUpVNHd6QkFwdFNoU1RUUU92UzMxZ0ZQc2N1VW1IV3k5VWQxdkduaDRsdXdjWW0ySTl2X0pDR3NPcGRYMzRjeE0tZVNpUUd0UnBNNVY5QWhuam5wRzJ4c3czY19qN2p2bUlRYnBFZTB5cUVKMkE2d3hRVUJ3?oc=5"
-    },
-    {
       "published": "Mon, 19 Oct 2026 10:00:00 GMT",
       "title": "Tungsten has no market for future prices. CME plans a contract, pending regulatory reviews. - Stock Titan",
       "source": "Stock Titan",
       "stage": "materials",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcWl3T1ZKSTk5Wk1Ya3hGTjlxME5yNzlweGdCYjJsVzl2bUs0cDVhQTAta0twbTVfR2xGcWR6eWdjcDFhTld0cUdsekxDeXFVeEx4OV9CZHJUVFowOVlqNTRDZzVwdFJqS3hERUVPamVBYjdzSmNsald2VGk4U3V3Y25hSjE1SHlMcTRTc0lybHdzWXJLSGFWVVJta3ZGZmZXRG05TGlUVk9FOTNyT3Q1ZVQwZ3pKUEk?oc=5"
+    },
+    {
+      "published": "Wed, 21 Oct 2026 03:23:00 GMT",
+      "title": "What Is CME Group (CME) Expanding With Tungsten And New Crypto Futures? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "stage": "materials",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdVJWMkM1UnBQNGk3cjlBWC12VlQ3eDY4LVhxWE15bmt5eU1FaXVHNU9FTmRMcVBwbW1wdF80OGt5RHAyQVhNVExhTEhtS2tZYnFNWXQxSXR1eXFOTXRyemsyYzhlSHhJRUVkSnV3S2lHSDNaSzVUZUw1WlFqVjNMWlVibjg2bWROT0xVMkNhTFBsT3cyaElkOUNVQkxFQQ?oc=5"
+    },
+    {
+      "published": "Wed, 14 Oct 2026 22:16:27 GMT",
+      "title": "Scimplify turns scrap into tungsten supply - Metal Tech News",
+      "source": "Metal Tech News",
+      "stage": "materials",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUk10ZXhRY2hPUGFYdldxZ2RfOFV5bmJTNU9uc053akpqajFOSl9CVjlxRDBoNzlTXy1UUlpSTkQ5S29URUtDam9jUjdNSXBTcVBmRWtRVEYtcjdlSGx4M09Hc2h3RklnUW1CaVBZNEo0T1BCWGN0anNRczFpc3hYbFlLdTIzR3A5Y3U1ME1EdmNuRVdiUnZ3YmhxLVpxMml5cEVuUE1sdVlaMHAtOHFNbg?oc=5"
     },
     {
       "published": "Mon, 19 Oct 2026 11:58:19 GMT",
@@ -296,18 +303,18 @@
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZGN4VXNQVFpocnhXMEsweFlyOUg5OFRhNWg1d3RNT3I3XzdQeVFJMk05NmxwQ29RTzRPb1pxdThlU2ZqVXR6c3ItbEpSdWV6RTQxUkQwX2I4b1VLbm9icnVTN1BPSTI2VWlRSjlTMW1CTjVDcHJ0Vkl3N3J3dl9NN0l5d05vZm1sVzVYMmczV0w3VnNlR0V2X2JRc3dRSmYwbkthZHgwR1lfVVE1QnVwbzhIWmFQUTFzdE1ZVl94a1ByNGRBY3BFcnBlRVFiQldMMHZiRQ?oc=5"
     },
     {
-      "published": "Wed, 14 Oct 2026 22:16:27 GMT",
-      "title": "Scimplify turns scrap into tungsten supply - Metal Tech News",
-      "source": "Metal Tech News",
-      "stage": "materials",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUk10ZXhRY2hPUGFYdldxZ2RfOFV5bmJTNU9uc053akpqajFOSl9CVjlxRDBoNzlTXy1UUlpSTkQ5S29URUtDam9jUjdNSXBTcVBmRWtRVEYtcjdlSGx4M09Hc2h3RklnUW1CaVBZNEo0T1BCWGN0anNRczFpc3hYbFlLdTIzR3A5Y3U1ME1EdmNuRVdiUnZ3YmhxLVpxMml5cEVuUE1sdVlaMHAtOHFNbg?oc=5"
-    },
-    {
-      "published": "Mon, 19 Oct 2026 10:27:59 GMT",
-      "title": "CME Group to Launch Tungsten Futures by Early 2027 - Yahoo Finance",
+      "published": "Thu, 15 Oct 2026 00:00:00 GMT",
+      "title": "Almonty Industries: The tungsten supply chain’s missing link - Yahoo Finance",
       "source": "Yahoo Finance",
       "stage": "materials",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT0xmTUNGUExJb1M3QzU3Nnc3cXdHVW9PRFJnTU5XM0JFdHRaSGhYUWJKX3NMX01sRHJZd2I1NVZZU2JCaXBYczJXMWlXSmd2TVJYODVNSTctMGZreF8yeS0zbzVvMkV5OC1GekkxV3BGLUZmamxOZVlfZFNaX1RRYXctUGJkUk1lT25XenU5OHVzb3duOVIwMGZQVEtOZ0xqVXFtQnJn?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMEhFMmdaT0dqRHgxV3BINFRhMU5iX21pZkE2RFFmdWR6bmxHbUFBbC1PekpFSzhTLWlaQUpVNHd6QkFwdFNoU1RUUU92UzMxZ0ZQc2N1VW1IV3k5VWQxdkduaDRsdXdjWW0ySTl2X0pDR3NPcGRYMzRjeE0tZVNpUUd0UnBNNVY5QWhuam5wRzJ4c3czY19qN2p2bUlRYnBFZTB5cUVKMkE2d3hRVUJ3?oc=5"
+    },
+    {
+      "published": "Mon, 12 Oct 2026 07:00:00 GMT",
+      "title": "Skyline merger puts Kazakh tungsten in play - Metal Tech News",
+      "source": "Metal Tech News",
+      "stage": "materials",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeV9sTlRtVnZSekEzdjBOSHNkdF9zbDdDbXVycVRYZVc3a3N5amdqME4tZ29rd3F4VVVEUmhrNmdjdTVXNnlaT0p1VEpJSnlJQ2dSSk4taHhlYkJYLTBMSU5ZYUduQVotQ1haVi1xQjRHY2hPdGFfYkFGd3VZWTI4QUIwV0ptUUZBckxiMlFENU4zR2lwalN5YzdwdGZIQ0VoazR1QXV5eXptNTF2SUdkODRB?oc=5"
     },
     {
       "published": "Fri, 16 Oct 2026 12:51:12 GMT",
@@ -317,18 +324,25 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMThFOHlpMkhLZ0FXb0tic1NiS1RKQUo2Wnh4YnJZd2VFYXNfY000UDAtY19YU01ndUpGY0tqOVlNV09PZ3RibGVXRWpJV1JIQmZ1SHBqZUNVQkdGUFlzWjdfZXFYOWo1WURfUUltRzRtbm15enB3N0I0TDlqSXY2OVBvUHk1bzJZQ1VLWg?oc=5"
     },
     {
+      "published": "Wed, 21 Oct 2026 02:12:00 GMT",
+      "title": "Almonty Industries (ALM) Stock May Be A Bargain After Sangdong Certification - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "stage": "mine/concentrate",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWGZ0QURNa01wT0VOMnNqUnU2TVJLOXBVY2p6UnNIUVd4YzZib2VnR1pRVnRmcG8wdW9JOVhBZkRFODlIWjVvWG9tNVZIcFVxMUxCZEFZcDBOTXE1RllVNm9kSDBNQ3drbUhNeWNyMVJpNzJPN09JVmpaajV0S1BjRE9nNi1TWUp4Rl9XOXVRbllpM01HSUtpb3U0VGdIZw?oc=5"
+    },
+    {
+      "published": "Mon, 19 Oct 2026 10:27:59 GMT",
+      "title": "CME Group to Launch Tungsten Futures by Early 2027 - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "stage": "materials",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT0xmTUNGUExJb1M3QzU3Nnc3cXdHVW9PRFJnTU5XM0JFdHRaSGhYUWJKX3NMX01sRHJZd2I1NVZZU2JCaXBYczJXMWlXSmd2TVJYODVNSTctMGZreF8yeS0zbzVvMkV5OC1GekkxV3BGLUZmamxOZVlfZFNaX1RRYXctUGJkUk1lT25XenU5OHVzb3duOVIwMGZQVEtOZ0xqVXFtQnJn?oc=5"
+    },
+    {
       "published": "Tue, 13 Oct 2026 08:49:00 GMT",
       "title": "Nevada-focused tungsten developer Perpetual progresses US financing strategy - Mining Weekly",
       "source": "Mining Weekly",
       "stage": "mine/concentrate",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNd2hJYkcwREUzREhqcVhvV2pvd2ZMLVZRdjNWNXR0Uk4xSWxpY200ajlaY2UxTTJLb2NyLS0yRXhIcnJGcHEzb3QtVWU0amU5cG4wWmNrSDN1REJBdXVDalZaeEJlM2x1ZTZsb3o3d1Fqa0FBaFg4ZGxEcDJpbW1EXzl5RGNhWFdyTTRHNGFtSkZNZmtpcHJfMzJpcFlRNzcyaVBqWE5KOXhvMHRWZzJ4aVVIX3BLV0gyaVhMM2dZYU5Wdw?oc=5"
-    },
-    {
-      "published": "Thu, 15 Oct 2026 07:00:00 GMT",
-      "title": "Allied Critical Metals Secures Major European Union Strategic Designation for its Flagship Borralha Tungsten Project - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "stage": "materials",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd3FoaEFlSFFaRW5jNVl3X0p6dWlOV2tzbjVaX25KMTNURGZPMDNJR2l1U3ZKS2stRnZ0RE9ZclBNZU53ZlZfQTVSM08tX3YzaUFNdVg2ZXhLNjZPTVBOLVRIbVpsdXZIYnlMal93U3dLRWhocGFULXcwWC01Q0xxT2NPLXVaSE90M3dMVmJ6NUt2eFhkYm5HMw?oc=5"
     },
     {
       "published": "Fri, 16 Oct 2026 05:30:00 GMT",
@@ -387,25 +401,11 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRlFKTmVkUlVxeFNsNF9uZGtPbk53dWRkTE1fdW1NbUo1X0VydzFVR2FUTTlhWjNtNi1kRzlwcHg3bHFnNkhobkV6dmIwNVgxS3JKZ0FhSld5TTZFSFA5a0U1MDVZUUlRdlAwU21ETFdwekx0WFhlV0VBRFNNdTZiUnNmU0o1c1ZZRHJrUVZGbnp4Uzl4NWVjanllRnAzeGswY295WFdtb3E?oc=5"
     },
     {
-      "published": "Mon, 19 Oct 2026 11:33:51 GMT",
-      "title": "CME Group to Launch Tungsten Futures in Early 2027 | Critical Minerals Hedging - News and Statistics - IndexBox",
-      "source": "IndexBox",
+      "published": "Tue, 20 Oct 2026 21:00:00 GMT",
+      "title": "Gordon Mining Enters into Definitive Agreement to Acquire the Tungsten Tail Project, Sierra County, New Mexico - TMX Newsfile",
+      "source": "TMX Newsfile",
       "stage": "mine/concentrate",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMDJuaWEyYTd6LXRnSUpLMTdZU0FHWDUzWnhPWmJnUFZjMlZhN041b1VocDkyaWVPeFh6ZlM1eUdfeWRmME1sWGhXNHN2eG0xS3VJY0JjeUNMYjhoMG5yU213MUZXdWpPWldkSWlPc0o2c2JJRzRjck1WZmM3eF9tVjJZU0xNeHpxZVVCTXVDeVVWSmlZTDRSRzQzZE1wMVJTdGhDV1V0Y3JZYkVBdXMxZ0JLNE91WEFYdG5obw?oc=5"
-    },
-    {
-      "published": "Mon, 19 Oct 2026 10:20:11 GMT",
-      "title": "CME Group to launch Tungsten futures - FX News Group",
-      "source": "FX News Group",
-      "stage": "materials",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcnI4dnFadVcwaEVNLUwzemdZRnFLbFFHQmR2UU15MDBzMWxPQTFfd0h1cGFfb3J6V1ppZzBfb0F4dUM3OHd3Qy1lTlVlVXZnWWlXQllGQ2hlOE1va2poTzdndnlYZHRaeEdpWTFCbWgzdXY4aGxUUDVuZkZKUlB1LTlEWm95bDh1ZlE?oc=5"
-    },
-    {
-      "published": "Fri, 09 Oct 2026 07:00:00 GMT",
-      "title": "Japan's Mitsubishi Materials taps Vietnam for tungsten as China alternative - Nikkei Asia",
-      "source": "Nikkei Asia",
-      "stage": "materials",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUldlQ2VCZ3dqV0VvS2dvUDlvTDJVejVxSnotcXNpbEdWNTJReVcwaDdLOFJNOW9PTVFfN09ycHdTbjNUQUgxNnFlbFVSRFh3eC1jUEpscWFjdnhDUzM3NHBNMGdMcVlTaTNjZ3pkVjAxekZQMHk2bUdtVWFQVng4MTRQb2FkTXBPRFp4TWRaYm5XYXROTllwYVRGazJKQUw5NjZxVnJSWlFnQTljNDFHaXBRYS05UmhCOVU5R3hhRQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQdzhuZWRLUHR4RGFrdDh1aVZVLU04RnB2b0RIc2JOT09iMl9aeFJhQTlpTjNpQWRPd25LYXhmZDFDajVIVHk3Zml0Z2tpNmRoSXRvRlh4dFpaTkIyNFJSNmRKSTN3a3kyeTg4XzJQVGd5Z2xtTkwxTzFxVXd6OEpneE1zR3BvejZDcERiOEJ3LTdBSjdmR1dDaGFBTDVOZ3YwZnhTeUNleUpVb24wUVJMeTlUcy15QTBodVd3V0pmSmlMUnBRWGZocVdiRDJDZjBKNnEwd2FZOHYydTlFUEVWU3dyUHgtRFZKb1J1VXVUcDB5QQ?oc=5"
     },
     {
       "published": "Tue, 20 Oct 2026 08:14:00 GMT",
@@ -430,7 +430,7 @@
     }
   ],
   "equities": {
-    "as_of": "2026-10-20T21:43:19.220360+00:00",
+    "as_of": "2026-10-21T04:59:57.942246+00:00",
     "items": [
       {
         "ticker": "ALM",
@@ -443,8 +443,8 @@
       },
       {
         "ticker": "093370.KS",
-        "price": 11470.0,
-        "change_pct": -18.01286633309507,
+        "price": 11580.0,
+        "change_pct": -17.638691322901845,
         "currency": "KRW",
         "exchange": "KSC",
         "name": "후성",
@@ -452,8 +452,8 @@
       },
       {
         "ticker": "600549.SS",
-        "price": 36.94,
-        "change_pct": -4.720144441578555,
+        "price": 37.15,
+        "change_pct": 1.198583492236449,
         "currency": "CNY",
         "exchange": "SHH",
         "name": "Xiamen Tungsten",
@@ -461,8 +461,8 @@
       },
       {
         "ticker": "002378.SZ",
-        "price": 19.01,
-        "change_pct": -3.1584309730004922,
+        "price": 19.15,
+        "change_pct": 2.187833511205972,
         "currency": "CNY",
         "exchange": "SHZ",
         "name": "Zhangyuan Tungsten",
@@ -470,8 +470,8 @@
       },
       {
         "ticker": "000657.SZ",
-        "price": 43.81,
-        "change_pct": -6.128133704735372,
+        "price": 44.03,
+        "change_pct": -0.36207286716450904,
         "currency": "CNY",
         "exchange": "SHZ",
         "name": "China Tungsten & Hightech",
@@ -479,8 +479,8 @@
       },
       {
         "ticker": "VMM.AX",
-        "price": 3.33,
-        "change_pct": 3.738317757009346,
+        "price": 3.49,
+        "change_pct": 5.438066465256797,
         "currency": "AUD",
         "exchange": "ASX",
         "name": "Viridis Mining and Minerals",
@@ -524,7 +524,7 @@
   },
   "battery": {
     "latest": {
-      "as_of": "2026-10-20",
+      "as_of": "2026-10-21",
       "lipf6": {
         "value": 117000,
         "low": 107000,
@@ -535,8 +535,8 @@
         "source": "Mysteel"
       },
       "lithium_carbonate": {
-        "value": 101750.0,
-        "low": 99500.0,
+        "value": 102150.0,
+        "low": 100300.0,
         "high": 104000.0,
         "unit": "CNY/t",
         "label": "Battery-grade Li2CO3",
@@ -696,6 +696,14 @@
         "date": "2026-10-20",
         "lipf6": 117000,
         "lithium_carbonate": 101750.0,
+        "utilization_pct": 91.8,
+        "production_t_month": 32500.0,
+        "note": "auto collector"
+      },
+      {
+        "date": "2026-10-21",
+        "lipf6": 117000,
+        "lithium_carbonate": 102150.0,
         "utilization_pct": 91.8,
         "production_t_month": 32500.0,
         "note": "auto collector"
