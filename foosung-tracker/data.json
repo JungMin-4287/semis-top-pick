@@ -1,6 +1,6 @@
 {
   "latest": {
-    "as_of": "2026-10-24T19:15:55.300933+08:00",
+    "as_of": "2026-10-25T00:04:08.804343+08:00",
     "source_date": "2026-10-21",
     "prices": {
       "concentrate": {
@@ -226,18 +226,18 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcUYwRmZudE10UnlnRXhSQkRjMUdwSVROaE5kYUdOR3ZDOXNVc1J6eV9FMFZMZFlydjNsbkpqcTh1elpVc29sek52QUpGclVCSW84dGYydFo0RmY1akRvU1ZobEJKVFhhMFR3LWlrck5xSkVHbFcyRXpqeEZZUl9FOUp5UVVIX1Z1NVdXSHlBSHg1ZHNyZm5TTkNpcFlhc2tVWUdkRmd4NEFab1RlUkVzOUd3RzFRbW9PM1p1T3B5MA?oc=5"
     },
     {
-      "published": "Tue, 20 Oct 2026 08:41:09 GMT",
-      "title": "CME to Launch Tungsten Futures, Expand Dairy Suite - Markets Media",
-      "source": "Markets Media",
-      "stage": "materials",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWHdGbXdmMk00ZjktY3ZHd1JIbTVEeFVRaVBKLTg4VTgwaklBZWxyZ213X2pmMFhWZmVkRDYwZ0xTaDZadFVsRWtwUHNBMDZLaGIydmNGOUg4M01uZkR1SElJWFZGTHpLRWtjNUZ2aE9pYWZzRDJvamFsVkg1azFGWWpYVERFenppTzVmbE5EQURhQ1FJRGR3?oc=5"
-    },
-    {
       "published": "Wed, 21 Oct 2026 15:38:00 GMT",
       "title": "What tungsten's frozen market warns us about copper's proposed scrap rule - Recycling Today",
       "source": "Recycling Today",
       "stage": "materials",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWEp6TDdlRTRpQUNFMkk4MGVFWklhYlB1allyZjg2QzF1WjlpaGc1Q1RLcnF0UnlESnN6Ym1LZC1UTjZBb1BJLTZCak9uZ2c3a1FIU1QxbVpYN0RfTmtHYlo1M2lHSnFEbjU4SmozanYyMmZVZUxlWEtZSGZOYWZVTGF6Q09Sd0U4SlJiU3NKMDlZSzZNUWZ1SVI2cXpnQnBCNDVqQ3F5Z2FaUV8w?oc=5"
+    },
+    {
+      "published": "Tue, 20 Oct 2026 08:41:09 GMT",
+      "title": "CME to Launch Tungsten Futures, Expand Dairy Suite - Markets Media",
+      "source": "Markets Media",
+      "stage": "materials",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWHdGbXdmMk00ZjktY3ZHd1JIbTVEeFVRaVBKLTg4VTgwaklBZWxyZ213X2pmMFhWZmVkRDYwZ0xTaDZadFVsRWtwUHNBMDZLaGIydmNGOUg4M01uZkR1SElJWFZGTHpLRWtjNUZ2aE9pYWZzRDJvamFsVkg1azFGWWpYVERFenppTzVmbE5EQURhQ1FJRGR3?oc=5"
     },
     {
       "published": "Thu, 15 Oct 2026 12:03:37 GMT",
@@ -394,6 +394,13 @@
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQldybHh1X2k3U3NJb1REbm5nRXRVcmphaGI0bU83c3doWWhVd1pNMG9KOHFIaEtyc0JKNnIwNEVuOGxjQzlVWndXam11T0ZnZ1hYeTlvOWhMcFBEVHJrUV9sWk5LVnlDSDU0U1pOandfVWlvQVdNVkloMzhNcERlTzFadHZrT3hoY2pZazdNQ2xCN1hKeDFSVVNSRG16NHNMbDNOcEdNeFJlN0dVTmk0WkVuSXFCckRuRkpPVUJ2ZEVSUkcwWEN0Tm9CRmhtdw?oc=5"
     },
     {
+      "published": "Fri, 23 Oct 2026 23:18:50 GMT",
+      "title": "Moon River lifts Davidson value to $879M, tungsten output jumps - Mining.com",
+      "source": "Mining.com",
+      "stage": "mine/concentrate",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUVRmLVFfRXppU1Y5YThuMlpqbWNQMUhnWFM2Y2pITXY5Y2hlTXkzSFBic18yRXhJNU0yelhGTWpPVEFJUnZSSG51ZVphcWhTaHdYS1FMRVc1UGt5NksxQmFlN0stTmZ1STJ2OVRhX3hKWU5fVktNSUJiNDZtQ0stUFFjUFhRR1FJSjlyelBR?oc=5"
+    },
+    {
       "published": "Fri, 16 Oct 2026 13:44:21 GMT",
       "title": "10x Banking Takes Core Ledger Beyond Banking Into Embedded Finance, Powering Tungsten Automation’s New Pay+ Platform - Financial IT",
       "source": "Financial IT",
@@ -401,25 +408,11 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdmcwZGdqaDVHazc2bHg3YmtOTWhqeGxuQW1hX0QwcTE1SlhUOC1xcV9XMGtKM0tuQjNwdlZjNjBOZ3ZOY3hEcXBYcFktRlhCYUdaNlM4b05XUmxqdnNrRkI5NEJqTWNlRk1xUlFoeEtiQ09HTE5tcWlrSHdjRTYzSV9CU3liWnRud096MVU4cFB4eWMyU01KVFFHWHJUVXpRbUhmcFk4eXBXNWR3SzdDdmRFQzJRNlk?oc=5"
     },
     {
-      "published": "Mon, 19 Oct 2026 10:20:11 GMT",
-      "title": "CME Group to launch Tungsten futures - FX News Group",
-      "source": "FX News Group",
-      "stage": "materials",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcnI4dnFadVcwaEVNLUwzemdZRnFLbFFHQmR2UU15MDBzMWxPQTFfd0h1cGFfb3J6V1ppZzBfb0F4dUM3OHd3Qy1lTlVlVXZnWWlXQllGQ2hlOE1va2poTzdndnlYZHRaeEdpWTFCbWgzdXY4aGxUUDVuZkZKUlB1LTlEWm95bDh1ZlE?oc=5"
-    },
-    {
       "published": "Tue, 20 Oct 2026 08:14:00 GMT",
       "title": "[SMM Analysis] LiPF6 exports in September 2026 fell about 17% MoM - Shanghai Metals Market",
       "source": "Shanghai Metals Market",
       "stage": "LiPF6",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVDVsaC03YjFpblpQNm4zWWVORXNiQVNuczNTT0JQdzBKRlJaXzVUMGFLLU93bUF6TXpralNiOVNrOGtKLXZ3Qnp3aUxocXp6b2FFWmpWZ0VCOUN2TVRLWVpiZGxXMGJqQk9EblFXMTVnVk5YWlhGcGdXT29QdURvd3hkMWxTem51M3ZjRzVKU1lsdmVzU2JpZ0ZaUEpLNE1MdWhYa3E1ZTdMdWs?oc=5"
-    },
-    {
-      "published": "Wed, 14 Oct 2026 14:48:24 GMT",
-      "title": "SunSirs: In October, Lithium Hexafluorophosphate Exhibited a Trend of Remaining Stable in Early Month and Weakening in Mid-Month - Sunsirs",
-      "source": "Sunsirs",
-      "stage": "LiPF6",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1lMlYyOEFqdDRMQ01HeDM0VFZPRlpZTmFBRGgwRi1RcEtGVzV5ZnVuQ3doNTBiUlNsRWN0MXlxUmRaWnk3MXlxZVFVUVVRSFZxM2Y3eUhyX01KV3BsbEE?oc=5"
     },
     {
       "published": "Tue, 20 Oct 2026 07:24:56 GMT",
@@ -486,7 +479,7 @@
     }
   ],
   "equities": {
-    "as_of": "2026-10-24T11:15:54.380784+00:00",
+    "as_of": "2026-10-24T16:04:07.796674+00:00",
     "items": [
       {
         "ticker": "ALM",
