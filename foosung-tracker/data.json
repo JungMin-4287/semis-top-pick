@@ -1,6 +1,6 @@
 {
   "latest": {
-    "as_of": "2026-10-24T05:30:46.077133+08:00",
+    "as_of": "2026-10-24T12:47:31.793474+08:00",
     "source_date": "2026-10-21",
     "prices": {
       "concentrate": {
@@ -226,13 +226,6 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcUYwRmZudE10UnlnRXhSQkRjMUdwSVROaE5kYUdOR3ZDOXNVc1J6eV9FMFZMZFlydjNsbkpqcTh1elpVc29sek52QUpGclVCSW84dGYydFo0RmY1akRvU1ZobEJKVFhhMFR3LWlrck5xSkVHbFcyRXpqeEZZUl9FOUp5UVVIX1Z1NVdXSHlBSHg1ZHNyZm5TTkNpcFlhc2tVWUdkRmd4NEFab1RlUkVzOUd3RzFRbW9PM1p1T3B5MA?oc=5"
     },
     {
-      "published": "Wed, 21 Oct 2026 02:12:00 GMT",
-      "title": "Almonty Industries (ALM) Stock May Be A Bargain After Sangdong Certification - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "stage": "mine/concentrate",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWGZ0QURNa01wT0VOMnNqUnU2TVJLOXBVY2p6UnNIUVd4YzZib2VnR1pRVnRmcG8wdW9JOVhBZkRFODlIWjVvWG9tNVZIcFVxMUxCZEFZcDBOTXE1RllVNm9kSDBNQ3drbUhNeWNyMVJpNzJPN09JVmpaajV0S1BjRE9nNi1TWUp4Rl9XOXVRbllpM01HSUtpb3U0VGdIZw?oc=5"
-    },
-    {
       "published": "Fri, 16 Oct 2026 09:01:53 GMT",
       "title": "10x Banking extends into embedded finance with Tungsten Pay+ ledger deal - FinTech Futures",
       "source": "FinTech Futures",
@@ -259,6 +252,13 @@
       "source": "PYMNTS.com",
       "stage": "materials",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQWsyeUhsb0RBX2oyRzNyUEZWajZSV1BvUDNWSzZRWmdwbjl4dXBoN1UzNWZIeTBUTmlYZUYwbWIxY3oweFlWQmNtY0xrV3RUY2E4a0NmUG85YmRxeVdSY1Ryek92ZVpfblZJdUtheEREWHBwaTBhRXEwQmptMGpSM1JDZFVRa3A5eFZEV29QbmVvX0p2dGpiQXk5YV9Edw?oc=5"
+    },
+    {
+      "published": "Wed, 21 Oct 2026 03:23:00 GMT",
+      "title": "What Is CME Group (CME) Expanding With Tungsten And New Crypto Futures? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "stage": "materials",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdVJWMkM1UnBQNGk3cjlBWC12VlQ3eDY4LVhxWE15bmt5eU1FaXVHNU9FTmRMcVBwbW1wdF80OGt5RHAyQVhNVExhTEhtS2tZYnFNWXQxSXR1eXFOTXRyemsyYzhlSHhJRUVkSnV3S2lHSDNaSzVUZUw1WlFqVjNMWlVibjg2bWROT0xVMkNhTFBsT3cyaElkOUNVQkxFQQ?oc=5"
     },
     {
       "published": "Wed, 21 Oct 2026 10:55:10 GMT",
@@ -303,13 +303,6 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVjFyc3VOS3h3ZUZFbFFVMHduN2dtdGowYzN1YnZyY2pHSkZHSWg2WXYtNmMtaDhVakNMR0FMWjhPT0ZzZDN6eTk4STZTWDUyOXpLcFJka29OQmxZVi1QUG1lVnFKNjBmbkxlQmNOekFHNkpLemNSbF91MWRIYUNYSGJqY2tWQQ?oc=5"
     },
     {
-      "published": "Wed, 21 Oct 2026 03:23:00 GMT",
-      "title": "What Is CME Group (CME) Expanding With Tungsten And New Crypto Futures? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "stage": "materials",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdVJWMkM1UnBQNGk3cjlBWC12VlQ3eDY4LVhxWE15bmt5eU1FaXVHNU9FTmRMcVBwbW1wdF80OGt5RHAyQVhNVExhTEhtS2tZYnFNWXQxSXR1eXFOTXRyemsyYzhlSHhJRUVkSnV3S2lHSDNaSzVUZUw1WlFqVjNMWlVibjg2bWROT0xVMkNhTFBsT3cyaElkOUNVQkxFQQ?oc=5"
-    },
-    {
       "published": "Thu, 22 Oct 2026 15:58:49 GMT",
       "title": "First Tungsten Hedge Trades on Prediction Market Kalshi - Bloomberg.com",
       "source": "Bloomberg.com",
@@ -350,6 +343,13 @@
       "source": "Benchmark Mineral Intelligence",
       "stage": "mine/concentrate",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4UFRnZmRFNS0yeFE1eTZlM0ZkdlR3UlMtZFowSkZDcHpMMVRMUm8wUGFHTkl1cms3Um04YXV6Y0JjR1VpTUV6bHBYNm9pa1BNenFyVmdXOEJFd0R1SjZtdndMNXZlSlpsNFM5bzJjWGV6MEFwdEpFUHhIN3lmX1E?oc=5"
+    },
+    {
+      "published": "Thu, 22 Oct 2026 09:53:45 GMT",
+      "title": "Spartan Metals Expands Victorio Tungsten-Molybdenum Resource with Measured and Indicated Grades of 0.25% MoEq or 0.15% WO3Eq - Investing News Network",
+      "source": "Investing News Network",
+      "stage": "midstream",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOanhVRFhQWEdGZzhHSDBFb0lNb25reEZoUng2M2VfdGNldzRkM1ljdGdnV2Z6OTZJV0c3UExJUVVJUmdGTUpFZUctQ3gwTGNjZzdDSm9iZ0JTZG55Um9rU3ZyUG4zcC1YaUtrYXJ3SzlYdmVHZi05SmtEcEdQdDZYOURJQThqNmdpanlNOG9fTG1DcXBXQUFaV083d1FNMjhqZWdIRFJReWxiNjR4bWZyMmlqMWx4Wjc0Yk1vR0xXUFlFNGJGRkVuT05mdzZFMklBSWRZVnhhZTh0c2FlcTZuX0txSQ?oc=5"
     },
     {
       "published": "Fri, 23 Oct 2026 13:03:24 GMT",
@@ -429,6 +429,13 @@
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOc3FJSC0zUW9vTzVDZHhkZTFEYVpKal9rUzZhRWd1SHZfbGFNdzB5M0k1Y3E4bnpyNlZGYkp6Q1I5Rm5FWnM2dDhWdTg5bEFTdXJrZXA2cVBVMVZJMmVkN1FDN0ItcE9RcHZsMF9NSmtfWkpEakc3bkQ4RXpzOTg3V3ZnbXZzcEdiUGEwX085Q0tlX1huWGZqUlhYY1ItQ1hnMjNKWVdKWEIwSFY1eDdKZmdrd2thQjNFZFF2QUFoVWk5VXRoaE9XQ2dacjE?oc=5"
     },
     {
+      "published": "Thu, 22 Oct 2026 13:01:04 GMT",
+      "title": "Lithium Difluoro(oxalate)borate Market To 2035: High-Voltage Battery Demand Drives Growth - News and Statistics - IndexBox",
+      "source": "IndexBox",
+      "stage": "materials",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPS3hzZHJWcVVZR0ZoNFJVd3RleFRPRzNtWUl5ZkkxU253R3R1YW1VRVRsVjJSa25sdjRLZjZiaHhwZjk4ckdPNWhHSkoycjM0ZHpzQ1RfTUd5Zmk2OEtpR0c4RFIxV2l0SHJDbFo0RmRQWUVhY2NUeEdBYmxtMHY4NWtPTHJudFVfOEpBamF4SFQxbjk5Q2tyUkEwUi16OUVfalFZbGEwMTZpMThyaTdBSldYTWZhVTE1WlJYWEtodXk4aXNXX3VhZFdSRXRCZC1XMmtr?oc=5"
+    },
+    {
       "published": "Mon, 12 Oct 2026 01:13:51 GMT",
       "title": "968% Profit Surge: Can China’s Leading Electrolyte Maker Tianci Materials Dominate Overseas Market After Urgent Hong Kong Fundraising? - 36Kr",
       "source": "36Kr",
@@ -443,7 +450,7 @@
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56V1NPZmJKS2hGNkE4QXJNTTg0Y3FNZlhiWHNJei1ZVTJZa3pCa3lSbVU3S0QtQlRmRUwzRGZJdEVGN2lpSzMwSm5NclNPRXYtTWc?oc=5"
     },
     {
-      "published": "Thu, 15 Oct 2026 07:03:00 GMT",
+      "published": "Thu, 15 Oct 2026 07:00:00 GMT",
       "title": "Electrolyte prices remained stable this week (2026.10.12-10.15) [SMM lithium battery electrolyte market weekly review] - Shanghai Metals Market",
       "source": "Shanghai Metals Market",
       "stage": "materials",
@@ -472,7 +479,7 @@
     }
   ],
   "equities": {
-    "as_of": "2026-10-23T21:30:45.152104+00:00",
+    "as_of": "2026-10-24T04:47:30.865134+00:00",
     "items": [
       {
         "ticker": "ALM",
