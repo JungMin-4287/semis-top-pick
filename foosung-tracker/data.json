@@ -1,7 +1,7 @@
 {
   "latest": {
-    "as_of": "2026-11-07T21:16:40.722605+08:00",
-    "source_date": "2026-11-06",
+    "as_of": "2026-11-08T05:59:29.198485+08:00",
+    "source_date": "2026-11-08",
     "prices": {
       "concentrate": {
         "value": 379000,
@@ -237,6 +237,15 @@
       "wc_powder": 830,
       "wf6_5n": 1810.0,
       "note": "auto collector"
+    },
+    {
+      "date": "2026-11-08",
+      "concentrate": 379000,
+      "apt": 565000,
+      "w_powder": 870,
+      "wc_powder": 830,
+      "wf6_5n": 1810.0,
+      "note": "auto collector"
     }
   ],
   "events": [
@@ -261,18 +270,18 @@
   ],
   "news": [
     {
+      "published": "Wed, 04 Nov 2026 18:20:41 GMT",
+      "title": "Western tungsten prices nearly quadruple China’s: report - Mining.com",
+      "source": "Mining.com",
+      "stage": "mine/concentrate",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV0JRdmc3eWdwOXRCenM3LTdBVW9tZWFOeWRIRXJaRDdadDAwR2RHbWpGSWVKYzhYRmF2Z24tUjI4RkFjMWh1TlNUTGkxRVFlN283ZmJ0ZVJVVWtQVWZyLXRzb2tobUlhbG9nYUMwMU1NSl81Wm00dWc4cjBhcTJhamdoN3E?oc=5"
+    },
+    {
       "published": "Thu, 05 Nov 2026 20:51:58 GMT",
       "title": "3D-printed tungsten tiles tested at DIII-D - American Nuclear Society",
       "source": "American Nuclear Society",
       "stage": "materials",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOejNEYVRuWGF2dXV0RXZzdFU2QmpwSThVaW1NT0hwZHo2X2ZDazVnRUg4TGhLaXZ0MVhzbHJhblNaV1AyOVBfNWw1U3hhUzVzNTlyRU5SR3NLNWdhS2ZvRm5xeDZnOW9zRUFyaEh1Z2NSU3NZOWhsek52RzhtQmZmUUxoU0ZyUQ?oc=5"
-    },
-    {
-      "published": "Tue, 03 Nov 2026 20:28:45 GMT",
-      "title": "A Tungsten Truce – Allies Cannot Compete for Access - Center for European Policy Analysis (CEPA)",
-      "source": "Center for European Policy Analysis (CEPA)",
-      "stage": "materials",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPc1JTTzJNZHBKX3N5VWJpQzFEWXZPdUNPUDJYLTYzMmxScnctXzFvWkMzQ1dWNkZuS0xfd3lTWTNJcFotYXMyV3FxVkVFRVFrYkdGS2w1WW9iQ0hMeVBzbkZoZ1RlemgwSUhOZG9KNDJBQlBCcTVqQ1A2emdiNDIteA?oc=5"
     },
     {
       "published": "Thu, 29 Oct 2026 07:00:00 GMT",
@@ -331,11 +340,18 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY0U2N2ZQcFJJa1JtNXg1UTEwYzZ3Yk1vM3BadjZtVVBjcTB3eEliUERRZElIUGVremFPZGtBQUNTakNibmJJMGpJeEt0YzkyZjdRWFRELW5aclZSOGtDRC1WRE9keDJxaER3cTBXRmN4eGtkVmQ1Q2lRN25OTlZKSWVCam5tUmY4SEpNTldQZGgzcHVWMmFTZDhsdU1tcVZiWXVkVWw2aFA3dWVPN3c?oc=5"
     },
     {
-      "published": "Wed, 04 Nov 2026 18:20:41 GMT",
-      "title": "Western tungsten prices nearly quadruple China’s: report - Mining.com",
-      "source": "Mining.com",
+      "published": "Tue, 27 Oct 2026 18:53:00 GMT",
+      "title": "Pinnacle Minerals to Acquire Five Utah Tungsten Projects - Investing News Network",
+      "source": "Investing News Network",
       "stage": "mine/concentrate",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV0JRdmc3eWdwOXRCenM3LTdBVW9tZWFOeWRIRXJaRDdadDAwR2RHbWpGSWVKYzhYRmF2Z24tUjI4RkFjMWh1TlNUTGkxRVFlN283ZmJ0ZVJVVWtQVWZyLXRzb2tobUlhbG9nYUMwMU1NSl81Wm00dWc4cjBhcTJhamdoN3E?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9sN0UtajNNZG16U3FXZy1mamtFMm9adDNvNWN0T3JLT2JzN3JmOU8wWTZrLW9ubGtCa09WQktOSWZOTl93Z0RSb2pZNEtpaWVuaG9FX2M1TGh2NnBjdkd4b0djU3NkRUlDSjdTdkFsZzVBN1NETlE?oc=5"
+    },
+    {
+      "published": "Tue, 03 Nov 2026 11:00:00 GMT",
+      "title": "Hopkins County Tungsten arrest - WBKO",
+      "source": "WBKO",
+      "stage": "materials",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBMVTJ4bVdCN2thMU05Y3hjTW9lRWZSN1lFMUhMeVVRS0gxLXVBcnRPdWdLSmVMVmRxZmJOYVhNMGJYaXRLT0VWeERsTVYxT3BHSl9Ic0IyVzA1ZW16V2kzQVR3VHJtbHdQV1U4OVFoWTY0X0tuUW9DbA?oc=5"
     },
     {
       "published": "Thu, 05 Nov 2026 02:28:00 GMT",
@@ -352,13 +368,6 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZjV2aXBEQ0RtX0pOMlJWei02d28yVXN1Y01CTFhqUlpabkl3ZDkzczlDUE8yc0x0dDFMa041eVAwRlN2eUswYzcxQWpCclItRnpOMnhXbWRlUTgxeWtLQ21KaVdCLUp4RldvczVhZFR5em1RSlB1dUZCS2ZCUlVHYTNQUkt1T084eF82b2dlSnlQZXo4WUFWRjBDV1E?oc=5"
     },
     {
-      "published": "Wed, 04 Nov 2026 06:39:37 GMT",
-      "title": "Hopkins County Tungsten arrest - WBKO",
-      "source": "WBKO",
-      "stage": "materials",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBMVTJ4bVdCN2thMU05Y3hjTW9lRWZSN1lFMUhMeVVRS0gxLXVBcnRPdWdLSmVMVmRxZmJOYVhNMGJYaXRLT0VWeERsTVYxT3BHSl9Ic0IyVzA1ZW16V2kzQVR3VHJtbHdQV1U4OVFoWTY0X0tuUW9DbA?oc=5"
-    },
-    {
       "published": "Wed, 04 Nov 2026 22:45:29 GMT",
       "title": "Almonty: High Reward/Risk For This Tungsten And Molybdenum Producer (NASDAQ:ALM) - Seeking Alpha",
       "source": "Seeking Alpha",
@@ -373,13 +382,6 @@
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObTJPaEkwcVJKXzd6WTNpNGY1dUxfdl9BLW5rUWdCZzlKeXBMQmtRdVZHWTVycC1IdjRyOFplMHQwdE4tUUxmcnNUQVRfMkZGcXM2WXUzSjIxU0FuWjhlaFlOVEFiaTdZbWhRRzQ4OWFpTUFIWmRGQ1RnWWwtZ1FZRlhBd2RVZHNYQmFKZExXOTlLNzJ6ZUNPV2FEWndoYlp2WE5xOVNYNjA1bmc3dkNnNGZTQXd0azAzMHFnRzEzZ0U5X3ZyMkFHOFlteG1qbllTbElmNm9ZVVdmdw?oc=5"
     },
     {
-      "published": "Wed, 04 Nov 2026 21:00:00 GMT",
-      "title": "Kennametal sees tungsten costs ease after metal soared from $335 to $3,000 per ton - The Business Journals",
-      "source": "The Business Journals",
-      "stage": "materials",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMlRrWlJFMHliRGpvYXZLSnhvZzhVYjF6QmxEeXF0dTRmdFBHMlhjR3FJOS1LTDdTX0FnN2t2TGFJdUhDQjJ2OWlRVndRcVNvVVFOeWl6dERPVVJWUzNCdFhhemdDU2hRVHI2WTFuc04zMDRldmpBN08xamZHNi1adXduSXJKNUs4MHJDRFEtZzVqOFlCZHc?oc=5"
-    },
-    {
       "published": "Thu, 05 Nov 2026 10:15:40 GMT",
       "title": "Why does tungsten matter? Tungsten Explained Episode 2 - Fastmarkets",
       "source": "Fastmarkets",
@@ -388,10 +390,24 @@
     },
     {
       "published": "Tue, 27 Oct 2026 07:00:00 GMT",
-      "title": "Perpetua Resources receives $40M US Army funding to advance tungsten production - Mining.com",
-      "source": "Mining.com",
-      "stage": "mine/concentrate",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeWRvN3dmOFZvb25UOWxNTklfRFVobmZWV0Y1bkhaZEkycUhWRVE4T09TcWVLeTM5dHJIQkJjNm1PNmpfN1hPVUs3VV9vbGNXTEtOdWlpRnZmams1VWZtdTRpVlIwM2taUndTWGxMMFJRM1FwZmFpeldETXM1RVUzQzZUZjkzZnBTSjZldlV4RUFPR2ktbjcxYVZRcXNvNm8yS3lzWDJzS3NTR00?oc=5"
+      "title": "Tungsten Automation Says Scale Will Keep Humans in the Payment Loop - PYMNTS.com",
+      "source": "PYMNTS.com",
+      "stage": "materials",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMVRMSXVmUGdDUEJYSExVUDAzUkV1Y1p2bjBiU3Q1Y3VQVVFoVEFzeWU2T3hqekN1NENPdHhfTjlQU2MzcDdiUXZqUXQtazhTd19zZ3dyMml6SndRWTc3VUJZZ29yMFQ3dXJoOTN0amFhek1JaFNJdDF4ZDNKUFFjYWV0d3FFeWxWbjZ0Wl8yRkM1bjlfclZ4S08tcEJURkZXTHROREZnRUZFXzAyV1RsUUxIYnFsSXUxTmdvVUd0cGtGZUFJMFJVWG9XRQ?oc=5"
+    },
+    {
+      "published": "Tue, 27 Oct 2026 07:00:00 GMT",
+      "title": "Perpetua Resources awarded $40M in U.S. Army funding for tungsten supply (PPTA:NASDAQ) - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "stage": "materials",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSlpBNlROS0NQd19GcE5jb01LQ0hFWUdaQ1NrZWh6WUtVeXcydzV5RUxTYXNqZDVZNHIyOVktVGN0WFVhZVF5QVdLcUs3bkY5SGt2Sm1XMTRiazdldnZPTk1fdVRTUUh3dzFzX3NjbHk0MXEyOC0ya0lMTUYxTkJ6emVVamVLRl8xWUM0UThUVFc4aHh6SDhWMkpsUlQwZE9McDFfN3VlSERlOUYy?oc=5"
+    },
+    {
+      "published": "Wed, 04 Nov 2026 21:00:00 GMT",
+      "title": "Kennametal sees tungsten costs ease after metal soared from $335 to $3,000 per ton - The Business Journals",
+      "source": "The Business Journals",
+      "stage": "materials",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMlRrWlJFMHliRGpvYXZLSnhvZzhVYjF6QmxEeXF0dTRmdFBHMlhjR3FJOS1LTDdTX0FnN2t2TGFJdUhDQjJ2OWlRVndRcVNvVVFOeWl6dERPVVJWUzNCdFhhemdDU2hRVHI2WTFuc04zMDRldmpBN08xamZHNi1adXduSXJKNUs4MHJDRFEtZzVqOFlCZHc?oc=5"
     },
     {
       "published": "Tue, 27 Oct 2026 08:20:29 GMT",
@@ -402,10 +418,10 @@
     },
     {
       "published": "Tue, 27 Oct 2026 07:00:00 GMT",
-      "title": "Perpetua Resources awarded $40M in U.S. Army funding for tungsten supply (PPTA:NASDAQ) - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "stage": "materials",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSlpBNlROS0NQd19GcE5jb01LQ0hFWUdaQ1NrZWh6WUtVeXcydzV5RUxTYXNqZDVZNHIyOVktVGN0WFVhZVF5QVdLcUs3bkY5SGt2Sm1XMTRiazdldnZPTk1fdVRTUUh3dzFzX3NjbHk0MXEyOC0ya0lMTUYxTkJ6emVVamVLRl8xWUM0UThUVFc4aHh6SDhWMkpsUlQwZE9McDFfN3VlSERlOUYy?oc=5"
+      "title": "Perpetua Resources receives $40M US Army funding to advance tungsten production - Mining.com",
+      "source": "Mining.com",
+      "stage": "mine/concentrate",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeWRvN3dmOFZvb25UOWxNTklfRFVobmZWV0Y1bkhaZEkycUhWRVE4T09TcWVLeTM5dHJIQkJjNm1PNmpfN1hPVUs3VV9vbGNXTEtOdWlpRnZmams1VWZtdTRpVlIwM2taUndTWGxMMFJRM1FwZmFpeldETXM1RVUzQzZUZjkzZnBTSjZldlV4RUFPR2ktbjcxYVZRcXNvNm8yS3lzWDJzS3NTR00?oc=5"
     },
     {
       "published": "Tue, 03 Nov 2026 01:10:39 GMT",
@@ -422,11 +438,11 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPY1VjanZFZ0F2WVNnTmxhTjlfMEtCOGlkdjB2eWJiUU5aVllJSVVuMDlCSURzVnZXazg5ckEtLWNKSzktZFF3TXU1VC1TTmZ3bkM3LUhFQXRRQ181bHVXLUxoY2Y1Y3Y3TXo1czBITVJWWXBfZ3RZMWVzMS02RWprMkRmTV9BVFJKSzNLdkNaWWQwdmp3SWtPcV90Qy1RWVRFUjltNXdPUldBaDd5MmoxcmVR?oc=5"
     },
     {
-      "published": "Fri, 06 Nov 2026 14:06:00 GMT",
-      "title": "Tungsten 3D-printed at 2,552°F survives 74 plasma blasts in US nuclear fusion reactor - Interesting Engineering",
-      "source": "Interesting Engineering",
+      "published": "Wed, 04 Nov 2026 13:48:00 GMT",
+      "title": "Fox Tungsten launches PEA for British Columbia tungsten project - Yahoo! Finance Canada",
+      "source": "Yahoo! Finance Canada",
       "stage": "materials",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZjVHUU5Tbm1WQ2czT3V1Q0pKdXA3RV9BWVFwUlFxcjNvSG5nMjdJMlZrN0ZZV3lOYmNUdS1aNllsb1NQWmtLOWR4S3dJNGJxc1FCZTlTRHgwMWlGQS00YnoyX0Fyejk5OGpuWl9qRWNkRGZwZEpmalM3ZVhWMkpVZnZiM3lqaUtGcUs0RWd3?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTWRsZmdSaWxoTlZ1YWpZVTVfZk1uSGR0MVNPZGNMTFh1S0R5OEQyNkNzbkpwWl9Zc0lEVVN3WU9GSmlXdTFqdWdsSHIxT0wwTkNrQnB1MWd5SnN2RWNRcURCdUJOZC1tTEZRTXMtUmtzaUx3ckxvVmIybEhjN0Q1MEg1cnpXSVk4WXc?oc=5"
     },
     {
       "published": "Thu, 05 Nov 2026 16:33:00 GMT",
@@ -434,6 +450,13 @@
       "source": "Yahoo Finance",
       "stage": "materials",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY1VxeUZndjJSOHdGRU5iM3EzSkg1THJfbGhHdm5jUVh4RlJ1S09tQnRsOGdPWks2cFBCajdqVnFDVlNSMjg0azFlXzN2OThIMFZTTDB1WjgtejBoVzlRNG1nNi1hNUZUUi12TjNHMUhkZUYwQ1hYZXdYUUhYMkpFNlZUaFhvZ2pMS1NKemFmenliT0JNd05ETktkQWc?oc=5"
+    },
+    {
+      "published": "Fri, 06 Nov 2026 14:06:00 GMT",
+      "title": "Tungsten 3D-printed at 2,552°F survives 74 plasma blasts in US nuclear fusion reactor - Interesting Engineering",
+      "source": "Interesting Engineering",
+      "stage": "materials",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZjVHUU5Tbm1WQ2czT3V1Q0pKdXA3RV9BWVFwUlFxcjNvSG5nMjdJMlZrN0ZZV3lOYmNUdS1aNllsb1NQWmtLOWR4S3dJNGJxc1FCZTlTRHgwMWlGQS00YnoyX0Fyejk5OGpuWl9qRWNkRGZwZEpmalM3ZVhWMkpVZnZiM3lqaUtGcUs0RWd3?oc=5"
     },
     {
       "published": "Fri, 06 Nov 2026 20:46:17 GMT",
@@ -450,32 +473,11 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSW05dmtmeU80cHVPaW9NMnRjUm1FRnRsdzEzcGR5TXNJSXpkdU1LUXNkNkZLR0IwM1dqelM3ZTBJUC1aQWltd2V5bXRiR0Q3a2NybllJMUZzb1EtSXlYUnpDRDladHVaS2JfemNSUHl2QUxVR3lZeDRvaTN2SWJoMjBnVml5WEZGNU13RWlIU1RxTzVpT3FaVm9ZSlJWUXBwTVdWaGRlU2g4aVNxLUFWZnNKbGtPcG1Zc2FReTJEVnE2Zw?oc=5"
     },
     {
-      "published": "Wed, 04 Nov 2026 13:48:00 GMT",
-      "title": "Fox Tungsten launches PEA for British Columbia tungsten project - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "stage": "materials",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOWpVakZhUEI3OUVhRnpvMFZiYUVGTmR3a0dLSU5ETFFQUVltUkI4N3hfek51NzRYanhVSjI5S0VJdnNVMEhGREhqWGZpX2JIcnN2anU5S2VYMEFDUTE5TU9xTTN3d19MUUZYd0FhNVBvU055OEVkN1dMaVRvOWhUOGkxeTBUdw?oc=5"
-    },
-    {
       "published": "Wed, 28 Oct 2026 07:00:00 GMT",
       "title": "Japan's Sumitomo Electric offers more low-tungsten tools to cut China reliance - Nikkei Asia",
       "source": "Nikkei Asia",
       "stage": "materials",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMV9TUzE1N18ydi1UZXN1b3M2bGQ1WThuQno1RjF3bGllWUN3QUFxRkRLeEZCOGRkS0RmajhpSkJtMnVKWERNemRoUE13OWJQRlZob3dFUjVwdXNKa0sxVjNYNHZnZ0xrNmE4R0pJMElRcWUxVkl0QnBUQ1hTTENzckNjclNtQkU5SGtBaVpaQ0Vpc0VMaHkwSjlfSFpDUFhoOTI0dHZicHEtR0NTcUVJMkV4bktRX3MyckMtcURB?oc=5"
-    },
-    {
-      "published": "Thu, 05 Nov 2026 16:38:12 GMT",
-      "title": "KMT Q1 Earnings Call Highlights Tungsten Risks and Higher Outlook - Zacks Investment Research",
-      "source": "Zacks Investment Research",
-      "stage": "materials",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNFpGVzZWYzA0WDRpZDBDb0hpSlFXTnZnTFp0V0JhdFIzOWlzcE9zR1hHQ2N6cFY5MmtVZDBOVEZnaXEtLUt6T1pyWlc2ZWx1dDYwYmZuM2pac21GQkZFem1WNHRGMFZPTDdSSFVGa0U1MDJMcTdQZWlubEdXZzdxdm1ubm1zRERmTnpGQmIxbjNCWDF4WkJTcEJpeHdCempxaXRidDZPTVRnQQ?oc=5"
-    },
-    {
-      "published": "Tue, 03 Nov 2026 09:40:26 GMT",
-      "title": "Proposal to amend publication frequency of China lithium hexafluorophosphate (LiPF6) fob price - Fastmarkets",
-      "source": "Fastmarkets",
-      "stage": "LiPF6",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOEtWa1Q3NEJ3R1NWNTV3N1Qwd3QwY2M2YWcwX0YzZHhBRGV1Mm5CNUI0X0Fpc1kweXdCMFFjZDIyR1VsNldacGpDdDVRMzJ2Y2QwNjJrRVVoT0U5OWE5enVnR1BaSzhSbjBGZW9JbEs0clBhdVNrR2hmWk45V2Nad1ZZYlZYTS02SFFSd2FseHQ1TVFXVTNFRWs0UHdaRTg1Smk2MGs0d0lXVmNLZzQ4czF6S1RYakdJclQ1cGQtY2JlVjdnTjdsREdn?oc=5"
     },
     {
       "published": "Wed, 28 Oct 2026 07:00:00 GMT",
@@ -507,7 +509,7 @@
     }
   ],
   "equities": {
-    "as_of": "2026-11-07T13:16:39.805481+00:00",
+    "as_of": "2026-11-07T21:59:28.283541+00:00",
     "items": [
       {
         "ticker": "ALM",
