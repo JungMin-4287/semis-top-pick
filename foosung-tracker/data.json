@@ -1,6 +1,6 @@
 {
   "latest": {
-    "as_of": "2026-11-08T05:59:29.198485+08:00",
+    "as_of": "2026-11-08T14:18:37.974235+08:00",
     "source_date": "2026-11-08",
     "prices": {
       "concentrate": {
@@ -284,18 +284,18 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOejNEYVRuWGF2dXV0RXZzdFU2QmpwSThVaW1NT0hwZHo2X2ZDazVnRUg4TGhLaXZ0MVhzbHJhblNaV1AyOVBfNWw1U3hhUzVzNTlyRU5SR3NLNWdhS2ZvRm5xeDZnOW9zRUFyaEh1Z2NSU3NZOWhsek52RzhtQmZmUUxoU0ZyUQ?oc=5"
     },
     {
+      "published": "Sat, 07 Nov 2026 14:11:09 GMT",
+      "title": "META_TITLE_QUOTE - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "stage": "materials",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBub2RQVHpLVXpUUGRJa3ZncVFIN0Ffei1hdGg0NUZmSnkwMnp1d3dlT1ZzNXNNZDVYZUUyQjlfMWhIMV91VDFELS1WMFFKMW5V?oc=5"
+    },
+    {
       "published": "Thu, 29 Oct 2026 07:00:00 GMT",
       "title": "You've got ore: Alaska's tungsten history - North of 60 Mining News",
       "source": "North of 60 Mining News",
       "stage": "mine/concentrate",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRFNERWJHUFJCckE2ZTFMNXJtMFJ4UGhBOEhLcE1Hdy1TMkQ2NGlsYm0wcDhmUjNEaVhWV25pVGp3b0o5aU5fSmN1TGRrSk5wM250a19ZWW1JLWVvU0Vha2lCMFB1M3lwQXZ6cG9hZXU4cDZSb0NGSEJXMHYyOExOcjc2dmJRSU12R0s1cVE3SlJoTFltNnVuYzIwajQ0UW8tdXVJUktqenAwNGRGd3RMeF9B?oc=5"
-    },
-    {
-      "published": "Fri, 06 Nov 2026 16:27:31 GMT",
-      "title": "Fox Tungsten Ltd. (FOXT.V) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-      "source": "Yahoo! Finance Canada",
-      "stage": "materials",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBtd2RzblBNRnZXLWNIWmRMV0wwS0pIa1RmWU9oUVZtQko3U3RGLVJIbTVzLTZ4MWpEdFVZVjQyRVEzVnRRZHMyMXpNWDF1bFBZM0REZQ?oc=5"
     },
     {
       "published": "Fri, 30 Oct 2026 10:51:00 GMT",
@@ -375,11 +375,11 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTHhuRXNDbmYyaW1yNF9McHhneFpvSHRXSXdnU0FwNDVTSXY3Snh3SXF2MVpRYlJ0ekp1YW10cHI5d0t1YWpZTHlQTnN1X0swZGhxS3JlV0xCMlZ4RG1td2x2QmNXQWVUVXpOQWpXWjNWNGEwTGlGZXVERUk2MGtKcEdwS2hKUHBmZEpMQ2hpQlBvWXpuaHhKYU55S0lFcG1vQ1lYUmVkajhlUQ?oc=5"
     },
     {
-      "published": "Wed, 04 Nov 2026 14:14:00 GMT",
-      "title": "Fox Tungsten Nears 20,000-Metre Drilling Milestone as 2027 Economic Study Gets Underway - InvestorNews",
-      "source": "InvestorNews",
+      "published": "Fri, 06 Nov 2026 16:27:31 GMT",
+      "title": "Fox Tungsten Ltd. (FOXT.V) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "source": "Yahoo! Finance Canada",
       "stage": "materials",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObTJPaEkwcVJKXzd6WTNpNGY1dUxfdl9BLW5rUWdCZzlKeXBMQmtRdVZHWTVycC1IdjRyOFplMHQwdE4tUUxmcnNUQVRfMkZGcXM2WXUzSjIxU0FuWjhlaFlOVEFiaTdZbWhRRzQ4OWFpTUFIWmRGQ1RnWWwtZ1FZRlhBd2RVZHNYQmFKZExXOTlLNzJ6ZUNPV2FEWndoYlp2WE5xOVNYNjA1bmc3dkNnNGZTQXd0azAzMHFnRzEzZ0U5X3ZyMkFHOFlteG1qbllTbElmNm9ZVVdmdw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBtd2RzblBNRnZXLWNIWmRMV0wwS0pIa1RmWU9oUVZtQko3U3RGLVJIbTVzLTZ4MWpEdFVZVjQyRVEzVnRRZHMyMXpNWDF1bFBZM0REZQ?oc=5"
     },
     {
       "published": "Thu, 05 Nov 2026 10:15:40 GMT",
@@ -401,6 +401,13 @@
       "source": "Seeking Alpha",
       "stage": "materials",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSlpBNlROS0NQd19GcE5jb01LQ0hFWUdaQ1NrZWh6WUtVeXcydzV5RUxTYXNqZDVZNHIyOVktVGN0WFVhZVF5QVdLcUs3bkY5SGt2Sm1XMTRiazdldnZPTk1fdVRTUUh3dzFzX3NjbHk0MXEyOC0ya0lMTUYxTkJ6emVVamVLRl8xWUM0UThUVFc4aHh6SDhWMkpsUlQwZE9McDFfN3VlSERlOUYy?oc=5"
+    },
+    {
+      "published": "Wed, 04 Nov 2026 14:14:00 GMT",
+      "title": "Fox Tungsten Nears 20,000-Metre Drilling Milestone as 2027 Economic Study Gets Underway - InvestorNews",
+      "source": "InvestorNews",
+      "stage": "materials",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObTJPaEkwcVJKXzd6WTNpNGY1dUxfdl9BLW5rUWdCZzlKeXBMQmtRdVZHWTVycC1IdjRyOFplMHQwdE4tUUxmcnNUQVRfMkZGcXM2WXUzSjIxU0FuWjhlaFlOVEFiaTdZbWhRRzQ4OWFpTUFIWmRGQ1RnWWwtZ1FZRlhBd2RVZHNYQmFKZExXOTlLNzJ6ZUNPV2FEWndoYlp2WE5xOVNYNjA1bmc3dkNnNGZTQXd0azAzMHFnRzEzZ0U5X3ZyMkFHOFlteG1qbllTbElmNm9ZVVdmdw?oc=5"
     },
     {
       "published": "Wed, 04 Nov 2026 21:00:00 GMT",
@@ -466,13 +473,6 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DNno0ZU9LWlRHbGhDelg4bGh2aFV1VXdiVnZUNUZmVl9SVlFmRHRHWGxjQXVaNmJicFQ3cGlvZVFRcm9INmYxck55Mm0xdHIxbDMwSzFDaklIYjVjWGU2ckNjbVp3T25hREZTTGNiamxjMkkxRzFfbGRHLUpPTUk?oc=5"
     },
     {
-      "published": "Fri, 06 Nov 2026 08:58:02 GMT",
-      "title": "HP and Hyperion Partner on 3D Printed Tungsten Carbide Production with Metal Jet - 3D Printing Industry",
-      "source": "3D Printing Industry",
-      "stage": "materials",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSW05dmtmeU80cHVPaW9NMnRjUm1FRnRsdzEzcGR5TXNJSXpkdU1LUXNkNkZLR0IwM1dqelM3ZTBJUC1aQWltd2V5bXRiR0Q3a2NybllJMUZzb1EtSXlYUnpDRDladHVaS2JfemNSUHl2QUxVR3lZeDRvaTN2SWJoMjBnVml5WEZGNU13RWlIU1RxTzVpT3FaVm9ZSlJWUXBwTVdWaGRlU2g4aVNxLUFWZnNKbGtPcG1Zc2FReTJEVnE2Zw?oc=5"
-    },
-    {
       "published": "Wed, 28 Oct 2026 07:00:00 GMT",
       "title": "Japan's Sumitomo Electric offers more low-tungsten tools to cut China reliance - Nikkei Asia",
       "source": "Nikkei Asia",
@@ -509,7 +509,7 @@
     }
   ],
   "equities": {
-    "as_of": "2026-11-07T21:59:28.283541+00:00",
+    "as_of": "2026-11-08T06:18:37.255169+00:00",
     "items": [
       {
         "ticker": "ALM",
