@@ -1,6 +1,6 @@
 {
   "latest": {
-    "as_of": "2026-11-11T03:51:34.015772+08:00",
+    "as_of": "2026-11-11T14:44:56.605480+08:00",
     "source_date": "2026-11-10",
     "prices": {
       "concentrate": {
@@ -314,6 +314,13 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRFNERWJHUFJCckE2ZTFMNXJtMFJ4UGhBOEhLcE1Hdy1TMkQ2NGlsYm0wcDhmUjNEaVhWV25pVGp3b0o5aU5fSmN1TGRrSk5wM250a19ZWW1JLWVvU0Vha2lCMFB1M3lwQXZ6cG9hZXU4cDZSb0NGSEJXMHYyOExOcjc2dmJRSU12R0s1cVE3SlJoTFltNnVuYzIwajQ0UW8tdXVJUktqenAwNGRGd3RMeF9B?oc=5"
     },
     {
+      "published": "Mon, 09 Nov 2026 21:42:24 GMT",
+      "title": "US EXIM, DFC Sour on Tungsten-Mine Deal Backed by Trump Sons - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "stage": "mine/concentrate",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdHV4UlZ5RWV3R2huQTl2Zm05SmVpSXdjcHl4Q2ZmLU1OMG4zS3pJUnU5MzhfZ0JiZnM1NkRvUkx1U0RpaXRadmZGNFhZMnczNnQyTnFaR2hJWHJ6LVY2YzZ2MHFJU0hSZ2xUMWlMSU1BemtpY3dWdWR4RmJlYVpIMXlfMmZLVzFsYTZZVUtQak0xdG10N2dLLV9yczJTX0FjdGdkeUtUZC1FaEdIOHc1QQ?oc=5"
+    },
+    {
       "published": "Sun, 08 Nov 2026 16:46:00 GMT",
       "title": "'On par with what the DoD pursued during the Cold War': Pentagon’s war stockpile plan hits a minerals wall - Fortune",
       "source": "Fortune",
@@ -326,13 +333,6 @@
       "source": "Fastmarkets",
       "stage": "materials",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObk9MMjJyOEZxaXpkUTAwWVhvWms1NUtVTlFqZEJxZDM5c0ZNR01Cd3p1MDdxVGYyM093M3ZhV2FITG5HRDNvU1N4aFhZWGdhMWdhUmxfa2dEdzJHV2tYV192MEFvbWlvTjZGcGRJY0dJSjR6cUNza1E5bmpwODNNU0c0bjdXa19CaDlrTTdDVDBFM2l1c2lIYnFUeW5yR1dZdzZOblkzWVFaNExxZlBib2NR?oc=5"
-    },
-    {
-      "published": "Mon, 09 Nov 2026 21:42:24 GMT",
-      "title": "US EXIM, DFC Sour on Tungsten-Mine Deal Backed by Trump Sons - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "stage": "mine/concentrate",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdHV4UlZ5RWV3R2huQTl2Zm05SmVpSXdjcHl4Q2ZmLU1OMG4zS3pJUnU5MzhfZ0JiZnM1NkRvUkx1U0RpaXRadmZGNFhZMnczNnQyTnFaR2hJWHJ6LVY2YzZ2MHFJU0hSZ2xUMWlMSU1BemtpY3dWdWR4RmJlYVpIMXlfMmZLVzFsYTZZVUtQak0xdG10N2dLLV9yczJTX0FjdGdkeUtUZC1FaEdIOHc1QQ?oc=5"
     },
     {
       "published": "Mon, 02 Nov 2026 21:00:00 GMT",
@@ -349,18 +349,18 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUHl6cnNJN0lkMGhPRU5CZEVUMWpERGVqUlh0WEVzRUhkYzdoQ05YWFNVSWtTSDM4UERfU1drNWR0WWg0Qy02TGZqVkJSWURZTXRJc1VhZFpQYXAxWjBQNnRTMXVSb3psN1JsS0ZtMm9GZ2psUkZzN1ozZWtBcUhxc3pVaXVrR3MxamNZekd1eVd2OTJvMUI1NmoyMFkyUVZXS2EzWmxOX3hUSUE?oc=5"
     },
     {
-      "published": "Tue, 03 Nov 2026 11:00:00 GMT",
-      "title": "Hopkins County Tungsten arrest - WBKO",
-      "source": "WBKO",
-      "stage": "materials",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBMVTJ4bVdCN2thMU05Y3hjTW9lRWZSN1lFMUhMeVVRS0gxLXVBcnRPdWdLSmVMVmRxZmJOYVhNMGJYaXRLT0VWeERsTVYxT3BHSl9Ic0IyVzA1ZW16V2kzQVR3VHJtbHdQV1U4OVFoWTY0X0tuUW9DbA?oc=5"
-    },
-    {
       "published": "Thu, 05 Nov 2026 09:04:48 GMT",
       "title": "Tungsten CEO Says It’s Time B2B Networks Gave Suppliers a Voice - PYMNTS.com",
       "source": "PYMNTS.com",
       "stage": "materials",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY0U2N2ZQcFJJa1JtNXg1UTEwYzZ3Yk1vM3BadjZtVVBjcTB3eEliUERRZElIUGVremFPZGtBQUNTakNibmJJMGpJeEt0YzkyZjdRWFRELW5aclZSOGtDRC1WRE9keDJxaER3cTBXRmN4eGtkVmQ1Q2lRN25OTlZKSWVCam5tUmY4SEpNTldQZGgzcHVWMmFTZDhsdU1tcVZiWXVkVWw2aFA3dWVPN3c?oc=5"
+    },
+    {
+      "published": "Tue, 03 Nov 2026 11:00:00 GMT",
+      "title": "Hopkins County Tungsten arrest - WBKO",
+      "source": "WBKO",
+      "stage": "materials",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBMVTJ4bVdCN2thMU05Y3hjTW9lRWZSN1lFMUhMeVVRS0gxLXVBcnRPdWdLSmVMVmRxZmJOYVhNMGJYaXRLT0VWeERsTVYxT3BHSl9Ic0IyVzA1ZW16V2kzQVR3VHJtbHdQV1U4OVFoWTY0X0tuUW9DbA?oc=5"
     },
     {
       "published": "Thu, 29 Oct 2026 07:00:00 GMT",
@@ -378,45 +378,10 @@
     },
     {
       "published": "Sun, 08 Nov 2026 16:00:00 GMT",
-      "title": "A pair of 5½-inch 3D-printed tungsten tiles took 74 plasma blasts at the bottom of a San Diego fusion machine and came out intact, even after a misaligned tile next to them melted along its edge and sprayed molten metal across one of the pair - Autonocion.com",
-      "source": "Autonocion.com",
+      "title": "A pair of 5½-inch 3D-printed tungsten tiles took 74 plasma blasts at the bottom of a San Diego fusion machine and came out intact, even after a misaligned tile next to them melted along its edge and sprayed molten metal across one of the pair - Autonocion",
+      "source": "Autonocion",
       "stage": "materials",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSTczcGJrRExzT2J4cTJnSlMyZzhfWVd3Tk1OMmM3c3dxVDRSTThxWW1LSzcyYjQ3alRKa21xazdDUlRDTkpLd1hwaUE2UXh2bVJDTFdEVG5KSmRfUU9qOU5OX0FBU2hXT3RNTFFiMUVQSF9DVHg3ZUJidVlURzRNMzJHR1JlaEZ2YWktdlJaUFMtbGtKWExQcXowRQ?oc=5"
-    },
-    {
-      "published": "Wed, 04 Nov 2026 14:14:00 GMT",
-      "title": "Fox Tungsten Nears 20,000-Metre Drilling Milestone as 2027 Economic Study Gets Underway - InvestorNews",
-      "source": "InvestorNews",
-      "stage": "materials",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObTJPaEkwcVJKXzd6WTNpNGY1dUxfdl9BLW5rUWdCZzlKeXBMQmtRdVZHWTVycC1IdjRyOFplMHQwdE4tUUxmcnNUQVRfMkZGcXM2WXUzSjIxU0FuWjhlaFlOVEFiaTdZbWhRRzQ4OWFpTUFIWmRGQ1RnWWwtZ1FZRlhBd2RVZHNYQmFKZExXOTlLNzJ6ZUNPV2FEWndoYlp2WE5xOVNYNjA1bmc3dkNnNGZTQXd0azAzMHFnRzEzZ0U5X3ZyMkFHOFlteG1qbllTbElmNm9ZVVdmdw?oc=5"
-    },
-    {
-      "published": "Tue, 03 Nov 2026 18:16:51 GMT",
-      "title": "Almonty closes $129M placement as Sangdong ships its first tungsten in 30 years - Dealroom",
-      "source": "Dealroom",
-      "stage": "mine/concentrate",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPY1VjanZFZ0F2WVNnTmxhTjlfMEtCOGlkdjB2eWJiUU5aVllJSVVuMDlCSURzVnZXazg5ckEtLWNKSzktZFF3TXU1VC1TTmZ3bkM3LUhFQXRRQ181bHVXLUxoY2Y1Y3Y3TXo1czBITVJWWXBfZ3RZMWVzMS02RWprMkRmTV9BVFJKSzNLdkNaWWQwdmp3SWtPcV90Qy1RWVRFUjltNXdPUldBaDd5MmoxcmVR?oc=5"
-    },
-    {
-      "published": "Wed, 04 Nov 2026 21:00:00 GMT",
-      "title": "Kennametal sees tungsten costs ease after metal soared from $335 to $3,000 per ton - The Business Journals",
-      "source": "The Business Journals",
-      "stage": "materials",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMlRrWlJFMHliRGpvYXZLSnhvZzhVYjF6QmxEeXF0dTRmdFBHMlhjR3FJOS1LTDdTX0FnN2t2TGFJdUhDQjJ2OWlRVndRcVNvVVFOeWl6dERPVVJWUzNCdFhhemdDU2hRVHI2WTFuc04zMDRldmpBN08xamZHNi1adXduSXJKNUs4MHJDRFEtZzVqOFlCZHc?oc=5"
-    },
-    {
-      "published": "Thu, 05 Nov 2026 10:15:40 GMT",
-      "title": "Why does tungsten matter? Tungsten Explained Episode 2 - Fastmarkets",
-      "source": "Fastmarkets",
-      "stage": "materials",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTUkxVmNLNmZjdnltRlFTTWQ4YUd5ejBJaFlYOWJWOWlWdDAtcGhNU3Bxb1VMWUt6MDRkSFlIY3p0amdESzQ0eC03TGhJNzZWMXF0ZjBtbk9JTHhnRUhnY0dwQ05fWkREVk1WVVFWemRad1JFeHVXdGxRZm9IZU5LRUN0ckxwYWVtTlhGamdCMmRBbk9Qd0E?oc=5"
-    },
-    {
-      "published": "Tue, 03 Nov 2026 01:10:39 GMT",
-      "title": "Deputies say California man stole over $1M of tungsten from Hopkins facility - Eyewitness News (WEHT/WTVW)",
-      "source": "Eyewitness News (WEHT/WTVW)",
-      "stage": "materials",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcUFoaVZJdUpjWnpWUXIwRkotZHd1NzFmRk16aE5xZlZjSVY1eDVHdTlMYnRwU081WHVFM0FHN05nVThvR2tiVnBOa0JQZHZFa0hOLVhQcDBISVo4d2VmdjFZNUYwZHo5WTd4U3JkTU1KNno5c1FOaFdBRDk4SVBLTWNIOGFhUnNnMnpka0JOMmZXNG5aRWFhaTJTdmpYcmUzaXIzZWZ2X1d2NjZjZUIwcWI0UlI3NXhVQmFjSnNld211amVNX0NpVFo2azJkR01YQ3NoRENLa9IB3AFBVV95cUxOckZGb0RxbEplak5JWHVyQS1nRzYwOTFYaXF4LUFYQUpfNjJJOHVsQnpiNHVYc2lfNEl6OG9jbWwwTFlMdG15UDBKTGhEX3RxSHRMNm4yVkkwWldxRTFrREFXOWJwZzktUmd2OWduQjNHLWxhSlNibmtpVERYc0RtVmNhZVFtdTY3RXhPZzVqMS1HbzQ2RnB6TlRMX0ZmX2l1RU1SdXE5M1E1TURxTVZ2Z3dWZlNCSE9VNVp3aHhBdmg1dlBhcTZVanRKc2hGcE9XMHVCZ29EeV96UmtC?oc=5"
     },
     {
       "published": "Tue, 03 Nov 2026 17:26:42 GMT",
@@ -426,11 +391,18 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaWZBRkZ3UVRIT1k0cEliLThlQnZualk3SmdLcHVIM2pHdGZfUnNlcjQxRUpRaDhSX3dBTk1oS0lQSmllVXZ2TzJiM1dCcmRiNlNrTkVtcFFRdUNLTnYzMmsyUW4yNjQ0Q09VVDhsclVtS2h4WWdJRTYzb1ozWV9EQ0pRelhRSUoydTZFSG1fM3BNSUFnX19oN2ZYS1VNZw?oc=5"
     },
     {
-      "published": "Wed, 04 Nov 2026 13:48:00 GMT",
-      "title": "Fox Tungsten launches PEA for British Columbia tungsten project - Yahoo! Finance Canada",
-      "source": "Yahoo! Finance Canada",
-      "stage": "materials",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTWRsZmdSaWxoTlZ1YWpZVTVfZk1uSGR0MVNPZGNMTFh1S0R5OEQyNkNzbkpwWl9Zc0lEVVN3WU9GSmlXdTFqdWdsSHIxT0wwTkNrQnB1MWd5SnN2RWNRcURCdUJOZC1tTEZRTXMtUmtzaUx3ckxvVmIybEhjN0Q1MEg1cnpXSVk4WXc?oc=5"
+      "published": "Tue, 10 Nov 2026 16:12:50 GMT",
+      "title": "US lenders said to cool on Trump-linked tungsten plan - The Northern Miner",
+      "source": "The Northern Miner",
+      "stage": "mine/concentrate",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWG16SkhZYUFLZDhCVTZKczd2U2hkRkNqcGJYd2VVVmFxc2RITnZ1NWxuNkdQekJFOW9PbXNTVkFlRGZHckFEZGtRMmo4WkYwLU1TZ3E1TGU3WEg1NlNySTRtZ2wtYl9aV1ZrUWRlZFlsamthQjlxV3pwc2hEalpUWGRLQ2R2OWlHTmFOQjZta0NZUTdTNGNhcHVPMEtYT0tBZlE?oc=5"
+    },
+    {
+      "published": "Mon, 02 Nov 2026 08:00:00 GMT",
+      "title": "Gordon Mining Completes Acquisition of the Tungsten Tail Project, Sierra County, New Mexico - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "stage": "mine/concentrate",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdG1HNGhkbTRWYXdCbXVDZlpnU1BnTzctSkU5RmxmX21oS0NxdUFjU3hlR2NyTW1ZUXMwbjRtOHp1emNwZ3pzazlRSXV3T2FKSDF0WVF6ZGhTTEc2Y3VjZXo2Q1hyV3NSQ2E2ZzZHR1VzeHc0V0V1Mk5naFlpbjNlZGZlUVJWdVV3aUFFQ21JSGc1X2g0dEtGTkdYWE01a0I0eUN5eTcxSnVCOGlVWG9UbzNrWjg?oc=5"
     },
     {
       "published": "Thu, 05 Nov 2026 16:33:00 GMT",
@@ -440,11 +412,25 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY1VxeUZndjJSOHdGRU5iM3EzSkg1THJfbGhHdm5jUVh4RlJ1S09tQnRsOGdPWks2cFBCajdqVnFDVlNSMjg0azFlXzN2OThIMFZTTDB1WjgtejBoVzlRNG1nNi1hNUZUUi12TjNHMUhkZUYwQ1hYZXdYUUhYMkpFNlZUaFhvZ2pMS1NKemFmenliT0JNd05ETktkQWc?oc=5"
     },
     {
-      "published": "Fri, 06 Nov 2026 15:35:10 GMT",
-      "title": "Fox Tungsten launches Preliminary Economic Assessment for BC Tungsten project - Yahoo Finance",
+      "published": "Wed, 04 Nov 2026 04:26:00 GMT",
+      "title": "Lightning Minerals' Warby tungsten targets advance toward maiden drilling - Yahoo Finance",
       "source": "Yahoo Finance",
+      "stage": "mine/concentrate",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZmtNRndLZWQzd2lkUm5mTVlYd0pSNm1rNzlGajVReDdKSUFrZjVTREdJdFhILUxVMjR6OFNIN0FWdW50cWR4SUh5VFhwNlFtUkNobTNJbmNPby1DSlFLY2hyV1EyajB3aE8wMktnenFFVjlsaUdhcEVxbWNrQ2tBU2hscGdRUi1LNFZiaG9rSU02UQ?oc=5"
+    },
+    {
+      "published": "Wed, 04 Nov 2026 21:00:00 GMT",
+      "title": "Kennametal sees tungsten costs ease after metal soared from $335 to $3,000 per ton - The Business Journals",
+      "source": "The Business Journals",
       "stage": "materials",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZXJpX09ERXlLbmxpTW9uNlpUYnlvRXRfdDI1b0dvd2Z2UjdocC01dnNfNU1ZVkw5eUhUWVk3UGI5YTR4V242VkYyWnF4cmtIcVpSNURMbjVqNVBFeDNsdEg2Q2o5dlZpa0xVNjhzS0wtM29XcEJuclpFNGlzdlQ4ajRub2trUUxjWU1ZNk1KZ1ZiekU?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMlRrWlJFMHliRGpvYXZLSnhvZzhVYjF6QmxEeXF0dTRmdFBHMlhjR3FJOS1LTDdTX0FnN2t2TGFJdUhDQjJ2OWlRVndRcVNvVVFOeWl6dERPVVJWUzNCdFhhemdDU2hRVHI2WTFuc04zMDRldmpBN08xamZHNi1adXduSXJKNUs4MHJDRFEtZzVqOFlCZHc?oc=5"
+    },
+    {
+      "published": "Wed, 04 Nov 2026 13:48:00 GMT",
+      "title": "Fox Tungsten launches PEA for British Columbia tungsten project - Yahoo! Finance Canada",
+      "source": "Yahoo! Finance Canada",
+      "stage": "materials",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTWRsZmdSaWxoTlZ1YWpZVTVfZk1uSGR0MVNPZGNMTFh1S0R5OEQyNkNzbkpwWl9Zc0lEVVN3WU9GSmlXdTFqdWdsSHIxT0wwTkNrQnB1MWd5SnN2RWNRcURCdUJOZC1tTEZRTXMtUmtzaUx3ckxvVmIybEhjN0Q1MEg1cnpXSVk4WXc?oc=5"
     },
     {
       "published": "Fri, 30 Oct 2026 07:00:00 GMT",
@@ -468,11 +454,25 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWGVWLUZDblFBeXJSWmVGLWhYbGoyYnBreUlLMHVQdDRob0tDN25qVXF6RnItY3NJWWhwekt5Skx1QXo0ZWRKZGlZZWVCUmdHNE5IVzJpUWUwZUdUOEhDVkxGWHAtQkRLNlpuZlNGV2dlVTZta01OV3BONTItcE5WUUZtRUtpVndWZWV3T0x3?oc=5"
     },
     {
-      "published": "Mon, 09 Nov 2026 10:15:47 GMT",
-      "title": "Torrent Gold agrees to buy New Mexico’s Sunrise Tungsten Project - Mining Technology",
-      "source": "Mining Technology",
-      "stage": "mine/concentrate",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSFpkYlVLLWxkMWJCSUVScUw2dlRuMGV1ZDRmUUZyaXo0S0hzYVpWcjZ5MXBMOWNRNXhHQUlVWTFOWi1lVmJDby1XSWcyMnc1M1FpNXkyRlNSNGZURllhb0ZxU1dJTWhzb1lwT3J6VzJGM1gxdUE1cnA3NnpPZzNCT3djV095Rnk1?oc=5"
+      "published": "Thu, 05 Nov 2026 07:08:42 GMT",
+      "title": "Kennametal Inc (KMT) (Q1 2027) Earnings Call Highlights: Tungsten Tailwinds Drive Record ... - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "stage": "materials",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNX2taSk5WazNiQW1CSTBEN0tteWl1dmZJNnpYTm5CWjhtYVRVeFlGZ3lEVlBmOHZDaHdXLW81dlE0YWVHeGFYQTVod3ZWZUQwRkk2R3hHcmtobURUQlpJTEdLaDNSanAzQWdPNHJnTmRXSGZveV9keUU2Z2d4cVQtYTFSUHJsbGVWaTdkUXlZMWYyVXF3Nnc?oc=5"
+    },
+    {
+      "published": "Thu, 05 Nov 2026 16:38:12 GMT",
+      "title": "KMT Q1 Earnings Call Highlights Tungsten Risks and Higher Outlook - Zacks Investment Research",
+      "source": "Zacks Investment Research",
+      "stage": "materials",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNFpGVzZWYzA0WDRpZDBDb0hpSlFXTnZnTFp0V0JhdFIzOWlzcE9zR1hHQ2N6cFY5MmtVZDBOVEZnaXEtLUt6T1pyWlc2ZWx1dDYwYmZuM2pac21GQkZFem1WNHRGMFZPTDdSSFVGa0U1MDJMcTdQZWlubEdXZzdxdm1ubm1zRERmTnpGQmIxbjNCWDF4WkJTcEJpeHdCempxaXRidDZPTVRnQQ?oc=5"
+    },
+    {
+      "published": "Fri, 06 Nov 2026 15:35:10 GMT",
+      "title": "Fox Tungsten launches Preliminary Economic Assessment for BC Tungsten project - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "stage": "materials",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZXJpX09ERXlLbmxpTW9uNlpUYnlvRXRfdDI1b0dvd2Z2UjdocC01dnNfNU1ZVkw5eUhUWVk3UGI5YTR4V242VkYyWnF4cmtIcVpSNURMbjVqNVBFeDNsdEg2Q2o5dlZpa0xVNjhzS0wtM29XcEJuclpFNGlzdlQ4ajRub2trUUxjWU1ZNk1KZ1ZiekU?oc=5"
     },
     {
       "published": "Wed, 28 Oct 2026 07:00:00 GMT",
@@ -482,11 +482,11 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMV9TUzE1N18ydi1UZXN1b3M2bGQ1WThuQno1RjF3bGllWUN3QUFxRkRLeEZCOGRkS0RmajhpSkJtMnVKWERNemRoUE13OWJQRlZob3dFUjVwdXNKa0sxVjNYNHZnZ0xrNmE4R0pJMElRcWUxVkl0QnBUQ1hTTENzckNjclNtQkU5SGtBaVpaQ0Vpc0VMaHkwSjlfSFpDUFhoOTI0dHZicHEtR0NTcUVJMkV4bktRX3MyckMtcURB?oc=5"
     },
     {
-      "published": "Thu, 05 Nov 2026 07:08:42 GMT",
-      "title": "Kennametal Inc (KMT) (Q1 2027) Earnings Call Highlights: Tungsten Tailwinds Drive Record ... - Yahoo Finance",
-      "source": "Yahoo Finance",
+      "published": "Mon, 09 Nov 2026 01:42:10 GMT",
+      "title": "[News] China’s Tungsten Export Curbs Send AI PCB Drill Bit Prices Soaring; Nearly 80% Global Output Share Highlights Supply Risks - TrendForce",
+      "source": "TrendForce",
       "stage": "materials",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNX2taSk5WazNiQW1CSTBEN0tteWl1dmZJNnpYTm5CWjhtYVRVeFlGZ3lEVlBmOHZDaHdXLW81dlE0YWVHeGFYQTVod3ZWZUQwRkk2R3hHcmtobURUQlpJTEdLaDNSanAzQWdPNHJnTmRXSGZveV9keUU2Z2d4cVQtYTFSUHJsbGVWaTdkUXlZMWYyVXF3Nnc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPdVRhMVdhV0JzQW1fR085NTRmWl9lQ0VEdXdXTkM5MTNaRHF2NXZGV09ZUktuV19Cbmd6N2lrVG5uWXF3cDZ5YVp5UFI5eDh2RlhienlfQ2E1bi00TXhjN2xnOHFqME9BMFQ1N1BpUlk5clVTWTM3SmlZSDJtWTVQa1FFUmlUZmFFQ2dCMmk0ZXhBV3pyYWQ3bEZSaTdabHdjcE5ZSlNUSzRZbzYwakVJZWNHa1lHUjEwYVFDY2ZTTm5ycmZ1bVBrSmVIbnZIQlVFc0FTLVBNekZESklkWF9LZUV2SEVTT3VpRDdtMzV6eEV5UHNBdjRHZDVfU08?oc=5"
     },
     {
       "published": "Wed, 28 Oct 2026 07:00:00 GMT",
@@ -532,12 +532,12 @@
     }
   ],
   "equities": {
-    "as_of": "2026-11-10T19:51:32.839823+00:00",
+    "as_of": "2026-11-11T06:44:55.763569+00:00",
     "items": [
       {
         "ticker": "ALM",
-        "price": 8.11,
-        "change_pct": -6.674338319907946,
+        "price": 8.14,
+        "change_pct": -6.329113924050622,
         "currency": "USD",
         "exchange": "NCM",
         "name": "Almonty Industries",
@@ -545,8 +545,8 @@
       },
       {
         "ticker": "093370.KS",
-        "price": 8760.0,
-        "change_pct": -4.7826086956521685,
+        "price": 10070.0,
+        "change_pct": 3.2820512820512793,
         "currency": "KRW",
         "exchange": "KSC",
         "name": "후성",
@@ -554,8 +554,8 @@
       },
       {
         "ticker": "600549.SS",
-        "price": 37.34,
-        "change_pct": 1.4398261342026597,
+        "price": 37.71,
+        "change_pct": -0.5013192612137174,
         "currency": "CNY",
         "exchange": "SHH",
         "name": "Xiamen Tungsten",
@@ -563,8 +563,8 @@
       },
       {
         "ticker": "002378.SZ",
-        "price": 18.28,
-        "change_pct": 1.5555555555555545,
+        "price": 18.49,
+        "change_pct": 0.8728859792689558,
         "currency": "CNY",
         "exchange": "SHZ",
         "name": "Zhangyuan Tungsten",
@@ -572,8 +572,8 @@
       },
       {
         "ticker": "000657.SZ",
-        "price": 40.9,
-        "change_pct": 4.256946214631663,
+        "price": 41.6,
+        "change_pct": 2.2364217252396346,
         "currency": "CNY",
         "exchange": "SHZ",
         "name": "China Tungsten & Hightech",
@@ -581,8 +581,8 @@
       },
       {
         "ticker": "VMM.AX",
-        "price": 3.36,
-        "change_pct": -0.29673590504452063,
+        "price": 3.2,
+        "change_pct": -6.43274853801169,
         "currency": "AUD",
         "exchange": "ASX",
         "name": "Viridis Mining and Minerals",
