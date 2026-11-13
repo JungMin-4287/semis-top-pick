@@ -1,6 +1,6 @@
 {
   "latest": {
-    "as_of": "2026-11-13T04:06:42.144522+08:00",
+    "as_of": "2026-11-13T14:56:23.518657+08:00",
     "source_date": "2026-11-12",
     "prices": {
       "concentrate": {
@@ -288,13 +288,6 @@
   ],
   "news": [
     {
-      "published": "Mon, 09 Nov 2026 08:00:00 GMT",
-      "title": "FAQ: Tungsten APT Rotterdam/Baltimore (Fastmarkets) Futures - CME Group",
-      "source": "CME Group",
-      "stage": "APT",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE94UnJ2eWNkVGNMaXp2VVd6LXlYNmg0X2c2VlNuZC1MYWtrbHJSTE9rckM5TDA1UHlTV1c2UzNfODI5WkRZeGdxaWhudkhvRDlVZ1VEbGgwdnAzNzRGSks2MUxINkdkTzNKUkoyMVRQZkFvdw?oc=5"
-    },
-    {
       "published": "Thu, 05 Nov 2026 19:50:52 GMT",
       "title": "3D-printed tungsten tiles tested at DIII-D - American Nuclear Society",
       "source": "American Nuclear Society",
@@ -316,25 +309,11 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQnEyQk96aEtwdE9fVVhzYlJkWW1oU1VVbVdNRW5IWjY4YVdXRFFaR040dEh0ZjlqWWo3U2c0NTNyQ2RIRmhudkhUem1uVzRWT2Nqdk1WbmVNM05haGtjZk91UUhXclJiOVFLREJMWV9Tb2FfdUdHQU1MeG43NjdjTlAweENBOHN6SDg0T0NfTjJacnVFU1Rjcm1id0MxZW12RGtuS3ZYTHpoT0JmWHdsM0I2dTM1Zw?oc=5"
     },
     {
-      "published": "Tue, 03 Nov 2026 20:28:45 GMT",
+      "published": "Tue, 03 Nov 2026 08:00:00 GMT",
       "title": "A Tungsten Truce – Allies Cannot Compete for Access - Center for European Policy Analysis (CEPA)",
       "source": "Center for European Policy Analysis (CEPA)",
       "stage": "materials",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPc1JTTzJNZHBKX3N5VWJpQzFEWXZPdUNPUDJYLTYzMmxScnctXzFvWkMzQ1dWNkZuS0xfd3lTWTNJcFotYXMyV3FxVkVFRVFrYkdGS2w1WW9iQ0hMeVBzbkZoZ1RlemgwSUhOZG9KNDJBQlBCcTVqQ1A2emdiNDIteA?oc=5"
-    },
-    {
-      "published": "Mon, 02 Nov 2026 21:00:00 GMT",
-      "title": "Kazakhstan Tungsten Project Targets U.S. Supply Gaps - Environment+Energy Leader",
-      "source": "Environment+Energy Leader",
-      "stage": "materials",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMTdWLTl2aGxUVjdhNTdwbVRBN0dpVzhha1otLWlyZFE0d0dkWGxoWl80eUdJbWRvZ1NfaWE1aDh6YkktVkxQTUdJN1ZmWkdpQ1RXZUhYU3RkbGVESFZ6R3JKSUg5aTFNQzRwNVRRNnVacDZreUtiWl9TMDBsTGhHV241OXJ5RW03UDh5M2VubktrZzl5Zk1BOE55bHJzUGtXRGUzWkRNWjg?oc=5"
-    },
-    {
-      "published": "Sun, 08 Nov 2026 16:46:00 GMT",
-      "title": "'On par with what the DoD pursued during the Cold War': Pentagon’s war stockpile plan hits a minerals wall - Fortune",
-      "source": "Fortune",
-      "stage": "mine/concentrate",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYk16QXpYdk5FdnpoNXhwQVdfX3NKY3UtTXlkVFFMT2pQNUV1NHliVzhDbGRrTFdwUmV3ZW5SZ2hWZUpVQWlwRmJGV2VuYkVOckIyUHBzY19OeF92MHNYMTE1cTFJcVppLXdGSkRNT3plUXlxZjdjRnVxVElLc0Vad2loR3NnZUhmeEJ2WmctbnBqb2FMUmJ3ZWl1R29aUQ?oc=5"
     },
     {
       "published": "Mon, 09 Nov 2026 21:42:24 GMT",
@@ -344,6 +323,20 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdHV4UlZ5RWV3R2huQTl2Zm05SmVpSXdjcHl4Q2ZmLU1OMG4zS3pJUnU5MzhfZ0JiZnM1NkRvUkx1U0RpaXRadmZGNFhZMnczNnQyTnFaR2hJWHJ6LVY2YzZ2MHFJU0hSZ2xUMWlMSU1BemtpY3dWdWR4RmJlYVpIMXlfMmZLVzFsYTZZVUtQak0xdG10N2dLLV9yczJTX0FjdGdkeUtUZC1FaEdIOHc1QQ?oc=5"
     },
     {
+      "published": "Sun, 08 Nov 2026 16:46:00 GMT",
+      "title": "'On par with what the DoD pursued during the Cold War': Pentagon’s war stockpile plan hits a minerals wall - Fortune",
+      "source": "Fortune",
+      "stage": "mine/concentrate",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYk16QXpYdk5FdnpoNXhwQVdfX3NKY3UtTXlkVFFMT2pQNUV1NHliVzhDbGRrTFdwUmV3ZW5SZ2hWZUpVQWlwRmJGV2VuYkVOckIyUHBzY19OeF92MHNYMTE1cTFJcVppLXdGSkRNT3plUXlxZjdjRnVxVElLc0Vad2loR3NnZUhmeEJ2WmctbnBqb2FMUmJ3ZWl1R29aUQ?oc=5"
+    },
+    {
+      "published": "Mon, 02 Nov 2026 08:00:00 GMT",
+      "title": "Kazakhstan Tungsten Project Targets U.S. Supply Gaps - Environment+Energy Leader",
+      "source": "Environment+Energy Leader",
+      "stage": "materials",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMTdWLTl2aGxUVjdhNTdwbVRBN0dpVzhha1otLWlyZFE0d0dkWGxoWl80eUdJbWRvZ1NfaWE1aDh6YkktVkxQTUdJN1ZmWkdpQ1RXZUhYU3RkbGVESFZ6R3JKSUg5aTFNQzRwNVRRNnVacDZreUtiWl9TMDBsTGhHV241OXJ5RW03UDh5M2VubktrZzl5Zk1BOE55bHJzUGtXRGUzWkRNWjg?oc=5"
+    },
+    {
       "published": "Thu, 05 Nov 2026 09:04:48 GMT",
       "title": "Tungsten CEO Says It’s Time B2B Networks Gave Suppliers a Voice - PYMNTS.com",
       "source": "PYMNTS.com",
@@ -351,18 +344,18 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY0U2N2ZQcFJJa1JtNXg1UTEwYzZ3Yk1vM3BadjZtVVBjcTB3eEliUERRZElIUGVremFPZGtBQUNTakNibmJJMGpJeEt0YzkyZjdRWFRELW5aclZSOGtDRC1WRE9keDJxaER3cTBXRmN4eGtkVmQ1Q2lRN25OTlZKSWVCam5tUmY4SEpNTldQZGgzcHVWMmFTZDhsdU1tcVZiWXVkVWw2aFA3dWVPN3c?oc=5"
     },
     {
+      "published": "Thu, 12 Nov 2026 16:46:51 GMT",
+      "title": "Resolution Minerals Targets Gold, Tungsten and Antimony in Idaho as U.S. Critical Minerals Strategy Takes Shape - InvestorNews",
+      "source": "InvestorNews",
+      "stage": "mine/concentrate",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPUFkycGp3UFFxUTJmd3duUWM0UkJUamFVdlhpa2xwS2thTms1REZ2d1QtekRITmdza2tLQ0lJbkxSeHZOX0dVVEYxam44SlNDSkJIOWhsWXVRSVh1aU5MVVg4aFNybk9QTV9OR19DUG4tYkxheFpSbDBvak5DS2VXeWFsYXBucG80R2cxcTZRMXZpeXItZ1l1aHRURXB6THlaekoyUXd3RFoydUtuNkZDUU9FRFNyNWhFTEpXR0V6cnJCVkF5N0FlN2EzWXV0Q3dmRXlDcjZ3Nk03TE9udzZKa2Y5dGFOTmVLSkpqczJQcUQ1TWEzT2ptSg?oc=5"
+    },
+    {
       "published": "Sat, 07 Nov 2026 09:13:17 GMT",
       "title": "Fox Tungsten Ltd. (FOXT.V) stock price, news, quote and history - Yahoo Finance UK",
       "source": "Yahoo Finance UK",
       "stage": "materials",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5oRmFNRElzQlFrdWhac2ZlcEhPM2RjOUdNY0xRak9EeDl5SzRhZjYxbHJwSGdOZjBYeUE0WHhQRTBBeU45ajVxWE51SWNsUjc0QTFCYQ?oc=5"
-    },
-    {
-      "published": "Mon, 09 Nov 2026 15:50:35 GMT",
-      "title": "Japan's Sojitz to buy 5% of Masan's tungsten unit at $2.5B-plus valuation - Dealroom",
-      "source": "Dealroom",
-      "stage": "materials",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb01wS0wwenc2WVZkRDlzWHpSTGdiTnhZUy1yUWxHY1ZfOHNhNDZTdEtCcV9TYXF1Nm95SXBBaXZtcGJQWkh2dUdhWUVLU2RNMFNDNTRUNE5nY294Nkp6VkEzR3dkeTVvT29zQlhtblJhMDR0ektLQVVlMGdNamFZalBRSHpObWM1V0lWUE5SUDFObUpveHZXdV9zRVhwQ3dCQXR2eFZNazk?oc=5"
     },
     {
       "published": "Sat, 31 Oct 2026 09:05:45 GMT",
@@ -379,18 +372,32 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBMVTJ4bVdCN2thMU05Y3hjTW9lRWZSN1lFMUhMeVVRS0gxLXVBcnRPdWdLSmVMVmRxZmJOYVhNMGJYaXRLT0VWeERsTVYxT3BHSl9Ic0IyVzA1ZW16V2kzQVR3VHJtbHdQV1U4OVFoWTY0X0tuUW9DbA?oc=5"
     },
     {
-      "published": "Thu, 12 Nov 2026 16:46:51 GMT",
-      "title": "Resolution Minerals Targets Gold, Tungsten and Antimony in Idaho as U.S. Critical Minerals Strategy Takes Shape - InvestorNews",
-      "source": "InvestorNews",
-      "stage": "mine/concentrate",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPUFkycGp3UFFxUTJmd3duUWM0UkJUamFVdlhpa2xwS2thTms1REZ2d1QtekRITmdza2tLQ0lJbkxSeHZOX0dVVEYxam44SlNDSkJIOWhsWXVRSVh1aU5MVVg4aFNybk9QTV9OR19DUG4tYkxheFpSbDBvak5DS2VXeWFsYXBucG80R2cxcTZRMXZpeXItZ1l1aHRURXB6THlaekoyUXd3RFoydUtuNkZDUU9FRFNyNWhFTEpXR0V6cnJCVkF5N0FlN2EzWXV0Q3dmRXlDcjZ3Nk03TE9udzZKa2Y5dGFOTmVLSkpqczJQcUQ1TWEzT2ptSg?oc=5"
-    },
-    {
       "published": "Tue, 10 Nov 2026 16:12:50 GMT",
       "title": "US lenders said to cool on Trump-linked tungsten plan - The Northern Miner",
       "source": "The Northern Miner",
       "stage": "mine/concentrate",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWG16SkhZYUFLZDhCVTZKczd2U2hkRkNqcGJYd2VVVmFxc2RITnZ1NWxuNkdQekJFOW9PbXNTVkFlRGZHckFEZGtRMmo4WkYwLU1TZ3E1TGU3WEg1NlNySTRtZ2wtYl9aV1ZrUWRlZFlsamthQjlxV3pwc2hEalpUWGRLQ2R2OWlHTmFOQjZta0NZUTdTNGNhcHVPMEtYT0tBZlE?oc=5"
+    },
+    {
+      "published": "Mon, 09 Nov 2026 20:30:42 GMT",
+      "title": "AT4 begins tungsten drilling at Tennessee Mountain in the USA. - Inspenet",
+      "source": "Inspenet",
+      "stage": "materials",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5WanJhTEZBUUY3VWlNVER3VTY0ZGFoYm1ybWFZYTJFemcybGcwYWdwbUQ0OWNmNzhWNGZRc0FhN05BRkU2U0Zhd21manpudHB0ZngwQ3g5WkJlcjZyRFZIQy16d21LWURmcmNldWZBVFlZYW9xNmFGdzJNUmVxUQ?oc=5"
+    },
+    {
+      "published": "Thu, 12 Nov 2026 19:36:24 GMT",
+      "title": "USGS projects tungsten capacity growth through 2030 - Mugglehead Investment Magazine",
+      "source": "Mugglehead Investment Magazine",
+      "stage": "materials",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLS1qZDU4TGI5a0lpU0hGSFlibnZQRkhFTjk4ajBaenBSYVNyQzAxS2hGYmFWY1RCbXVQeTY1YzAtVDlOemdXV3ByalpFV3RDWHJJNXQ3alUzVHA4NV9rcVdwd1E3SVJOZmxHeWUybWF6U0Rld0pzTGNvc0FHeW9Kd3BPUQ?oc=5"
+    },
+    {
+      "published": "Fri, 30 Oct 2026 07:00:00 GMT",
+      "title": "American Tungsten and Antimony completes acquisition of US refinery - Mining Weekly",
+      "source": "Mining Weekly",
+      "stage": "mine/concentrate",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYzAyTWpFVUhPMENwWVZ0dVFjellIanc0NVQyS2xwalBfUUR4VmlDS0JFenhibnNWQk4xUnJnMXZKSl9OZ2NRTDF6V1ZTZkx6UUlfeVBKUWpRMWRfdHNteVNEcFk0NlM4dnpwdVg3SXFndFU3TF9YUm1ONlozQUdqRzl6M2RINFFhcy1OMVE1NzkzM2NnYWY5SUFpWEdLQlJDaU1xdlE5SG9qUF9laHlzYnZJOEJHQQ?oc=5"
     },
     {
       "published": "Mon, 02 Nov 2026 08:00:00 GMT",
@@ -414,13 +421,6 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9vakRkd3FDZGs1Z0t3S1FvRi1YOVlzQWlTYmZzSDdqdldKOTJNSWRqSnZkRmtFRUtBNm5UWGxMRmw0WGFsMFUwS3JMSTV2VktEVHFR?oc=5"
     },
     {
-      "published": "Thu, 05 Nov 2026 16:33:00 GMT",
-      "title": "KMT Q1 Earnings Call Highlights Tungsten Risks and Higher Outlook - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "stage": "materials",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY1VxeUZndjJSOHdGRU5iM3EzSkg1THJfbGhHdm5jUVh4RlJ1S09tQnRsOGdPWks2cFBCajdqVnFDVlNSMjg0azFlXzN2OThIMFZTTDB1WjgtejBoVzlRNG1nNi1hNUZUUi12TjNHMUhkZUYwQ1hYZXdYUUhYMkpFNlZUaFhvZ2pMS1NKemFmenliT0JNd05ETktkQWc?oc=5"
-    },
-    {
       "published": "Wed, 04 Nov 2026 13:48:00 GMT",
       "title": "Fox Tungsten launches PEA for British Columbia tungsten project - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -428,25 +428,25 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOWpVakZhUEI3OUVhRnpvMFZiYUVGTmR3a0dLSU5ETFFQUVltUkI4N3hfek51NzRYanhVSjI5S0VJdnNVMEhGREhqWGZpX2JIcnN2anU5S2VYMEFDUTE5TU9xTTN3d19MUUZYd0FhNVBvU055OEVkN1dMaVRvOWhUOGkxeTBUdw?oc=5"
     },
     {
-      "published": "Thu, 12 Nov 2026 19:36:24 GMT",
-      "title": "USGS projects tungsten capacity growth through 2030 - Mugglehead Investment Magazine",
-      "source": "Mugglehead Investment Magazine",
+      "published": "Thu, 05 Nov 2026 16:33:00 GMT",
+      "title": "KMT Q1 Earnings Call Highlights Tungsten Risks and Higher Outlook - Yahoo Finance",
+      "source": "Yahoo Finance",
       "stage": "materials",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLS1qZDU4TGI5a0lpU0hGSFlibnZQRkhFTjk4ajBaenBSYVNyQzAxS2hGYmFWY1RCbXVQeTY1YzAtVDlOemdXV3ByalpFV3RDWHJJNXQ3alUzVHA4NV9rcVdwd1E3SVJOZmxHeWUybWF6U0Rld0pzTGNvc0FHeW9Kd3BPUQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY1VxeUZndjJSOHdGRU5iM3EzSkg1THJfbGhHdm5jUVh4RlJ1S09tQnRsOGdPWks2cFBCajdqVnFDVlNSMjg0azFlXzN2OThIMFZTTDB1WjgtejBoVzlRNG1nNi1hNUZUUi12TjNHMUhkZUYwQ1hYZXdYUUhYMkpFNlZUaFhvZ2pMS1NKemFmenliT0JNd05ETktkQWc?oc=5"
     },
     {
-      "published": "Fri, 30 Oct 2026 07:00:00 GMT",
-      "title": "American Tungsten and Antimony completes acquisition of US refinery - Mining Weekly",
-      "source": "Mining Weekly",
+      "published": "Mon, 09 Nov 2026 10:15:47 GMT",
+      "title": "Torrent Gold agrees to buy New Mexico’s Sunrise Tungsten Project - Mining Technology",
+      "source": "Mining Technology",
       "stage": "mine/concentrate",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYzAyTWpFVUhPMENwWVZ0dVFjellIanc0NVQyS2xwalBfUUR4VmlDS0JFenhibnNWQk4xUnJnMXZKSl9OZ2NRTDF6V1ZTZkx6UUlfeVBKUWpRMWRfdHNteVNEcFk0NlM4dnpwdVg3SXFndFU3TF9YUm1ONlozQUdqRzl6M2RINFFhcy1OMVE1NzkzM2NnYWY5SUFpWEdLQlJDaU1xdlE5SG9qUF9laHlzYnZJOEJHQQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSFpkYlVLLWxkMWJCSUVScUw2dlRuMGV1ZDRmUUZyaXo0S0hzYVpWcjZ5MXBMOWNRNXhHQUlVWTFOWi1lVmJDby1XSWcyMnc1M1FpNXkyRlNSNGZURllhb0ZxU1dJTWhzb1lwT3J6VzJGM1gxdUE1cnA3NnpPZzNCT3djV095Rnk1?oc=5"
     },
     {
-      "published": "Mon, 09 Nov 2026 20:30:42 GMT",
-      "title": "AT4 begins tungsten drilling at Tennessee Mountain in the USA. - Inspenet",
-      "source": "Inspenet",
+      "published": "Thu, 12 Nov 2026 18:07:05 GMT",
+      "title": "Freemelt secures $3M order from ESS for 7,000 tungsten-based components - Metal Additive Manufacturing magazine",
+      "source": "Metal Additive Manufacturing magazine",
       "stage": "materials",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5WanJhTEZBUUY3VWlNVER3VTY0ZGFoYm1ybWFZYTJFemcybGcwYWdwbUQ0OWNmNzhWNGZRc0FhN05BRkU2U0Zhd21manpudHB0ZngwQ3g5WkJlcjZyRFZIQy16d21LWURmcmNldWZBVFlZYW9xNmFGdzJNUmVxUQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPN3BYd2ZjdFFsTnJ0bnVpT1l3VjZqdDhkN0tldlNIUHFaa20xOG85d3p3MExKaXR3dFl1ZTlfWWtFNlZxVWpfNk1pNHM4eHByQTZOVFRpVGV5QmpjMi1uUHU1UGNFdkExbEhWSXdKVzAtVnloMEpReFdaT2VTLXpCRk5ZaWZuel8yc1dEQ2dBN3dWQTBRUDhaVDBUbw?oc=5"
     },
     {
       "published": "Fri, 06 Nov 2026 15:35:10 GMT",
@@ -463,6 +463,13 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQY0lsNHA3QWZ4RGgyUzEta0IyMU9JUnhKSUppZGxtUC1TbDk2eFJRZ01PdDRaeWdhQ3lkYmlybkFBNkZlS1psRXY2UEg4X3pWaHh4RzJZbnhvb2d5RVZJeXZyX2I4Ql9fckpWeG52VHRJSWhVbE9DeDFreGVnZmhaajN1bzRyZHhjekg0TzQyZnFzV3ZxUjAycjVmTDNDeVg0OVBpOF8tbnlubTMtN1FNUFZfbEVJY2lfOFZwUkdGMnJVUQ?oc=5"
     },
     {
+      "published": "Fri, 13 Nov 2026 05:11:59 GMT",
+      "title": "Almonty Industries Reports Third Quarter 2026 Financial Results - Almonty Industries",
+      "source": "Almonty Industries",
+      "stage": "materials",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LN1k1SHMzeEpQTE9heFlpX1pDNGpmQU9HR29FcFdpU3ZhZnZpS1Z3Qk5aMW83aDJjdUxpUlJPZ0ZabGtpclQ2SUVPdWNkdGNzS1V0eTM3OHplS3hXQ0RMZ0xlMmF6UjJR?oc=5"
+    },
+    {
       "published": "Thu, 12 Nov 2026 11:17:09 GMT",
       "title": "U.S. Financing Uncertainty Emerges for Kazakhstan Tungsten Project - The Times Of Central Asia",
       "source": "The Times Of Central Asia",
@@ -477,6 +484,13 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNb0E2MXJkVngtb216QW5Lb2JYdHBZR2l6V19jS2lsRzBBN1N2ZnJ0dWJQNlZHU2c4S2xNWXNmMWd4R3dONjZKMzd3bHFsZzd1Z3Y5eUxmZ0dyc0ZDUDZxR3V4X2stUFRucHRBdDBOS09BRDlkY3h5NElZeExPSDlKbnRKZEV5MWZlZXRoc0Rzd1E?oc=5"
     },
     {
+      "published": "Thu, 12 Nov 2026 17:02:00 GMT",
+      "title": "How to view the rebound in the tungsten market this round? [SMM Tungsten Analysis] - Shanghai Metals Market",
+      "source": "Shanghai Metals Market",
+      "stage": "materials",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNV3BzTnA0VWdWX0NodTB4NU55VjVfUnJaUnJJM3g2b1JkN1BnMXdOTlFTWHd3N21wNW1FNi05M2stLVA2YXVnTkw0Mko1R1dVTU5reFlJb2FLNDZhblJGRUg1LWNuOFBaZkRsMGFqUnBaSFkxQm9kZkdId0NzM2FnR0czTUYxUEFJelRSTWJHSVBZNXFlVkVaMkcxZ2Q0eEVOVEdobDRLWkNQZ1ExSlNOT2Q2MFA2N1lMUWdFYzBPRUxmLWVNXzBaWWduUERzc0lxTVctcEg2aUFiLVUzaUR0eFc1MHJBNE5MRXc?oc=5"
+    },
+    {
       "published": "Fri, 06 Nov 2026 14:06:00 GMT",
       "title": "Tungsten 3D-printed at 2,552°F survives 74 plasma blasts in US nuclear fusion reactor - Interesting Engineering",
       "source": "Interesting Engineering",
@@ -484,18 +498,11 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZjVHUU5Tbm1WQ2czT3V1Q0pKdXA3RV9BWVFwUlFxcjNvSG5nMjdJMlZrN0ZZV3lOYmNUdS1aNllsb1NQWmtLOWR4S3dJNGJxc1FCZTlTRHgwMWlGQS00YnoyX0Fyejk5OGpuWl9qRWNkRGZwZEpmalM3ZVhWMkpVZnZiM3lqaUtGcUs0RWd3?oc=5"
     },
     {
-      "published": "Wed, 11 Nov 2026 12:04:41 GMT",
-      "title": "Guardian Metal plans separation of non-tungsten projects - Mining Technology",
-      "source": "Mining Technology",
-      "stage": "mine/concentrate",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPN29vM1ZCZ1VwR2o0ZDl2Z0VLUkVCdTR6WUtxQ3dRT2VRSmcwSFNHcFZvRlJRakpBVnlRamxIdURRN2lkc2lVNW84S2F6bVN4bkFoOTBTem1KVjVIQ3FyUUNVR0txOWN1c1pxMWQyaXRhd3ZYNklXNnhOLVlCd3BIc0Y0em5IdDZqUFAtTVFxUFE?oc=5"
-    },
-    {
-      "published": "Fri, 06 Nov 2026 20:00:00 GMT",
-      "title": "Torrent Gold to Acquire Sunset Tungsten Project - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "stage": "materials",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY21icGRBd3NtamFMbHBmbF9ZY1VtQVJINlpqVjUzeVVnUmZZMzdvejNqdzVOWkNiT1g0QmV0dTUxMGFhNXhHbTJ0TWFEeTQyWlVPSzNIUElJWktSeXNtZWRjZWpBNk9RWnZkLVg2VVdxSWIzM3NCZmx4V2Yxclk2LXNIb0JsUFpGaFNMZ2phQkhuMk1jM0VzeUQtXzlTbXpoa2txeEQ3LXdkdw?oc=5"
+      "published": "Fri, 13 Nov 2026 06:18:00 GMT",
+      "title": "[SMM Analysis] October LiPF6 production edged up, with insufficient momentum for production increase in November. - Shanghai Metals Market",
+      "source": "Shanghai Metals Market",
+      "stage": "LiPF6",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPUkcyRTZaSm9xRk94anBKY3kzdU9OZC03eS0tbkZoWTVoVVIzZElpMWVYUDFoRlBYXzRLZUxUUnlPOFM0dF93anMyb2N1d0hpSkFKQ0czNXlobks2MUtSTEpZTTJVcTZENlZjS2xncDVMS2I2dDN5TmRMdmNDWWdzTUpqelJjaDNMM0ljLWRwbkJ2eDlzaG1KVTd6MGVkSVZDRnZXYmtmUkh1XzJNdk02X25oTGtoNTgzUnUweVZsemtfNjBMRkVsWVczbG1RUkE3UV9BaXlSS2ZkOHptd3dvbEtTeVU3NUVueFZBdDRhRDNsOXc4Yzl5ZW1XZjhtLWRNZ0dfRXhwQnVRUW45NUVEZ05B?oc=5"
     },
     {
       "published": "Mon, 09 Nov 2026 21:02:30 GMT",
@@ -541,12 +548,12 @@
     }
   ],
   "equities": {
-    "as_of": "2026-11-12T20:06:40.925362+00:00",
+    "as_of": "2026-11-13T06:56:22.636828+00:00",
     "items": [
       {
         "ticker": "ALM",
-        "price": 7.8,
-        "change_pct": -1.8867924528301883,
+        "price": 7.63,
+        "change_pct": -4.025157232704402,
         "currency": "USD",
         "exchange": "NCM",
         "name": "Almonty Industries",
@@ -554,8 +561,8 @@
       },
       {
         "ticker": "093370.KS",
-        "price": 9170.0,
-        "change_pct": 1.8888888888888955,
+        "price": 9300.0,
+        "change_pct": 13.276492082825818,
         "currency": "KRW",
         "exchange": "KSC",
         "name": "후성",
@@ -563,8 +570,8 @@
       },
       {
         "ticker": "600549.SS",
-        "price": 36.82,
-        "change_pct": 1.6846175089754167,
+        "price": 35.02,
+        "change_pct": -3.0990592141671214,
         "currency": "CNY",
         "exchange": "SHH",
         "name": "Xiamen Tungsten",
@@ -572,8 +579,8 @@
       },
       {
         "ticker": "002378.SZ",
-        "price": 18.1,
-        "change_pct": 1.9718309859154903,
+        "price": 17.37,
+        "change_pct": -1.0820045558086466,
         "currency": "CNY",
         "exchange": "SHZ",
         "name": "Zhangyuan Tungsten",
@@ -581,8 +588,8 @@
       },
       {
         "ticker": "000657.SZ",
-        "price": 40.82,
-        "change_pct": 5.614489003880996,
+        "price": 38.36,
+        "change_pct": 0.07826767545004998,
         "currency": "CNY",
         "exchange": "SHZ",
         "name": "China Tungsten & Hightech",
@@ -590,8 +597,8 @@
       },
       {
         "ticker": "VMM.AX",
-        "price": 3.03,
-        "change_pct": -5.900621118012439,
+        "price": 2.9,
+        "change_pct": -11.585365853658535,
         "currency": "AUD",
         "exchange": "ASX",
         "name": "Viridis Mining and Minerals",
